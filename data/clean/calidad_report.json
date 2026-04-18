@@ -1,0 +1,446 @@
+[
+  {
+    "nombre": "compras",
+    "etapa": "raw",
+    "filas": 864,
+    "columnas": 8,
+    "nulos_por_columna": {
+      "id_orden_compra": 0,
+      "fecha_emision": 0,
+      "fecha_pago": 0,
+      "proveedor": 0,
+      "categoria": 0,
+      "monto_ars": 0,
+      "condicion_pago": 0,
+      "estado": 0
+    },
+    "duplicados": 0,
+    "outliers": {
+      "monto_ars": 128
+    }
+  },
+  {
+    "nombre": "consumo_energetico",
+    "etapa": "raw",
+    "filas": 178,
+    "columnas": 12,
+    "nulos_por_columna": {
+      "id_factura": 0,
+      "fecha": 0,
+      "anio": 0,
+      "mes": 0,
+      "tipo_servicio": 0,
+      "proveedor": 0,
+      "kwh_consumidos": 0,
+      "kwh_generados": 0,
+      "m3_gas": 0,
+      "tarifa_unitaria": 0,
+      "monto_ars": 0,
+      "es_renovable": 0
+    },
+    "duplicados": 0,
+    "outliers": {
+      "kwh_generados": 42,
+      "m3_gas": 40,
+      "tarifa_unitaria": 29,
+      "monto_ars": 20
+    }
+  },
+  {
+    "nombre": "encuestas",
+    "etapa": "raw",
+    "filas": 189,
+    "columnas": 12,
+    "nulos_por_columna": {
+      "id_respuesta": 0,
+      "fecha_encuesta": 0,
+      "anio": 0,
+      "semestre": 0,
+      "id_empleado": 0,
+      "area": 0,
+      "genero": 0,
+      "satisfaccion_gral": 0,
+      "clima_equipo": 0,
+      "liderazgo": 0,
+      "condiciones_fisicas": 0,
+      "recomendaria_empresa": 0
+    },
+    "duplicados": 0,
+    "outliers": {
+      "satisfaccion_gral": 2,
+      "clima_equipo": 1
+    }
+  },
+  {
+    "nombre": "eventos_rrhh",
+    "etapa": "raw",
+    "filas": 537,
+    "columnas": 10,
+    "nulos_por_columna": {
+      "id_evento": 0,
+      "fecha": 0,
+      "anio": 0,
+      "mes": 0,
+      "id_empleado": 0,
+      "tipo_evento": 0,
+      "descripcion": 0,
+      "dias_baja": 0,
+      "horas_capacitacion": 0,
+      "area": 0
+    },
+    "duplicados": 0,
+    "outliers": {
+      "dias_baja": 46
+    }
+  },
+  {
+    "nombre": "personal_nomina",
+    "etapa": "raw",
+    "filas": 1378,
+    "columnas": 12,
+    "nulos_por_columna": {
+      "id_empleado": 0,
+      "nombre": 0,
+      "mes": 0,
+      "anio": 0,
+      "mes_num": 0,
+      "puesto": 0,
+      "area": 0,
+      "genero": 0,
+      "fecha_ingreso": 0,
+      "salario_nominal": 0,
+      "bono_dic": 0,
+      "total_devengado": 0
+    },
+    "duplicados": 0,
+    "outliers": {
+      "salario_nominal": 131,
+      "bono_dic": 118,
+      "total_devengado": 143
+    }
+  },
+  {
+    "nombre": "residuos",
+    "etapa": "raw",
+    "filas": 2508,
+    "columnas": 10,
+    "nulos_por_columna": {
+      "id_registro": 0,
+      "fecha_semana": 0,
+      "anio": 0,
+      "mes": 0,
+      "tipo_residuo": 0,
+      "descripcion": 0,
+      "kg_generados": 0,
+      "kg_reciclados": 0,
+      "kg_disposicion": 0,
+      "operador_retiro": 0
+    },
+    "duplicados": 0,
+    "outliers": {
+      "kg_generados": 315,
+      "kg_reciclados": 280,
+      "kg_disposicion": 38
+    }
+  },
+  {
+    "nombre": "ventas",
+    "etapa": "raw",
+    "filas": 43893,
+    "columnas": 15,
+    "nulos_por_columna": {
+      "id_ticket": 0,
+      "fecha": 0,
+      "hora": 0,
+      "anio": 0,
+      "mes": 0,
+      "id_producto": 0,
+      "nombre_producto": 0,
+      "categoria": 0,
+      "cantidad": 0,
+      "precio_unitario": 0,
+      "descuento_pct": 0,
+      "subtotal_ars": 0,
+      "medio_pago": 0,
+      "vendedor": 0,
+      "canal": 0
+    },
+    "duplicados": 0,
+    "outliers": {
+      "cantidad": 6504,
+      "precio_unitario": 6763,
+      "descuento_pct": 3469,
+      "subtotal_ars": 6808
+    }
+  },
+  {
+    "nombre": "compras",
+    "etapa": "clean",
+    "filas": 864,
+    "columnas": 8,
+    "nulos_por_columna": {
+      "id_orden_compra": 0,
+      "fecha_emision": 0,
+      "fecha_pago": 0,
+      "proveedor": 0,
+      "categoria": 0,
+      "monto_ars": 0,
+      "condicion_pago": 0,
+      "estado": 0
+    },
+    "duplicados": 0,
+    "outliers": {
+      "monto_ars": 128
+    }
+  },
+  {
+    "nombre": "consumo_energetico",
+    "etapa": "clean",
+    "filas": 178,
+    "columnas": 12,
+    "nulos_por_columna": {
+      "id_factura": 0,
+      "fecha": 0,
+      "anio": 0,
+      "mes": 0,
+      "tipo_servicio": 0,
+      "proveedor": 0,
+      "kwh_consumidos": 0,
+      "kwh_generados": 0,
+      "m3_gas": 0,
+      "tarifa_unitaria": 0,
+      "monto_ars": 0,
+      "es_renovable": 0
+    },
+    "duplicados": 0,
+    "outliers": {
+      "kwh_generados": 42,
+      "m3_gas": 40,
+      "tarifa_unitaria": 29,
+      "monto_ars": 20
+    }
+  },
+  {
+    "nombre": "encuestas",
+    "etapa": "clean",
+    "filas": 189,
+    "columnas": 12,
+    "nulos_por_columna": {
+      "id_respuesta": 0,
+      "fecha_encuesta": 0,
+      "anio": 0,
+      "semestre": 0,
+      "id_empleado": 0,
+      "area": 0,
+      "genero": 0,
+      "satisfaccion_gral": 0,
+      "clima_equipo": 0,
+      "liderazgo": 0,
+      "condiciones_fisicas": 0,
+      "recomendaria_empresa": 0
+    },
+    "duplicados": 0,
+    "outliers": {
+      "satisfaccion_gral": 2,
+      "clima_equipo": 1
+    }
+  },
+  {
+    "nombre": "eventos_rrhh",
+    "etapa": "clean",
+    "filas": 537,
+    "columnas": 10,
+    "nulos_por_columna": {
+      "id_evento": 0,
+      "fecha": 0,
+      "anio": 0,
+      "mes": 0,
+      "id_empleado": 0,
+      "tipo_evento": 0,
+      "descripcion": 0,
+      "dias_baja": 0,
+      "horas_capacitacion": 0,
+      "area": 0
+    },
+    "duplicados": 0,
+    "outliers": {
+      "dias_baja": 46
+    }
+  },
+  {
+    "nombre": "personal_nomina",
+    "etapa": "clean",
+    "filas": 1378,
+    "columnas": 12,
+    "nulos_por_columna": {
+      "id_empleado": 0,
+      "nombre": 0,
+      "mes": 0,
+      "anio": 0,
+      "mes_num": 0,
+      "puesto": 0,
+      "area": 0,
+      "genero": 0,
+      "fecha_ingreso": 0,
+      "salario_nominal": 0,
+      "bono_dic": 0,
+      "total_devengado": 0
+    },
+    "duplicados": 0,
+    "outliers": {
+      "salario_nominal": 131,
+      "bono_dic": 118,
+      "total_devengado": 143
+    }
+  },
+  {
+    "nombre": "residuos",
+    "etapa": "clean",
+    "filas": 2508,
+    "columnas": 11,
+    "nulos_por_columna": {
+      "id_registro": 0,
+      "fecha_semana": 0,
+      "anio": 0,
+      "mes": 0,
+      "tipo_residuo": 0,
+      "descripcion": 0,
+      "kg_generados": 0,
+      "kg_reciclados": 0,
+      "kg_disposicion": 0,
+      "operador_retiro": 0,
+      "tasa_reciclaje": 0
+    },
+    "duplicados": 0,
+    "outliers": {
+      "kg_generados": 315,
+      "kg_reciclados": 280,
+      "kg_disposicion": 38
+    }
+  },
+  {
+    "nombre": "ventas",
+    "etapa": "clean",
+    "filas": 43893,
+    "columnas": 15,
+    "nulos_por_columna": {
+      "id_ticket": 0,
+      "fecha": 0,
+      "hora": 0,
+      "anio": 0,
+      "mes": 0,
+      "id_producto": 0,
+      "nombre_producto": 0,
+      "categoria": 0,
+      "cantidad": 0,
+      "precio_unitario": 0,
+      "descuento_pct": 0,
+      "subtotal_ars": 0,
+      "medio_pago": 0,
+      "vendedor": 0,
+      "canal": 0
+    },
+    "duplicados": 0,
+    "outliers": {
+      "cantidad": 6504,
+      "precio_unitario": 6763,
+      "descuento_pct": 3469,
+      "subtotal_ars": 6808
+    }
+  },
+  {
+    "nombre": "compras",
+    "etapa": "clean_outliers",
+    "filas": 864,
+    "columnas": 8,
+    "nulos_por_columna": {
+      "id_orden_compra": 0,
+      "fecha_emision": 0,
+      "fecha_pago": 0,
+      "proveedor": 0,
+      "categoria": 0,
+      "monto_ars": 0,
+      "condicion_pago": 0,
+      "estado": 0
+    },
+    "duplicados": 0,
+    "outliers": {}
+  },
+  {
+    "nombre": "ventas",
+    "etapa": "clean_outliers",
+    "filas": 43893,
+    "columnas": 15,
+    "nulos_por_columna": {
+      "id_ticket": 0,
+      "fecha": 0,
+      "hora": 0,
+      "anio": 0,
+      "mes": 0,
+      "id_producto": 0,
+      "nombre_producto": 0,
+      "categoria": 0,
+      "cantidad": 0,
+      "precio_unitario": 0,
+      "descuento_pct": 0,
+      "subtotal_ars": 0,
+      "medio_pago": 0,
+      "vendedor": 0,
+      "canal": 0
+    },
+    "duplicados": 0,
+    "outliers": {
+      "precio_unitario": 6763,
+      "descuento_pct": 3469
+    }
+  },
+  {
+    "nombre": "consumo_energetico",
+    "etapa": "clean_outliers",
+    "filas": 178,
+    "columnas": 12,
+    "nulos_por_columna": {
+      "id_factura": 0,
+      "fecha": 0,
+      "anio": 0,
+      "mes": 0,
+      "tipo_servicio": 0,
+      "proveedor": 0,
+      "kwh_consumidos": 0,
+      "kwh_generados": 0,
+      "m3_gas": 0,
+      "tarifa_unitaria": 0,
+      "monto_ars": 0,
+      "es_renovable": 0
+    },
+    "duplicados": 0,
+    "outliers": {
+      "kwh_generados": 42,
+      "tarifa_unitaria": 29,
+      "monto_ars": 20
+    }
+  },
+  {
+    "nombre": "residuos",
+    "etapa": "clean_outliers",
+    "filas": 2508,
+    "columnas": 11,
+    "nulos_por_columna": {
+      "id_registro": 0,
+      "fecha_semana": 0,
+      "anio": 0,
+      "mes": 0,
+      "tipo_residuo": 0,
+      "descripcion": 0,
+      "kg_generados": 0,
+      "kg_reciclados": 0,
+      "kg_disposicion": 0,
+      "operador_retiro": 0,
+      "tasa_reciclaje": 0
+    },
+    "duplicados": 0,
+    "outliers": {
+      "kg_disposicion": 38
+    }
+  }
+]

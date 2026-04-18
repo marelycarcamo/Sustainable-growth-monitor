@@ -1,0 +1,6 @@
+factors:
+  co2_per_kwh: 0.0004  # toneladas CO2 por kWh
+
+targets:
+  reciclaje: 60        # % objetivo
+  margen_neto: 12      # % objetivo

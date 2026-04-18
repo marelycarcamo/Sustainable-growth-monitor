@@ -1,0 +1,26 @@
+id_empleado,nombre,area,genero,fecha_ingreso
+E001,"Fernández, Carlos",Administración,M,2018-01-01
+E002,"López, María",Ventas,F,2018-01-01
+E003,"García, Juan",Ventas,M,2018-01-01
+E004,"Martínez, Ana",Ventas,F,2018-01-01
+E005,"Rodríguez, Luis",Taller,M,2018-01-01
+E006,"Sánchez, Pablo",Taller,M,2018-01-01
+E007,"Torres, Sofía",Administración,F,2018-01-01
+E008,"Ramírez, Diego",Logística,M,2018-01-01
+E009,"Flores, Valeria",Ventas,F,2018-01-01
+E010,"Medina, Roberto",Taller,M,2018-03-01
+E011,"Jiménez, Laura",Ventas,F,2019-03-01
+E012,"Peralta, Marcos",Ventas,M,2019-07-01
+E013,"Castro, Luciana",Administración,F,2020-11-01
+E014,"Ruiz, Nicolás",Taller,M,2021-02-01
+E015,"Morales, Camila",Ventas,F,2021-04-01
+E016,"Vargas, Hernán",Logística,M,2021-06-01
+E017,"Acosta, Florencia",Taller,F,2021-09-01
+E018,"Ibáñez, Tomás",Ventas,M,2022-01-01
+E019,"Suárez, Beatriz",Administración,F,2022-07-01
+E020,"Ríos, Agustín",Administración,M,2023-01-01
+E021,"Mendoza, Sofía",Taller,F,2023-06-01
+E022,"Herrera, Matías",Ventas,M,2024-02-01
+E023,"Quiroga, Julia",Logística,F,2024-08-01
+E024,"Navarro, Leandro",Administración,M,2025-01-01
+E025,"Paz, Valentina",Ventas,F,2025-06-01

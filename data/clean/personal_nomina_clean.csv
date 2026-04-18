@@ -1,0 +1,1379 @@
+id_empleado,nombre,mes,anio,mes_num,puesto,area,genero,fecha_ingreso,salario_nominal,bono_dic,total_devengado
+E001,"Fernández, Carlos",2018-01-01,2018,1,Gerente General,Administración,M,2018-01-01,85871.6,0.0,85871.6
+E002,"López, María",2018-01-01,2018,1,Jefe de Ventas,Ventas,F,2018-01-01,54754.51,0.0,54754.51
+E003,"García, Juan",2018-01-01,2018,1,Vendedor Senior,Ventas,M,2018-01-01,37472.41,0.0,37472.41
+E004,"Martínez, Ana",2018-01-01,2018,1,Vendedora,Ventas,F,2018-01-01,31875.61,0.0,31875.61
+E005,"Rodríguez, Luis",2018-01-01,2018,1,Técnico Senior,Taller,M,2018-01-01,42105.17,0.0,42105.17
+E006,"Sánchez, Pablo",2018-01-01,2018,1,Técnico,Taller,M,2018-01-01,33911.22,0.0,33911.22
+E007,"Torres, Sofía",2018-01-01,2018,1,Administrativa,Administración,F,2018-01-01,32928.35,0.0,32928.35
+E008,"Ramírez, Diego",2018-01-01,2018,1,Encargado Depósito,Logística,M,2018-01-01,35341.67,0.0,35341.67
+E009,"Flores, Valeria",2018-01-01,2018,1,Vendedora,Ventas,F,2018-01-01,30273.02,0.0,30273.02
+E010,"Medina, Roberto",2018-01-01,2018,1,Técnico,Taller,M,2018-03-01,31887.48,0.0,31887.48
+E001,"Fernández, Carlos",2018-02-01,2018,2,Gerente General,Administración,M,2018-01-01,83894.42,0.0,83894.42
+E002,"López, María",2018-02-01,2018,2,Jefe de Ventas,Ventas,F,2018-01-01,54941.23,0.0,54941.23
+E003,"García, Juan",2018-02-01,2018,2,Vendedor Senior,Ventas,M,2018-01-01,37811.5,0.0,37811.5
+E004,"Martínez, Ana",2018-02-01,2018,2,Vendedora,Ventas,F,2018-01-01,32039.19,0.0,32039.19
+E005,"Rodríguez, Luis",2018-02-01,2018,2,Técnico Senior,Taller,M,2018-01-01,43073.37,0.0,43073.37
+E006,"Sánchez, Pablo",2018-02-01,2018,2,Técnico,Taller,M,2018-01-01,33745.71,0.0,33745.71
+E007,"Torres, Sofía",2018-02-01,2018,2,Administrativa,Administración,F,2018-01-01,33246.01,0.0,33246.01
+E008,"Ramírez, Diego",2018-02-01,2018,2,Encargado Depósito,Logística,M,2018-01-01,35881.9,0.0,35881.9
+E009,"Flores, Valeria",2018-02-01,2018,2,Vendedora,Ventas,F,2018-01-01,29883.11,0.0,29883.11
+E010,"Medina, Roberto",2018-02-01,2018,2,Técnico,Taller,M,2018-03-01,32401.86,0.0,32401.86
+E001,"Fernández, Carlos",2018-03-01,2018,3,Gerente General,Administración,M,2018-01-01,85154.51,0.0,85154.51
+E002,"López, María",2018-03-01,2018,3,Jefe de Ventas,Ventas,F,2018-01-01,55886.8,0.0,55886.8
+E003,"García, Juan",2018-03-01,2018,3,Vendedor Senior,Ventas,M,2018-01-01,37980.44,0.0,37980.44
+E004,"Martínez, Ana",2018-03-01,2018,3,Vendedora,Ventas,F,2018-01-01,32436.99,0.0,32436.99
+E005,"Rodríguez, Luis",2018-03-01,2018,3,Técnico Senior,Taller,M,2018-01-01,41859.44,0.0,41859.44
+E006,"Sánchez, Pablo",2018-03-01,2018,3,Técnico,Taller,M,2018-01-01,33767.03,0.0,33767.03
+E007,"Torres, Sofía",2018-03-01,2018,3,Administrativa,Administración,F,2018-01-01,33144.43,0.0,33144.43
+E008,"Ramírez, Diego",2018-03-01,2018,3,Encargado Depósito,Logística,M,2018-01-01,36042.56,0.0,36042.56
+E009,"Flores, Valeria",2018-03-01,2018,3,Vendedora,Ventas,F,2018-01-01,29598.69,0.0,29598.69
+E010,"Medina, Roberto",2018-03-01,2018,3,Técnico,Taller,M,2018-03-01,32063.7,0.0,32063.7
+E001,"Fernández, Carlos",2018-04-01,2018,4,Gerente General,Administración,M,2018-01-01,84352.63,0.0,84352.63
+E002,"López, María",2018-04-01,2018,4,Jefe de Ventas,Ventas,F,2018-01-01,55449.29,0.0,55449.29
+E003,"García, Juan",2018-04-01,2018,4,Vendedor Senior,Ventas,M,2018-01-01,37747.74,0.0,37747.74
+E004,"Martínez, Ana",2018-04-01,2018,4,Vendedora,Ventas,F,2018-01-01,31883.55,0.0,31883.55
+E005,"Rodríguez, Luis",2018-04-01,2018,4,Técnico Senior,Taller,M,2018-01-01,41569.51,0.0,41569.51
+E006,"Sánchez, Pablo",2018-04-01,2018,4,Técnico,Taller,M,2018-01-01,34341.51,0.0,34341.51
+E007,"Torres, Sofía",2018-04-01,2018,4,Administrativa,Administración,F,2018-01-01,33141.1,0.0,33141.1
+E008,"Ramírez, Diego",2018-04-01,2018,4,Encargado Depósito,Logística,M,2018-01-01,36819.49,0.0,36819.49
+E009,"Flores, Valeria",2018-04-01,2018,4,Vendedora,Ventas,F,2018-01-01,30378.07,0.0,30378.07
+E010,"Medina, Roberto",2018-04-01,2018,4,Técnico,Taller,M,2018-03-01,31858.78,0.0,31858.78
+E001,"Fernández, Carlos",2018-05-01,2018,5,Gerente General,Administración,M,2018-01-01,83681.84,0.0,83681.84
+E002,"López, María",2018-05-01,2018,5,Jefe de Ventas,Ventas,F,2018-01-01,54654.84,0.0,54654.84
+E003,"García, Juan",2018-05-01,2018,5,Vendedor Senior,Ventas,M,2018-01-01,37940.19,0.0,37940.19
+E004,"Martínez, Ana",2018-05-01,2018,5,Vendedora,Ventas,F,2018-01-01,31423.29,0.0,31423.29
+E005,"Rodríguez, Luis",2018-05-01,2018,5,Técnico Senior,Taller,M,2018-01-01,41643.26,0.0,41643.26
+E006,"Sánchez, Pablo",2018-05-01,2018,5,Técnico,Taller,M,2018-01-01,34345.42,0.0,34345.42
+E007,"Torres, Sofía",2018-05-01,2018,5,Administrativa,Administración,F,2018-01-01,32716.56,0.0,32716.56
+E008,"Ramírez, Diego",2018-05-01,2018,5,Encargado Depósito,Logística,M,2018-01-01,35685.38,0.0,35685.38
+E009,"Flores, Valeria",2018-05-01,2018,5,Vendedora,Ventas,F,2018-01-01,30155.52,0.0,30155.52
+E010,"Medina, Roberto",2018-05-01,2018,5,Técnico,Taller,M,2018-03-01,31826.65,0.0,31826.65
+E001,"Fernández, Carlos",2018-06-01,2018,6,Gerente General,Administración,M,2018-01-01,85010.22,0.0,85010.22
+E002,"López, María",2018-06-01,2018,6,Jefe de Ventas,Ventas,F,2018-01-01,55215.79,0.0,55215.79
+E003,"García, Juan",2018-06-01,2018,6,Vendedor Senior,Ventas,M,2018-01-01,37764.97,0.0,37764.97
+E004,"Martínez, Ana",2018-06-01,2018,6,Vendedora,Ventas,F,2018-01-01,32246.96,0.0,32246.96
+E005,"Rodríguez, Luis",2018-06-01,2018,6,Técnico Senior,Taller,M,2018-01-01,42290.18,0.0,42290.18
+E006,"Sánchez, Pablo",2018-06-01,2018,6,Técnico,Taller,M,2018-01-01,34110.55,0.0,34110.55
+E007,"Torres, Sofía",2018-06-01,2018,6,Administrativa,Administración,F,2018-01-01,33498.73,0.0,33498.73
+E008,"Ramírez, Diego",2018-06-01,2018,6,Encargado Depósito,Logística,M,2018-01-01,36316.53,0.0,36316.53
+E009,"Flores, Valeria",2018-06-01,2018,6,Vendedora,Ventas,F,2018-01-01,29918.35,0.0,29918.35
+E010,"Medina, Roberto",2018-06-01,2018,6,Técnico,Taller,M,2018-03-01,31756.07,0.0,31756.07
+E001,"Fernández, Carlos",2018-07-01,2018,7,Gerente General,Administración,M,2018-01-01,85131.72,0.0,85131.72
+E002,"López, María",2018-07-01,2018,7,Jefe de Ventas,Ventas,F,2018-01-01,54961.94,0.0,54961.94
+E003,"García, Juan",2018-07-01,2018,7,Vendedor Senior,Ventas,M,2018-01-01,37977.67,0.0,37977.67
+E004,"Martínez, Ana",2018-07-01,2018,7,Vendedora,Ventas,F,2018-01-01,31821.0,0.0,31821.0
+E005,"Rodríguez, Luis",2018-07-01,2018,7,Técnico Senior,Taller,M,2018-01-01,42017.24,0.0,42017.24
+E006,"Sánchez, Pablo",2018-07-01,2018,7,Técnico,Taller,M,2018-01-01,34531.15,0.0,34531.15
+E007,"Torres, Sofía",2018-07-01,2018,7,Administrativa,Administración,F,2018-01-01,33227.31,0.0,33227.31
+E008,"Ramírez, Diego",2018-07-01,2018,7,Encargado Depósito,Logística,M,2018-01-01,36049.34,0.0,36049.34
+E009,"Flores, Valeria",2018-07-01,2018,7,Vendedora,Ventas,F,2018-01-01,30371.4,0.0,30371.4
+E010,"Medina, Roberto",2018-07-01,2018,7,Técnico,Taller,M,2018-03-01,32232.67,0.0,32232.67
+E001,"Fernández, Carlos",2018-08-01,2018,8,Gerente General,Administración,M,2018-01-01,84721.96,0.0,84721.96
+E002,"López, María",2018-08-01,2018,8,Jefe de Ventas,Ventas,F,2018-01-01,54970.8,0.0,54970.8
+E003,"García, Juan",2018-08-01,2018,8,Vendedor Senior,Ventas,M,2018-01-01,38342.31,0.0,38342.31
+E004,"Martínez, Ana",2018-08-01,2018,8,Vendedora,Ventas,F,2018-01-01,32076.6,0.0,32076.6
+E005,"Rodríguez, Luis",2018-08-01,2018,8,Técnico Senior,Taller,M,2018-01-01,42179.02,0.0,42179.02
+E006,"Sánchez, Pablo",2018-08-01,2018,8,Técnico,Taller,M,2018-01-01,33573.82,0.0,33573.82
+E007,"Torres, Sofía",2018-08-01,2018,8,Administrativa,Administración,F,2018-01-01,32826.29,0.0,32826.29
+E008,"Ramírez, Diego",2018-08-01,2018,8,Encargado Depósito,Logística,M,2018-01-01,35979.32,0.0,35979.32
+E009,"Flores, Valeria",2018-08-01,2018,8,Vendedora,Ventas,F,2018-01-01,30339.51,0.0,30339.51
+E010,"Medina, Roberto",2018-08-01,2018,8,Técnico,Taller,M,2018-03-01,32605.08,0.0,32605.08
+E001,"Fernández, Carlos",2018-09-01,2018,9,Gerente General,Administración,M,2018-01-01,84234.58,0.0,84234.58
+E002,"López, María",2018-09-01,2018,9,Jefe de Ventas,Ventas,F,2018-01-01,54658.43,0.0,54658.43
+E003,"García, Juan",2018-09-01,2018,9,Vendedor Senior,Ventas,M,2018-01-01,38169.91,0.0,38169.91
+E004,"Martínez, Ana",2018-09-01,2018,9,Vendedora,Ventas,F,2018-01-01,32680.6,0.0,32680.6
+E005,"Rodríguez, Luis",2018-09-01,2018,9,Técnico Senior,Taller,M,2018-01-01,41581.59,0.0,41581.59
+E006,"Sánchez, Pablo",2018-09-01,2018,9,Técnico,Taller,M,2018-01-01,33332.66,0.0,33332.66
+E007,"Torres, Sofía",2018-09-01,2018,9,Administrativa,Administración,F,2018-01-01,33054.16,0.0,33054.16
+E008,"Ramírez, Diego",2018-09-01,2018,9,Encargado Depósito,Logística,M,2018-01-01,35514.35,0.0,35514.35
+E009,"Flores, Valeria",2018-09-01,2018,9,Vendedora,Ventas,F,2018-01-01,30170.27,0.0,30170.27
+E010,"Medina, Roberto",2018-09-01,2018,9,Técnico,Taller,M,2018-03-01,32249.99,0.0,32249.99
+E001,"Fernández, Carlos",2018-10-01,2018,10,Gerente General,Administración,M,2018-01-01,84812.87,0.0,84812.87
+E002,"López, María",2018-10-01,2018,10,Jefe de Ventas,Ventas,F,2018-01-01,54752.72,0.0,54752.72
+E003,"García, Juan",2018-10-01,2018,10,Vendedor Senior,Ventas,M,2018-01-01,37729.29,0.0,37729.29
+E004,"Martínez, Ana",2018-10-01,2018,10,Vendedora,Ventas,F,2018-01-01,32020.79,0.0,32020.79
+E005,"Rodríguez, Luis",2018-10-01,2018,10,Técnico Senior,Taller,M,2018-01-01,41446.33,0.0,41446.33
+E006,"Sánchez, Pablo",2018-10-01,2018,10,Técnico,Taller,M,2018-01-01,33843.39,0.0,33843.39
+E007,"Torres, Sofía",2018-10-01,2018,10,Administrativa,Administración,F,2018-01-01,32759.0,0.0,32759.0
+E008,"Ramírez, Diego",2018-10-01,2018,10,Encargado Depósito,Logística,M,2018-01-01,36099.46,0.0,36099.46
+E009,"Flores, Valeria",2018-10-01,2018,10,Vendedora,Ventas,F,2018-01-01,30104.54,0.0,30104.54
+E010,"Medina, Roberto",2018-10-01,2018,10,Técnico,Taller,M,2018-03-01,32451.14,0.0,32451.14
+E001,"Fernández, Carlos",2018-11-01,2018,11,Gerente General,Administración,M,2018-01-01,84167.19,0.0,84167.19
+E002,"López, María",2018-11-01,2018,11,Jefe de Ventas,Ventas,F,2018-01-01,54809.9,0.0,54809.9
+E003,"García, Juan",2018-11-01,2018,11,Vendedor Senior,Ventas,M,2018-01-01,38355.51,0.0,38355.51
+E004,"Martínez, Ana",2018-11-01,2018,11,Vendedora,Ventas,F,2018-01-01,32151.62,0.0,32151.62
+E005,"Rodríguez, Luis",2018-11-01,2018,11,Técnico Senior,Taller,M,2018-01-01,41722.6,0.0,41722.6
+E006,"Sánchez, Pablo",2018-11-01,2018,11,Técnico,Taller,M,2018-01-01,33550.25,0.0,33550.25
+E007,"Torres, Sofía",2018-11-01,2018,11,Administrativa,Administración,F,2018-01-01,33610.6,0.0,33610.6
+E008,"Ramírez, Diego",2018-11-01,2018,11,Encargado Depósito,Logística,M,2018-01-01,35426.64,0.0,35426.64
+E009,"Flores, Valeria",2018-11-01,2018,11,Vendedora,Ventas,F,2018-01-01,29625.6,0.0,29625.6
+E010,"Medina, Roberto",2018-11-01,2018,11,Técnico,Taller,M,2018-03-01,32059.87,0.0,32059.87
+E001,"Fernández, Carlos",2018-12-01,2018,12,Gerente General,Administración,M,2018-01-01,85816.76,42908.38,128725.14
+E002,"López, María",2018-12-01,2018,12,Jefe de Ventas,Ventas,F,2018-01-01,54517.66,27258.83,81776.48
+E003,"García, Juan",2018-12-01,2018,12,Vendedor Senior,Ventas,M,2018-01-01,38259.25,19129.63,57388.88
+E004,"Martínez, Ana",2018-12-01,2018,12,Vendedora,Ventas,F,2018-01-01,31677.0,15838.5,47515.5
+E005,"Rodríguez, Luis",2018-12-01,2018,12,Técnico Senior,Taller,M,2018-01-01,42336.47,21168.24,63504.71
+E006,"Sánchez, Pablo",2018-12-01,2018,12,Técnico,Taller,M,2018-01-01,34276.49,17138.24,51414.73
+E007,"Torres, Sofía",2018-12-01,2018,12,Administrativa,Administración,F,2018-01-01,32710.34,16355.17,49065.51
+E008,"Ramírez, Diego",2018-12-01,2018,12,Encargado Depósito,Logística,M,2018-01-01,36316.05,18158.03,54474.08
+E009,"Flores, Valeria",2018-12-01,2018,12,Vendedora,Ventas,F,2018-01-01,29705.72,14852.86,44558.58
+E010,"Medina, Roberto",2018-12-01,2018,12,Técnico,Taller,M,2018-03-01,31206.19,15603.09,46809.28
+E001,"Fernández, Carlos",2019-01-01,2019,1,Gerente General,Administración,M,2018-01-01,125614.76,0.0,125614.76
+E002,"López, María",2019-01-01,2019,1,Jefe de Ventas,Ventas,F,2018-01-01,81713.97,0.0,81713.97
+E003,"García, Juan",2019-01-01,2019,1,Vendedor Senior,Ventas,M,2018-01-01,56666.81,0.0,56666.81
+E004,"Martínez, Ana",2019-01-01,2019,1,Vendedora,Ventas,F,2018-01-01,47868.4,0.0,47868.4
+E005,"Rodríguez, Luis",2019-01-01,2019,1,Técnico Senior,Taller,M,2018-01-01,61513.62,0.0,61513.62
+E006,"Sánchez, Pablo",2019-01-01,2019,1,Técnico,Taller,M,2018-01-01,50314.44,0.0,50314.44
+E007,"Torres, Sofía",2019-01-01,2019,1,Administrativa,Administración,F,2018-01-01,48624.4,0.0,48624.4
+E008,"Ramírez, Diego",2019-01-01,2019,1,Encargado Depósito,Logística,M,2018-01-01,53273.25,0.0,53273.25
+E009,"Flores, Valeria",2019-01-01,2019,1,Vendedora,Ventas,F,2018-01-01,45421.56,0.0,45421.56
+E010,"Medina, Roberto",2019-01-01,2019,1,Técnico,Taller,M,2018-03-01,47269.29,0.0,47269.29
+E001,"Fernández, Carlos",2019-02-01,2019,2,Gerente General,Administración,M,2018-01-01,124566.87,0.0,124566.87
+E002,"López, María",2019-02-01,2019,2,Jefe de Ventas,Ventas,F,2018-01-01,81191.9,0.0,81191.9
+E003,"García, Juan",2019-02-01,2019,2,Vendedor Senior,Ventas,M,2018-01-01,56715.51,0.0,56715.51
+E004,"Martínez, Ana",2019-02-01,2019,2,Vendedora,Ventas,F,2018-01-01,47589.57,0.0,47589.57
+E005,"Rodríguez, Luis",2019-02-01,2019,2,Técnico Senior,Taller,M,2018-01-01,62806.67,0.0,62806.67
+E006,"Sánchez, Pablo",2019-02-01,2019,2,Técnico,Taller,M,2018-01-01,51250.12,0.0,51250.12
+E007,"Torres, Sofía",2019-02-01,2019,2,Administrativa,Administración,F,2018-01-01,49721.95,0.0,49721.95
+E008,"Ramírez, Diego",2019-02-01,2019,2,Encargado Depósito,Logística,M,2018-01-01,52852.32,0.0,52852.32
+E009,"Flores, Valeria",2019-02-01,2019,2,Vendedora,Ventas,F,2018-01-01,44732.69,0.0,44732.69
+E010,"Medina, Roberto",2019-02-01,2019,2,Técnico,Taller,M,2018-03-01,46531.77,0.0,46531.77
+E001,"Fernández, Carlos",2019-03-01,2019,3,Gerente General,Administración,M,2018-01-01,127173.48,0.0,127173.48
+E002,"López, María",2019-03-01,2019,3,Jefe de Ventas,Ventas,F,2018-01-01,80139.66,0.0,80139.66
+E003,"García, Juan",2019-03-01,2019,3,Vendedor Senior,Ventas,M,2018-01-01,55371.81,0.0,55371.81
+E004,"Martínez, Ana",2019-03-01,2019,3,Vendedora,Ventas,F,2018-01-01,47270.2,0.0,47270.2
+E005,"Rodríguez, Luis",2019-03-01,2019,3,Técnico Senior,Taller,M,2018-01-01,62738.82,0.0,62738.82
+E006,"Sánchez, Pablo",2019-03-01,2019,3,Técnico,Taller,M,2018-01-01,49847.47,0.0,49847.47
+E007,"Torres, Sofía",2019-03-01,2019,3,Administrativa,Administración,F,2018-01-01,48581.49,0.0,48581.49
+E008,"Ramírez, Diego",2019-03-01,2019,3,Encargado Depósito,Logística,M,2018-01-01,52835.15,0.0,52835.15
+E009,"Flores, Valeria",2019-03-01,2019,3,Vendedora,Ventas,F,2018-01-01,44465.62,0.0,44465.62
+E010,"Medina, Roberto",2019-03-01,2019,3,Técnico,Taller,M,2018-03-01,47796.55,0.0,47796.55
+E011,"Jiménez, Laura",2019-03-01,2019,3,Vendedora,Ventas,F,2019-03-01,48848.46,0.0,48848.46
+E001,"Fernández, Carlos",2019-04-01,2019,4,Gerente General,Administración,M,2018-01-01,125019.22,0.0,125019.22
+E002,"López, María",2019-04-01,2019,4,Jefe de Ventas,Ventas,F,2018-01-01,82648.62,0.0,82648.62
+E003,"García, Juan",2019-04-01,2019,4,Vendedor Senior,Ventas,M,2018-01-01,56812.67,0.0,56812.67
+E004,"Martínez, Ana",2019-04-01,2019,4,Vendedora,Ventas,F,2018-01-01,46989.08,0.0,46989.08
+E005,"Rodríguez, Luis",2019-04-01,2019,4,Técnico Senior,Taller,M,2018-01-01,61604.67,0.0,61604.67
+E006,"Sánchez, Pablo",2019-04-01,2019,4,Técnico,Taller,M,2018-01-01,50115.65,0.0,50115.65
+E007,"Torres, Sofía",2019-04-01,2019,4,Administrativa,Administración,F,2018-01-01,49318.79,0.0,49318.79
+E008,"Ramírez, Diego",2019-04-01,2019,4,Encargado Depósito,Logística,M,2018-01-01,51899.49,0.0,51899.49
+E009,"Flores, Valeria",2019-04-01,2019,4,Vendedora,Ventas,F,2018-01-01,44981.43,0.0,44981.43
+E010,"Medina, Roberto",2019-04-01,2019,4,Técnico,Taller,M,2018-03-01,47190.45,0.0,47190.45
+E011,"Jiménez, Laura",2019-04-01,2019,4,Vendedora,Ventas,F,2019-03-01,48242.05,0.0,48242.05
+E001,"Fernández, Carlos",2019-05-01,2019,5,Gerente General,Administración,M,2018-01-01,125978.41,0.0,125978.41
+E002,"López, María",2019-05-01,2019,5,Jefe de Ventas,Ventas,F,2018-01-01,81628.96,0.0,81628.96
+E003,"García, Juan",2019-05-01,2019,5,Vendedor Senior,Ventas,M,2018-01-01,56729.77,0.0,56729.77
+E004,"Martínez, Ana",2019-05-01,2019,5,Vendedora,Ventas,F,2018-01-01,47903.06,0.0,47903.06
+E005,"Rodríguez, Luis",2019-05-01,2019,5,Técnico Senior,Taller,M,2018-01-01,62375.02,0.0,62375.02
+E006,"Sánchez, Pablo",2019-05-01,2019,5,Técnico,Taller,M,2018-01-01,50574.52,0.0,50574.52
+E007,"Torres, Sofía",2019-05-01,2019,5,Administrativa,Administración,F,2018-01-01,48871.4,0.0,48871.4
+E008,"Ramírez, Diego",2019-05-01,2019,5,Encargado Depósito,Logística,M,2018-01-01,53634.34,0.0,53634.34
+E009,"Flores, Valeria",2019-05-01,2019,5,Vendedora,Ventas,F,2018-01-01,44128.99,0.0,44128.99
+E010,"Medina, Roberto",2019-05-01,2019,5,Técnico,Taller,M,2018-03-01,47174.39,0.0,47174.39
+E011,"Jiménez, Laura",2019-05-01,2019,5,Vendedora,Ventas,F,2019-03-01,48074.6,0.0,48074.6
+E001,"Fernández, Carlos",2019-06-01,2019,6,Gerente General,Administración,M,2018-01-01,127877.17,0.0,127877.17
+E002,"López, María",2019-06-01,2019,6,Jefe de Ventas,Ventas,F,2018-01-01,80886.13,0.0,80886.13
+E003,"García, Juan",2019-06-01,2019,6,Vendedor Senior,Ventas,M,2018-01-01,56844.87,0.0,56844.87
+E004,"Martínez, Ana",2019-06-01,2019,6,Vendedora,Ventas,F,2018-01-01,47956.15,0.0,47956.15
+E005,"Rodríguez, Luis",2019-06-01,2019,6,Técnico Senior,Taller,M,2018-01-01,61199.26,0.0,61199.26
+E006,"Sánchez, Pablo",2019-06-01,2019,6,Técnico,Taller,M,2018-01-01,50388.69,0.0,50388.69
+E007,"Torres, Sofía",2019-06-01,2019,6,Administrativa,Administración,F,2018-01-01,49160.61,0.0,49160.61
+E008,"Ramírez, Diego",2019-06-01,2019,6,Encargado Depósito,Logística,M,2018-01-01,52986.22,0.0,52986.22
+E009,"Flores, Valeria",2019-06-01,2019,6,Vendedora,Ventas,F,2018-01-01,43792.91,0.0,43792.91
+E010,"Medina, Roberto",2019-06-01,2019,6,Técnico,Taller,M,2018-03-01,48062.61,0.0,48062.61
+E011,"Jiménez, Laura",2019-06-01,2019,6,Vendedora,Ventas,F,2019-03-01,49156.59,0.0,49156.59
+E001,"Fernández, Carlos",2019-07-01,2019,7,Gerente General,Administración,M,2018-01-01,125852.0,0.0,125852.0
+E002,"López, María",2019-07-01,2019,7,Jefe de Ventas,Ventas,F,2018-01-01,80548.52,0.0,80548.52
+E003,"García, Juan",2019-07-01,2019,7,Vendedor Senior,Ventas,M,2018-01-01,55669.26,0.0,55669.26
+E004,"Martínez, Ana",2019-07-01,2019,7,Vendedora,Ventas,F,2018-01-01,47439.28,0.0,47439.28
+E005,"Rodríguez, Luis",2019-07-01,2019,7,Técnico Senior,Taller,M,2018-01-01,61870.83,0.0,61870.83
+E006,"Sánchez, Pablo",2019-07-01,2019,7,Técnico,Taller,M,2018-01-01,50430.26,0.0,50430.26
+E007,"Torres, Sofía",2019-07-01,2019,7,Administrativa,Administración,F,2018-01-01,49022.15,0.0,49022.15
+E008,"Ramírez, Diego",2019-07-01,2019,7,Encargado Depósito,Logística,M,2018-01-01,53039.57,0.0,53039.57
+E009,"Flores, Valeria",2019-07-01,2019,7,Vendedora,Ventas,F,2018-01-01,45151.94,0.0,45151.94
+E010,"Medina, Roberto",2019-07-01,2019,7,Técnico,Taller,M,2018-03-01,47002.33,0.0,47002.33
+E011,"Jiménez, Laura",2019-07-01,2019,7,Vendedora,Ventas,F,2019-03-01,48376.54,0.0,48376.54
+E012,"Peralta, Marcos",2019-07-01,2019,7,Vendedor,Ventas,M,2019-07-01,49045.04,0.0,49045.04
+E001,"Fernández, Carlos",2019-08-01,2019,8,Gerente General,Administración,M,2018-01-01,126405.9,0.0,126405.9
+E002,"López, María",2019-08-01,2019,8,Jefe de Ventas,Ventas,F,2018-01-01,80584.76,0.0,80584.76
+E003,"García, Juan",2019-08-01,2019,8,Vendedor Senior,Ventas,M,2018-01-01,56046.97,0.0,56046.97
+E004,"Martínez, Ana",2019-08-01,2019,8,Vendedora,Ventas,F,2018-01-01,46630.46,0.0,46630.46
+E005,"Rodríguez, Luis",2019-08-01,2019,8,Técnico Senior,Taller,M,2018-01-01,61808.77,0.0,61808.77
+E006,"Sánchez, Pablo",2019-08-01,2019,8,Técnico,Taller,M,2018-01-01,50724.01,0.0,50724.01
+E007,"Torres, Sofía",2019-08-01,2019,8,Administrativa,Administración,F,2018-01-01,48208.05,0.0,48208.05
+E008,"Ramírez, Diego",2019-08-01,2019,8,Encargado Depósito,Logística,M,2018-01-01,52698.51,0.0,52698.51
+E009,"Flores, Valeria",2019-08-01,2019,8,Vendedora,Ventas,F,2018-01-01,44031.94,0.0,44031.94
+E010,"Medina, Roberto",2019-08-01,2019,8,Técnico,Taller,M,2018-03-01,47900.26,0.0,47900.26
+E011,"Jiménez, Laura",2019-08-01,2019,8,Vendedora,Ventas,F,2019-03-01,49328.18,0.0,49328.18
+E012,"Peralta, Marcos",2019-08-01,2019,8,Vendedor,Ventas,M,2019-07-01,47815.58,0.0,47815.58
+E001,"Fernández, Carlos",2019-09-01,2019,9,Gerente General,Administración,M,2018-01-01,123552.14,0.0,123552.14
+E002,"López, María",2019-09-01,2019,9,Jefe de Ventas,Ventas,F,2018-01-01,81471.94,0.0,81471.94
+E003,"García, Juan",2019-09-01,2019,9,Vendedor Senior,Ventas,M,2018-01-01,55335.76,0.0,55335.76
+E004,"Martínez, Ana",2019-09-01,2019,9,Vendedora,Ventas,F,2018-01-01,47931.68,0.0,47931.68
+E005,"Rodríguez, Luis",2019-09-01,2019,9,Técnico Senior,Taller,M,2018-01-01,60792.86,0.0,60792.86
+E006,"Sánchez, Pablo",2019-09-01,2019,9,Técnico,Taller,M,2018-01-01,49941.65,0.0,49941.65
+E007,"Torres, Sofía",2019-09-01,2019,9,Administrativa,Administración,F,2018-01-01,48941.52,0.0,48941.52
+E008,"Ramírez, Diego",2019-09-01,2019,9,Encargado Depósito,Logística,M,2018-01-01,54065.08,0.0,54065.08
+E009,"Flores, Valeria",2019-09-01,2019,9,Vendedora,Ventas,F,2018-01-01,44398.12,0.0,44398.12
+E010,"Medina, Roberto",2019-09-01,2019,9,Técnico,Taller,M,2018-03-01,47509.88,0.0,47509.88
+E011,"Jiménez, Laura",2019-09-01,2019,9,Vendedora,Ventas,F,2019-03-01,48926.68,0.0,48926.68
+E012,"Peralta, Marcos",2019-09-01,2019,9,Vendedor,Ventas,M,2019-07-01,49299.41,0.0,49299.41
+E001,"Fernández, Carlos",2019-10-01,2019,10,Gerente General,Administración,M,2018-01-01,126187.28,0.0,126187.28
+E002,"López, María",2019-10-01,2019,10,Jefe de Ventas,Ventas,F,2018-01-01,82000.52,0.0,82000.52
+E003,"García, Juan",2019-10-01,2019,10,Vendedor Senior,Ventas,M,2018-01-01,56666.03,0.0,56666.03
+E004,"Martínez, Ana",2019-10-01,2019,10,Vendedora,Ventas,F,2018-01-01,47876.03,0.0,47876.03
+E005,"Rodríguez, Luis",2019-10-01,2019,10,Técnico Senior,Taller,M,2018-01-01,60809.04,0.0,60809.04
+E006,"Sánchez, Pablo",2019-10-01,2019,10,Técnico,Taller,M,2018-01-01,49554.52,0.0,49554.52
+E007,"Torres, Sofía",2019-10-01,2019,10,Administrativa,Administración,F,2018-01-01,49170.47,0.0,49170.47
+E008,"Ramírez, Diego",2019-10-01,2019,10,Encargado Depósito,Logística,M,2018-01-01,54326.24,0.0,54326.24
+E010,"Medina, Roberto",2019-10-01,2019,10,Técnico,Taller,M,2018-03-01,47514.02,0.0,47514.02
+E011,"Jiménez, Laura",2019-10-01,2019,10,Vendedora,Ventas,F,2019-03-01,48714.1,0.0,48714.1
+E012,"Peralta, Marcos",2019-10-01,2019,10,Vendedor,Ventas,M,2019-07-01,49321.25,0.0,49321.25
+E001,"Fernández, Carlos",2019-11-01,2019,11,Gerente General,Administración,M,2018-01-01,127462.38,0.0,127462.38
+E002,"López, María",2019-11-01,2019,11,Jefe de Ventas,Ventas,F,2018-01-01,81948.26,0.0,81948.26
+E003,"García, Juan",2019-11-01,2019,11,Vendedor Senior,Ventas,M,2018-01-01,56219.96,0.0,56219.96
+E004,"Martínez, Ana",2019-11-01,2019,11,Vendedora,Ventas,F,2018-01-01,47383.43,0.0,47383.43
+E005,"Rodríguez, Luis",2019-11-01,2019,11,Técnico Senior,Taller,M,2018-01-01,62323.51,0.0,62323.51
+E006,"Sánchez, Pablo",2019-11-01,2019,11,Técnico,Taller,M,2018-01-01,50986.9,0.0,50986.9
+E007,"Torres, Sofía",2019-11-01,2019,11,Administrativa,Administración,F,2018-01-01,49045.51,0.0,49045.51
+E008,"Ramírez, Diego",2019-11-01,2019,11,Encargado Depósito,Logística,M,2018-01-01,53511.17,0.0,53511.17
+E010,"Medina, Roberto",2019-11-01,2019,11,Técnico,Taller,M,2018-03-01,47812.67,0.0,47812.67
+E011,"Jiménez, Laura",2019-11-01,2019,11,Vendedora,Ventas,F,2019-03-01,48815.84,0.0,48815.84
+E012,"Peralta, Marcos",2019-11-01,2019,11,Vendedor,Ventas,M,2019-07-01,48965.86,0.0,48965.86
+E001,"Fernández, Carlos",2019-12-01,2019,12,Gerente General,Administración,M,2018-01-01,128271.56,64135.78,192407.34
+E002,"López, María",2019-12-01,2019,12,Jefe de Ventas,Ventas,F,2018-01-01,80882.48,40441.24,121323.72
+E003,"García, Juan",2019-12-01,2019,12,Vendedor Senior,Ventas,M,2018-01-01,55919.29,27959.65,83878.94
+E004,"Martínez, Ana",2019-12-01,2019,12,Vendedora,Ventas,F,2018-01-01,46953.09,23476.55,70429.64
+E005,"Rodríguez, Luis",2019-12-01,2019,12,Técnico Senior,Taller,M,2018-01-01,62356.25,31178.13,93534.38
+E006,"Sánchez, Pablo",2019-12-01,2019,12,Técnico,Taller,M,2018-01-01,50508.98,25254.49,75763.46
+E007,"Torres, Sofía",2019-12-01,2019,12,Administrativa,Administración,F,2018-01-01,47903.8,23951.9,71855.7
+E008,"Ramírez, Diego",2019-12-01,2019,12,Encargado Depósito,Logística,M,2018-01-01,53793.72,26896.86,80690.58
+E010,"Medina, Roberto",2019-12-01,2019,12,Técnico,Taller,M,2018-03-01,46847.55,23423.78,70271.33
+E011,"Jiménez, Laura",2019-12-01,2019,12,Vendedora,Ventas,F,2019-03-01,49059.86,24529.93,73589.78
+E012,"Peralta, Marcos",2019-12-01,2019,12,Vendedor,Ventas,M,2019-07-01,48902.15,24451.08,73353.23
+E001,"Fernández, Carlos",2020-01-01,2020,1,Gerente General,Administración,M,2018-01-01,188242.66,0.0,188242.66
+E002,"López, María",2020-01-01,2020,1,Jefe de Ventas,Ventas,F,2018-01-01,122388.75,0.0,122388.75
+E003,"García, Juan",2020-01-01,2020,1,Vendedor Senior,Ventas,M,2018-01-01,85638.19,0.0,85638.19
+E004,"Martínez, Ana",2020-01-01,2020,1,Vendedora,Ventas,F,2018-01-01,73793.51,0.0,73793.51
+E005,"Rodríguez, Luis",2020-01-01,2020,1,Técnico Senior,Taller,M,2018-01-01,93932.64,0.0,93932.64
+E006,"Sánchez, Pablo",2020-01-01,2020,1,Técnico,Taller,M,2018-01-01,78354.45,0.0,78354.45
+E007,"Torres, Sofía",2020-01-01,2020,1,Administrativa,Administración,F,2018-01-01,73885.17,0.0,73885.17
+E008,"Ramírez, Diego",2020-01-01,2020,1,Encargado Depósito,Logística,M,2018-01-01,80257.69,0.0,80257.69
+E010,"Medina, Roberto",2020-01-01,2020,1,Técnico,Taller,M,2018-03-01,73150.78,0.0,73150.78
+E011,"Jiménez, Laura",2020-01-01,2020,1,Vendedora,Ventas,F,2019-03-01,75187.48,0.0,75187.48
+E012,"Peralta, Marcos",2020-01-01,2020,1,Vendedor,Ventas,M,2019-07-01,73890.07,0.0,73890.07
+E001,"Fernández, Carlos",2020-02-01,2020,2,Gerente General,Administración,M,2018-01-01,191403.32,0.0,191403.32
+E002,"López, María",2020-02-01,2020,2,Jefe de Ventas,Ventas,F,2018-01-01,125738.39,0.0,125738.39
+E003,"García, Juan",2020-02-01,2020,2,Vendedor Senior,Ventas,M,2018-01-01,86288.21,0.0,86288.21
+E004,"Martínez, Ana",2020-02-01,2020,2,Vendedora,Ventas,F,2018-01-01,73387.09,0.0,73387.09
+E005,"Rodríguez, Luis",2020-02-01,2020,2,Técnico Senior,Taller,M,2018-01-01,95404.5,0.0,95404.5
+E006,"Sánchez, Pablo",2020-02-01,2020,2,Técnico,Taller,M,2018-01-01,78257.68,0.0,78257.68
+E007,"Torres, Sofía",2020-02-01,2020,2,Administrativa,Administración,F,2018-01-01,74351.16,0.0,74351.16
+E008,"Ramírez, Diego",2020-02-01,2020,2,Encargado Depósito,Logística,M,2018-01-01,82533.32,0.0,82533.32
+E010,"Medina, Roberto",2020-02-01,2020,2,Técnico,Taller,M,2018-03-01,72009.66,0.0,72009.66
+E011,"Jiménez, Laura",2020-02-01,2020,2,Vendedora,Ventas,F,2019-03-01,75444.94,0.0,75444.94
+E012,"Peralta, Marcos",2020-02-01,2020,2,Vendedor,Ventas,M,2019-07-01,75694.65,0.0,75694.65
+E001,"Fernández, Carlos",2020-03-01,2020,3,Gerente General,Administración,M,2018-01-01,191672.81,0.0,191672.81
+E002,"López, María",2020-03-01,2020,3,Jefe de Ventas,Ventas,F,2018-01-01,125829.85,0.0,125829.85
+E003,"García, Juan",2020-03-01,2020,3,Vendedor Senior,Ventas,M,2018-01-01,87097.83,0.0,87097.83
+E004,"Martínez, Ana",2020-03-01,2020,3,Vendedora,Ventas,F,2018-01-01,73298.9,0.0,73298.9
+E005,"Rodríguez, Luis",2020-03-01,2020,3,Técnico Senior,Taller,M,2018-01-01,95011.89,0.0,95011.89
+E006,"Sánchez, Pablo",2020-03-01,2020,3,Técnico,Taller,M,2018-01-01,77211.01,0.0,77211.01
+E007,"Torres, Sofía",2020-03-01,2020,3,Administrativa,Administración,F,2018-01-01,76499.14,0.0,76499.14
+E008,"Ramírez, Diego",2020-03-01,2020,3,Encargado Depósito,Logística,M,2018-01-01,81325.17,0.0,81325.17
+E010,"Medina, Roberto",2020-03-01,2020,3,Técnico,Taller,M,2018-03-01,73036.68,0.0,73036.68
+E011,"Jiménez, Laura",2020-03-01,2020,3,Vendedora,Ventas,F,2019-03-01,75058.2,0.0,75058.2
+E001,"Fernández, Carlos",2020-04-01,2020,4,Gerente General,Administración,M,2018-01-01,194386.0,0.0,194386.0
+E002,"López, María",2020-04-01,2020,4,Jefe de Ventas,Ventas,F,2018-01-01,127116.54,0.0,127116.54
+E003,"García, Juan",2020-04-01,2020,4,Vendedor Senior,Ventas,M,2018-01-01,86097.2,0.0,86097.2
+E004,"Martínez, Ana",2020-04-01,2020,4,Vendedora,Ventas,F,2018-01-01,73200.82,0.0,73200.82
+E005,"Rodríguez, Luis",2020-04-01,2020,4,Técnico Senior,Taller,M,2018-01-01,96404.88,0.0,96404.88
+E006,"Sánchez, Pablo",2020-04-01,2020,4,Técnico,Taller,M,2018-01-01,77235.82,0.0,77235.82
+E007,"Torres, Sofía",2020-04-01,2020,4,Administrativa,Administración,F,2018-01-01,74575.23,0.0,74575.23
+E008,"Ramírez, Diego",2020-04-01,2020,4,Encargado Depósito,Logística,M,2018-01-01,82133.94,0.0,82133.94
+E010,"Medina, Roberto",2020-04-01,2020,4,Técnico,Taller,M,2018-03-01,72951.05,0.0,72951.05
+E011,"Jiménez, Laura",2020-04-01,2020,4,Vendedora,Ventas,F,2019-03-01,73981.67,0.0,73981.67
+E001,"Fernández, Carlos",2020-05-01,2020,5,Gerente General,Administración,M,2018-01-01,192208.23,0.0,192208.23
+E002,"López, María",2020-05-01,2020,5,Jefe de Ventas,Ventas,F,2018-01-01,126266.18,0.0,126266.18
+E003,"García, Juan",2020-05-01,2020,5,Vendedor Senior,Ventas,M,2018-01-01,86219.44,0.0,86219.44
+E004,"Martínez, Ana",2020-05-01,2020,5,Vendedora,Ventas,F,2018-01-01,73270.96,0.0,73270.96
+E005,"Rodríguez, Luis",2020-05-01,2020,5,Técnico Senior,Taller,M,2018-01-01,94720.79,0.0,94720.79
+E006,"Sánchez, Pablo",2020-05-01,2020,5,Técnico,Taller,M,2018-01-01,77589.96,0.0,77589.96
+E007,"Torres, Sofía",2020-05-01,2020,5,Administrativa,Administración,F,2018-01-01,75306.56,0.0,75306.56
+E008,"Ramírez, Diego",2020-05-01,2020,5,Encargado Depósito,Logística,M,2018-01-01,82296.65,0.0,82296.65
+E010,"Medina, Roberto",2020-05-01,2020,5,Técnico,Taller,M,2018-03-01,72659.3,0.0,72659.3
+E011,"Jiménez, Laura",2020-05-01,2020,5,Vendedora,Ventas,F,2019-03-01,75333.05,0.0,75333.05
+E001,"Fernández, Carlos",2020-06-01,2020,6,Gerente General,Administración,M,2018-01-01,197403.6,0.0,197403.6
+E002,"López, María",2020-06-01,2020,6,Jefe de Ventas,Ventas,F,2018-01-01,125881.81,0.0,125881.81
+E003,"García, Juan",2020-06-01,2020,6,Vendedor Senior,Ventas,M,2018-01-01,87884.76,0.0,87884.76
+E004,"Martínez, Ana",2020-06-01,2020,6,Vendedora,Ventas,F,2018-01-01,72808.23,0.0,72808.23
+E005,"Rodríguez, Luis",2020-06-01,2020,6,Técnico Senior,Taller,M,2018-01-01,93246.55,0.0,93246.55
+E006,"Sánchez, Pablo",2020-06-01,2020,6,Técnico,Taller,M,2018-01-01,78075.07,0.0,78075.07
+E007,"Torres, Sofía",2020-06-01,2020,6,Administrativa,Administración,F,2018-01-01,76691.75,0.0,76691.75
+E008,"Ramírez, Diego",2020-06-01,2020,6,Encargado Depósito,Logística,M,2018-01-01,82164.46,0.0,82164.46
+E010,"Medina, Roberto",2020-06-01,2020,6,Técnico,Taller,M,2018-03-01,72518.16,0.0,72518.16
+E011,"Jiménez, Laura",2020-06-01,2020,6,Vendedora,Ventas,F,2019-03-01,75280.49,0.0,75280.49
+E001,"Fernández, Carlos",2020-07-01,2020,7,Gerente General,Administración,M,2018-01-01,195991.75,0.0,195991.75
+E002,"López, María",2020-07-01,2020,7,Jefe de Ventas,Ventas,F,2018-01-01,125527.02,0.0,125527.02
+E003,"García, Juan",2020-07-01,2020,7,Vendedor Senior,Ventas,M,2018-01-01,86025.06,0.0,86025.06
+E004,"Martínez, Ana",2020-07-01,2020,7,Vendedora,Ventas,F,2018-01-01,72214.48,0.0,72214.48
+E005,"Rodríguez, Luis",2020-07-01,2020,7,Técnico Senior,Taller,M,2018-01-01,96410.42,0.0,96410.42
+E006,"Sánchez, Pablo",2020-07-01,2020,7,Técnico,Taller,M,2018-01-01,79919.54,0.0,79919.54
+E007,"Torres, Sofía",2020-07-01,2020,7,Administrativa,Administración,F,2018-01-01,74333.76,0.0,74333.76
+E008,"Ramírez, Diego",2020-07-01,2020,7,Encargado Depósito,Logística,M,2018-01-01,82565.11,0.0,82565.11
+E010,"Medina, Roberto",2020-07-01,2020,7,Técnico,Taller,M,2018-03-01,73436.0,0.0,73436.0
+E011,"Jiménez, Laura",2020-07-01,2020,7,Vendedora,Ventas,F,2019-03-01,74370.23,0.0,74370.23
+E001,"Fernández, Carlos",2020-08-01,2020,8,Gerente General,Administración,M,2018-01-01,195292.63,0.0,195292.63
+E002,"López, María",2020-08-01,2020,8,Jefe de Ventas,Ventas,F,2018-01-01,127908.2,0.0,127908.2
+E003,"García, Juan",2020-08-01,2020,8,Vendedor Senior,Ventas,M,2018-01-01,87436.86,0.0,87436.86
+E004,"Martínez, Ana",2020-08-01,2020,8,Vendedora,Ventas,F,2018-01-01,72667.09,0.0,72667.09
+E005,"Rodríguez, Luis",2020-08-01,2020,8,Técnico Senior,Taller,M,2018-01-01,94423.1,0.0,94423.1
+E006,"Sánchez, Pablo",2020-08-01,2020,8,Técnico,Taller,M,2018-01-01,77839.82,0.0,77839.82
+E007,"Torres, Sofía",2020-08-01,2020,8,Administrativa,Administración,F,2018-01-01,75104.26,0.0,75104.26
+E008,"Ramírez, Diego",2020-08-01,2020,8,Encargado Depósito,Logística,M,2018-01-01,82590.72,0.0,82590.72
+E010,"Medina, Roberto",2020-08-01,2020,8,Técnico,Taller,M,2018-03-01,72716.01,0.0,72716.01
+E011,"Jiménez, Laura",2020-08-01,2020,8,Vendedora,Ventas,F,2019-03-01,74525.68,0.0,74525.68
+E001,"Fernández, Carlos",2020-09-01,2020,9,Gerente General,Administración,M,2018-01-01,193872.76,0.0,193872.76
+E002,"López, María",2020-09-01,2020,9,Jefe de Ventas,Ventas,F,2018-01-01,126816.0,0.0,126816.0
+E003,"García, Juan",2020-09-01,2020,9,Vendedor Senior,Ventas,M,2018-01-01,87314.31,0.0,87314.31
+E004,"Martínez, Ana",2020-09-01,2020,9,Vendedora,Ventas,F,2018-01-01,72729.0,0.0,72729.0
+E005,"Rodríguez, Luis",2020-09-01,2020,9,Técnico Senior,Taller,M,2018-01-01,94597.63,0.0,94597.63
+E006,"Sánchez, Pablo",2020-09-01,2020,9,Técnico,Taller,M,2018-01-01,77267.92,0.0,77267.92
+E007,"Torres, Sofía",2020-09-01,2020,9,Administrativa,Administración,F,2018-01-01,74975.87,0.0,74975.87
+E008,"Ramírez, Diego",2020-09-01,2020,9,Encargado Depósito,Logística,M,2018-01-01,82009.77,0.0,82009.77
+E010,"Medina, Roberto",2020-09-01,2020,9,Técnico,Taller,M,2018-03-01,74378.21,0.0,74378.21
+E011,"Jiménez, Laura",2020-09-01,2020,9,Vendedora,Ventas,F,2019-03-01,74980.31,0.0,74980.31
+E012,"Peralta, Marcos",2020-09-01,2020,9,Vendedor,Ventas,M,2020-09-01,82159.71,0.0,82159.71
+E001,"Fernández, Carlos",2020-10-01,2020,10,Gerente General,Administración,M,2018-01-01,195237.79,0.0,195237.79
+E002,"López, María",2020-10-01,2020,10,Jefe de Ventas,Ventas,F,2018-01-01,125991.68,0.0,125991.68
+E003,"García, Juan",2020-10-01,2020,10,Vendedor Senior,Ventas,M,2018-01-01,87879.01,0.0,87879.01
+E004,"Martínez, Ana",2020-10-01,2020,10,Vendedora,Ventas,F,2018-01-01,72537.88,0.0,72537.88
+E005,"Rodríguez, Luis",2020-10-01,2020,10,Técnico Senior,Taller,M,2018-01-01,95091.89,0.0,95091.89
+E006,"Sánchez, Pablo",2020-10-01,2020,10,Técnico,Taller,M,2018-01-01,77207.81,0.0,77207.81
+E007,"Torres, Sofía",2020-10-01,2020,10,Administrativa,Administración,F,2018-01-01,74514.28,0.0,74514.28
+E008,"Ramírez, Diego",2020-10-01,2020,10,Encargado Depósito,Logística,M,2018-01-01,82095.78,0.0,82095.78
+E010,"Medina, Roberto",2020-10-01,2020,10,Técnico,Taller,M,2018-03-01,73048.37,0.0,73048.37
+E011,"Jiménez, Laura",2020-10-01,2020,10,Vendedora,Ventas,F,2019-03-01,74963.21,0.0,74963.21
+E012,"Peralta, Marcos",2020-10-01,2020,10,Vendedor,Ventas,M,2020-09-01,82500.01,0.0,82500.01
+E001,"Fernández, Carlos",2020-11-01,2020,11,Gerente General,Administración,M,2018-01-01,194847.48,0.0,194847.48
+E002,"López, María",2020-11-01,2020,11,Jefe de Ventas,Ventas,F,2018-01-01,124440.77,0.0,124440.77
+E003,"García, Juan",2020-11-01,2020,11,Vendedor Senior,Ventas,M,2018-01-01,87107.23,0.0,87107.23
+E004,"Martínez, Ana",2020-11-01,2020,11,Vendedora,Ventas,F,2018-01-01,72093.0,0.0,72093.0
+E005,"Rodríguez, Luis",2020-11-01,2020,11,Técnico Senior,Taller,M,2018-01-01,94838.39,0.0,94838.39
+E006,"Sánchez, Pablo",2020-11-01,2020,11,Técnico,Taller,M,2018-01-01,78601.58,0.0,78601.58
+E007,"Torres, Sofía",2020-11-01,2020,11,Administrativa,Administración,F,2018-01-01,75042.66,0.0,75042.66
+E008,"Ramírez, Diego",2020-11-01,2020,11,Encargado Depósito,Logística,M,2018-01-01,81885.13,0.0,81885.13
+E010,"Medina, Roberto",2020-11-01,2020,11,Técnico,Taller,M,2018-03-01,74150.19,0.0,74150.19
+E011,"Jiménez, Laura",2020-11-01,2020,11,Vendedora,Ventas,F,2019-03-01,75345.52,0.0,75345.52
+E012,"Peralta, Marcos",2020-11-01,2020,11,Vendedor,Ventas,M,2020-09-01,81838.85,0.0,81838.85
+E013,"Castro, Luciana",2020-11-01,2020,11,Administrativa,Administración,F,2020-11-01,79054.36,0.0,79054.36
+E001,"Fernández, Carlos",2020-12-01,2020,12,Gerente General,Administración,M,2018-01-01,194633.51,97316.76,291950.27
+E002,"López, María",2020-12-01,2020,12,Jefe de Ventas,Ventas,F,2018-01-01,127173.01,63586.51,190759.52
+E003,"García, Juan",2020-12-01,2020,12,Vendedor Senior,Ventas,M,2018-01-01,86551.47,43275.73,129827.2
+E004,"Martínez, Ana",2020-12-01,2020,12,Vendedora,Ventas,F,2018-01-01,73874.3,36937.15,110811.45
+E005,"Rodríguez, Luis",2020-12-01,2020,12,Técnico Senior,Taller,M,2018-01-01,95587.56,47793.78,143381.33
+E006,"Sánchez, Pablo",2020-12-01,2020,12,Técnico,Taller,M,2018-01-01,76907.52,38453.76,115361.28
+E007,"Torres, Sofía",2020-12-01,2020,12,Administrativa,Administración,F,2018-01-01,74848.09,37424.04,112272.13
+E008,"Ramírez, Diego",2020-12-01,2020,12,Encargado Depósito,Logística,M,2018-01-01,81440.02,40720.01,122160.03
+E010,"Medina, Roberto",2020-12-01,2020,12,Técnico,Taller,M,2018-03-01,73938.98,36969.49,110908.47
+E011,"Jiménez, Laura",2020-12-01,2020,12,Vendedora,Ventas,F,2019-03-01,76064.38,38032.19,114096.57
+E012,"Peralta, Marcos",2020-12-01,2020,12,Vendedor,Ventas,M,2020-09-01,82371.08,41185.54,123556.62
+E013,"Castro, Luciana",2020-12-01,2020,12,Administrativa,Administración,F,2020-11-01,77880.74,38940.37,116821.12
+E001,"Fernández, Carlos",2021-01-01,2021,1,Gerente General,Administración,M,2018-01-01,267369.19,0.0,267369.19
+E002,"López, María",2021-01-01,2021,1,Jefe de Ventas,Ventas,F,2018-01-01,169833.95,0.0,169833.95
+E003,"García, Juan",2021-01-01,2021,1,Vendedor Senior,Ventas,M,2018-01-01,117056.52,0.0,117056.52
+E004,"Martínez, Ana",2021-01-01,2021,1,Vendedora,Ventas,F,2018-01-01,98860.46,0.0,98860.46
+E005,"Rodríguez, Luis",2021-01-01,2021,1,Técnico Senior,Taller,M,2018-01-01,130239.82,0.0,130239.82
+E006,"Sánchez, Pablo",2021-01-01,2021,1,Técnico,Taller,M,2018-01-01,105843.82,0.0,105843.82
+E007,"Torres, Sofía",2021-01-01,2021,1,Administrativa,Administración,F,2018-01-01,103403.12,0.0,103403.12
+E008,"Ramírez, Diego",2021-01-01,2021,1,Encargado Depósito,Logística,M,2018-01-01,112179.17,0.0,112179.17
+E010,"Medina, Roberto",2021-01-01,2021,1,Técnico,Taller,M,2018-03-01,99219.38,0.0,99219.38
+E011,"Jiménez, Laura",2021-01-01,2021,1,Vendedora,Ventas,F,2019-03-01,101910.3,0.0,101910.3
+E012,"Peralta, Marcos",2021-01-01,2021,1,Vendedor,Ventas,M,2020-09-01,110609.87,0.0,110609.87
+E013,"Castro, Luciana",2021-01-01,2021,1,Administrativa,Administración,F,2020-11-01,108902.21,0.0,108902.21
+E001,"Fernández, Carlos",2021-02-01,2021,2,Gerente General,Administración,M,2018-01-01,264870.91,0.0,264870.91
+E002,"López, María",2021-02-01,2021,2,Jefe de Ventas,Ventas,F,2018-01-01,169182.34,0.0,169182.34
+E003,"García, Juan",2021-02-01,2021,2,Vendedor Senior,Ventas,M,2018-01-01,116547.4,0.0,116547.4
+E004,"Martínez, Ana",2021-02-01,2021,2,Vendedora,Ventas,F,2018-01-01,99968.09,0.0,99968.09
+E005,"Rodríguez, Luis",2021-02-01,2021,2,Técnico Senior,Taller,M,2018-01-01,129638.56,0.0,129638.56
+E006,"Sánchez, Pablo",2021-02-01,2021,2,Técnico,Taller,M,2018-01-01,104159.51,0.0,104159.51
+E007,"Torres, Sofía",2021-02-01,2021,2,Administrativa,Administración,F,2018-01-01,101322.09,0.0,101322.09
+E008,"Ramírez, Diego",2021-02-01,2021,2,Encargado Depósito,Logística,M,2018-01-01,112165.67,0.0,112165.67
+E010,"Medina, Roberto",2021-02-01,2021,2,Técnico,Taller,M,2018-03-01,100749.68,0.0,100749.68
+E011,"Jiménez, Laura",2021-02-01,2021,2,Vendedora,Ventas,F,2019-03-01,103329.35,0.0,103329.35
+E012,"Peralta, Marcos",2021-02-01,2021,2,Vendedor,Ventas,M,2020-09-01,109493.83,0.0,109493.83
+E013,"Castro, Luciana",2021-02-01,2021,2,Administrativa,Administración,F,2020-11-01,108385.53,0.0,108385.53
+E014,"Ruiz, Nicolás",2021-02-01,2021,2,Técnico,Taller,M,2021-02-01,131250.24,0.0,131250.24
+E001,"Fernández, Carlos",2021-03-01,2021,3,Gerente General,Administración,M,2018-01-01,259587.25,0.0,259587.25
+E002,"López, María",2021-03-01,2021,3,Jefe de Ventas,Ventas,F,2018-01-01,173244.0,0.0,173244.0
+E003,"García, Juan",2021-03-01,2021,3,Vendedor Senior,Ventas,M,2018-01-01,115667.07,0.0,115667.07
+E004,"Martínez, Ana",2021-03-01,2021,3,Vendedora,Ventas,F,2018-01-01,99790.72,0.0,99790.72
+E005,"Rodríguez, Luis",2021-03-01,2021,3,Técnico Senior,Taller,M,2018-01-01,129731.57,0.0,129731.57
+E006,"Sánchez, Pablo",2021-03-01,2021,3,Técnico,Taller,M,2018-01-01,105620.24,0.0,105620.24
+E007,"Torres, Sofía",2021-03-01,2021,3,Administrativa,Administración,F,2018-01-01,102378.3,0.0,102378.3
+E008,"Ramírez, Diego",2021-03-01,2021,3,Encargado Depósito,Logística,M,2018-01-01,110612.84,0.0,110612.84
+E010,"Medina, Roberto",2021-03-01,2021,3,Técnico,Taller,M,2018-03-01,99722.23,0.0,99722.23
+E011,"Jiménez, Laura",2021-03-01,2021,3,Vendedora,Ventas,F,2019-03-01,102058.6,0.0,102058.6
+E012,"Peralta, Marcos",2021-03-01,2021,3,Vendedor,Ventas,M,2020-09-01,112240.34,0.0,112240.34
+E013,"Castro, Luciana",2021-03-01,2021,3,Administrativa,Administración,F,2020-11-01,107784.3,0.0,107784.3
+E014,"Ruiz, Nicolás",2021-03-01,2021,3,Técnico,Taller,M,2021-02-01,129870.16,0.0,129870.16
+E001,"Fernández, Carlos",2021-04-01,2021,4,Gerente General,Administración,M,2018-01-01,264942.04,0.0,264942.04
+E002,"López, María",2021-04-01,2021,4,Jefe de Ventas,Ventas,F,2018-01-01,169251.28,0.0,169251.28
+E003,"García, Juan",2021-04-01,2021,4,Vendedor Senior,Ventas,M,2018-01-01,119168.81,0.0,119168.81
+E004,"Martínez, Ana",2021-04-01,2021,4,Vendedora,Ventas,F,2018-01-01,99483.71,0.0,99483.71
+E005,"Rodríguez, Luis",2021-04-01,2021,4,Técnico Senior,Taller,M,2018-01-01,132769.37,0.0,132769.37
+E006,"Sánchez, Pablo",2021-04-01,2021,4,Técnico,Taller,M,2018-01-01,105217.3,0.0,105217.3
+E007,"Torres, Sofía",2021-04-01,2021,4,Administrativa,Administración,F,2018-01-01,102569.92,0.0,102569.92
+E008,"Ramírez, Diego",2021-04-01,2021,4,Encargado Depósito,Logística,M,2018-01-01,111337.97,0.0,111337.97
+E010,"Medina, Roberto",2021-04-01,2021,4,Técnico,Taller,M,2018-03-01,99196.42,0.0,99196.42
+E011,"Jiménez, Laura",2021-04-01,2021,4,Vendedora,Ventas,F,2019-03-01,102858.79,0.0,102858.79
+E012,"Peralta, Marcos",2021-04-01,2021,4,Vendedor,Ventas,M,2020-09-01,113395.61,0.0,113395.61
+E013,"Castro, Luciana",2021-04-01,2021,4,Administrativa,Administración,F,2020-11-01,110042.41,0.0,110042.41
+E014,"Ruiz, Nicolás",2021-04-01,2021,4,Técnico,Taller,M,2021-02-01,131204.72,0.0,131204.72
+E015,"Morales, Camila",2021-04-01,2021,4,Vendedora,Ventas,F,2021-04-01,116531.77,0.0,116531.77
+E001,"Fernández, Carlos",2021-05-01,2021,5,Gerente General,Administración,M,2018-01-01,262504.63,0.0,262504.63
+E002,"López, María",2021-05-01,2021,5,Jefe de Ventas,Ventas,F,2018-01-01,171480.59,0.0,171480.59
+E003,"García, Juan",2021-05-01,2021,5,Vendedor Senior,Ventas,M,2018-01-01,116851.56,0.0,116851.56
+E004,"Martínez, Ana",2021-05-01,2021,5,Vendedora,Ventas,F,2018-01-01,99174.44,0.0,99174.44
+E005,"Rodríguez, Luis",2021-05-01,2021,5,Técnico Senior,Taller,M,2018-01-01,130396.85,0.0,130396.85
+E006,"Sánchez, Pablo",2021-05-01,2021,5,Técnico,Taller,M,2018-01-01,107308.7,0.0,107308.7
+E007,"Torres, Sofía",2021-05-01,2021,5,Administrativa,Administración,F,2018-01-01,102129.69,0.0,102129.69
+E008,"Ramírez, Diego",2021-05-01,2021,5,Encargado Depósito,Logística,M,2018-01-01,109834.08,0.0,109834.08
+E010,"Medina, Roberto",2021-05-01,2021,5,Técnico,Taller,M,2018-03-01,99955.19,0.0,99955.19
+E011,"Jiménez, Laura",2021-05-01,2021,5,Vendedora,Ventas,F,2019-03-01,103359.31,0.0,103359.31
+E012,"Peralta, Marcos",2021-05-01,2021,5,Vendedor,Ventas,M,2020-09-01,114132.34,0.0,114132.34
+E013,"Castro, Luciana",2021-05-01,2021,5,Administrativa,Administración,F,2020-11-01,108012.36,0.0,108012.36
+E014,"Ruiz, Nicolás",2021-05-01,2021,5,Técnico,Taller,M,2021-02-01,128400.66,0.0,128400.66
+E015,"Morales, Camila",2021-05-01,2021,5,Vendedora,Ventas,F,2021-04-01,118204.39,0.0,118204.39
+E001,"Fernández, Carlos",2021-06-01,2021,6,Gerente General,Administración,M,2018-01-01,264857.06,0.0,264857.06
+E002,"López, María",2021-06-01,2021,6,Jefe de Ventas,Ventas,F,2018-01-01,171470.24,0.0,171470.24
+E003,"García, Juan",2021-06-01,2021,6,Vendedor Senior,Ventas,M,2018-01-01,117313.82,0.0,117313.82
+E004,"Martínez, Ana",2021-06-01,2021,6,Vendedora,Ventas,F,2018-01-01,99615.58,0.0,99615.58
+E005,"Rodríguez, Luis",2021-06-01,2021,6,Técnico Senior,Taller,M,2018-01-01,130326.75,0.0,130326.75
+E006,"Sánchez, Pablo",2021-06-01,2021,6,Técnico,Taller,M,2018-01-01,104796.66,0.0,104796.66
+E007,"Torres, Sofía",2021-06-01,2021,6,Administrativa,Administración,F,2018-01-01,101168.47,0.0,101168.47
+E008,"Ramírez, Diego",2021-06-01,2021,6,Encargado Depósito,Logística,M,2018-01-01,111228.57,0.0,111228.57
+E010,"Medina, Roberto",2021-06-01,2021,6,Técnico,Taller,M,2018-03-01,99123.82,0.0,99123.82
+E011,"Jiménez, Laura",2021-06-01,2021,6,Vendedora,Ventas,F,2019-03-01,102993.06,0.0,102993.06
+E012,"Peralta, Marcos",2021-06-01,2021,6,Vendedor,Ventas,M,2020-09-01,111554.48,0.0,111554.48
+E013,"Castro, Luciana",2021-06-01,2021,6,Administrativa,Administración,F,2020-11-01,107934.4,0.0,107934.4
+E014,"Ruiz, Nicolás",2021-06-01,2021,6,Técnico,Taller,M,2021-02-01,130886.79,0.0,130886.79
+E015,"Morales, Camila",2021-06-01,2021,6,Vendedora,Ventas,F,2021-04-01,117703.6,0.0,117703.6
+E016,"Vargas, Hernán",2021-06-01,2021,6,Depósito,Logística,M,2021-06-01,110814.21,0.0,110814.21
+E001,"Fernández, Carlos",2021-07-01,2021,7,Gerente General,Administración,M,2018-01-01,264373.29,0.0,264373.29
+E002,"López, María",2021-07-01,2021,7,Jefe de Ventas,Ventas,F,2018-01-01,171623.2,0.0,171623.2
+E003,"García, Juan",2021-07-01,2021,7,Vendedor Senior,Ventas,M,2018-01-01,117684.16,0.0,117684.16
+E004,"Martínez, Ana",2021-07-01,2021,7,Vendedora,Ventas,F,2018-01-01,100827.39,0.0,100827.39
+E005,"Rodríguez, Luis",2021-07-01,2021,7,Técnico Senior,Taller,M,2018-01-01,131796.47,0.0,131796.47
+E006,"Sánchez, Pablo",2021-07-01,2021,7,Técnico,Taller,M,2018-01-01,105939.66,0.0,105939.66
+E007,"Torres, Sofía",2021-07-01,2021,7,Administrativa,Administración,F,2018-01-01,101917.17,0.0,101917.17
+E008,"Ramírez, Diego",2021-07-01,2021,7,Encargado Depósito,Logística,M,2018-01-01,109558.58,0.0,109558.58
+E010,"Medina, Roberto",2021-07-01,2021,7,Técnico,Taller,M,2018-03-01,97984.11,0.0,97984.11
+E011,"Jiménez, Laura",2021-07-01,2021,7,Vendedora,Ventas,F,2019-03-01,103201.1,0.0,103201.1
+E012,"Peralta, Marcos",2021-07-01,2021,7,Vendedor,Ventas,M,2020-09-01,110558.79,0.0,110558.79
+E013,"Castro, Luciana",2021-07-01,2021,7,Administrativa,Administración,F,2020-11-01,108934.85,0.0,108934.85
+E014,"Ruiz, Nicolás",2021-07-01,2021,7,Técnico,Taller,M,2021-02-01,129024.15,0.0,129024.15
+E015,"Morales, Camila",2021-07-01,2021,7,Vendedora,Ventas,F,2021-04-01,117576.07,0.0,117576.07
+E016,"Vargas, Hernán",2021-07-01,2021,7,Depósito,Logística,M,2021-06-01,111053.56,0.0,111053.56
+E001,"Fernández, Carlos",2021-08-01,2021,8,Gerente General,Administración,M,2018-01-01,265679.22,0.0,265679.22
+E002,"López, María",2021-08-01,2021,8,Jefe de Ventas,Ventas,F,2018-01-01,172029.64,0.0,172029.64
+E003,"García, Juan",2021-08-01,2021,8,Vendedor Senior,Ventas,M,2018-01-01,115884.16,0.0,115884.16
+E004,"Martínez, Ana",2021-08-01,2021,8,Vendedora,Ventas,F,2018-01-01,100529.33,0.0,100529.33
+E005,"Rodríguez, Luis",2021-08-01,2021,8,Técnico Senior,Taller,M,2018-01-01,129847.15,0.0,129847.15
+E007,"Torres, Sofía",2021-08-01,2021,8,Administrativa,Administración,F,2018-01-01,103401.22,0.0,103401.22
+E008,"Ramírez, Diego",2021-08-01,2021,8,Encargado Depósito,Logística,M,2018-01-01,113057.46,0.0,113057.46
+E010,"Medina, Roberto",2021-08-01,2021,8,Técnico,Taller,M,2018-03-01,98631.6,0.0,98631.6
+E011,"Jiménez, Laura",2021-08-01,2021,8,Vendedora,Ventas,F,2019-03-01,103947.64,0.0,103947.64
+E012,"Peralta, Marcos",2021-08-01,2021,8,Vendedor,Ventas,M,2020-09-01,109593.91,0.0,109593.91
+E013,"Castro, Luciana",2021-08-01,2021,8,Administrativa,Administración,F,2020-11-01,107366.28,0.0,107366.28
+E014,"Ruiz, Nicolás",2021-08-01,2021,8,Técnico,Taller,M,2021-02-01,129643.3,0.0,129643.3
+E015,"Morales, Camila",2021-08-01,2021,8,Vendedora,Ventas,F,2021-04-01,116572.3,0.0,116572.3
+E016,"Vargas, Hernán",2021-08-01,2021,8,Depósito,Logística,M,2021-06-01,109975.54,0.0,109975.54
+E001,"Fernández, Carlos",2021-09-01,2021,9,Gerente General,Administración,M,2018-01-01,266179.11,0.0,266179.11
+E002,"López, María",2021-09-01,2021,9,Jefe de Ventas,Ventas,F,2018-01-01,169721.42,0.0,169721.42
+E003,"García, Juan",2021-09-01,2021,9,Vendedor Senior,Ventas,M,2018-01-01,117881.37,0.0,117881.37
+E004,"Martínez, Ana",2021-09-01,2021,9,Vendedora,Ventas,F,2018-01-01,99861.84,0.0,99861.84
+E005,"Rodríguez, Luis",2021-09-01,2021,9,Técnico Senior,Taller,M,2018-01-01,131607.54,0.0,131607.54
+E007,"Torres, Sofía",2021-09-01,2021,9,Administrativa,Administración,F,2018-01-01,103877.58,0.0,103877.58
+E008,"Ramírez, Diego",2021-09-01,2021,9,Encargado Depósito,Logística,M,2018-01-01,110615.56,0.0,110615.56
+E010,"Medina, Roberto",2021-09-01,2021,9,Técnico,Taller,M,2018-03-01,100725.5,0.0,100725.5
+E011,"Jiménez, Laura",2021-09-01,2021,9,Vendedora,Ventas,F,2019-03-01,102455.88,0.0,102455.88
+E012,"Peralta, Marcos",2021-09-01,2021,9,Vendedor,Ventas,M,2020-09-01,111777.41,0.0,111777.41
+E013,"Castro, Luciana",2021-09-01,2021,9,Administrativa,Administración,F,2020-11-01,108187.72,0.0,108187.72
+E014,"Ruiz, Nicolás",2021-09-01,2021,9,Técnico,Taller,M,2021-02-01,130589.94,0.0,130589.94
+E015,"Morales, Camila",2021-09-01,2021,9,Vendedora,Ventas,F,2021-04-01,119607.37,0.0,119607.37
+E016,"Vargas, Hernán",2021-09-01,2021,9,Depósito,Logística,M,2021-06-01,112323.32,0.0,112323.32
+E017,"Acosta, Florencia",2021-09-01,2021,9,Técnica,Taller,F,2021-09-01,131618.44,0.0,131618.44
+E001,"Fernández, Carlos",2021-10-01,2021,10,Gerente General,Administración,M,2018-01-01,261183.18,0.0,261183.18
+E002,"López, María",2021-10-01,2021,10,Jefe de Ventas,Ventas,F,2018-01-01,169747.53,0.0,169747.53
+E003,"García, Juan",2021-10-01,2021,10,Vendedor Senior,Ventas,M,2018-01-01,117886.33,0.0,117886.33
+E004,"Martínez, Ana",2021-10-01,2021,10,Vendedora,Ventas,F,2018-01-01,99691.03,0.0,99691.03
+E005,"Rodríguez, Luis",2021-10-01,2021,10,Técnico Senior,Taller,M,2018-01-01,130638.0,0.0,130638.0
+E007,"Torres, Sofía",2021-10-01,2021,10,Administrativa,Administración,F,2018-01-01,104129.53,0.0,104129.53
+E008,"Ramírez, Diego",2021-10-01,2021,10,Encargado Depósito,Logística,M,2018-01-01,110846.6,0.0,110846.6
+E010,"Medina, Roberto",2021-10-01,2021,10,Técnico,Taller,M,2018-03-01,99653.38,0.0,99653.38
+E011,"Jiménez, Laura",2021-10-01,2021,10,Vendedora,Ventas,F,2019-03-01,102811.47,0.0,102811.47
+E012,"Peralta, Marcos",2021-10-01,2021,10,Vendedor,Ventas,M,2020-09-01,111142.34,0.0,111142.34
+E013,"Castro, Luciana",2021-10-01,2021,10,Administrativa,Administración,F,2020-11-01,108419.42,0.0,108419.42
+E014,"Ruiz, Nicolás",2021-10-01,2021,10,Técnico,Taller,M,2021-02-01,129324.67,0.0,129324.67
+E015,"Morales, Camila",2021-10-01,2021,10,Vendedora,Ventas,F,2021-04-01,118137.12,0.0,118137.12
+E016,"Vargas, Hernán",2021-10-01,2021,10,Depósito,Logística,M,2021-06-01,110118.3,0.0,110118.3
+E017,"Acosta, Florencia",2021-10-01,2021,10,Técnica,Taller,F,2021-09-01,132390.1,0.0,132390.1
+E001,"Fernández, Carlos",2021-11-01,2021,11,Gerente General,Administración,M,2018-01-01,262832.65,0.0,262832.65
+E002,"López, María",2021-11-01,2021,11,Jefe de Ventas,Ventas,F,2018-01-01,169267.89,0.0,169267.89
+E003,"García, Juan",2021-11-01,2021,11,Vendedor Senior,Ventas,M,2018-01-01,115742.57,0.0,115742.57
+E004,"Martínez, Ana",2021-11-01,2021,11,Vendedora,Ventas,F,2018-01-01,98839.26,0.0,98839.26
+E005,"Rodríguez, Luis",2021-11-01,2021,11,Técnico Senior,Taller,M,2018-01-01,129879.39,0.0,129879.39
+E007,"Torres, Sofía",2021-11-01,2021,11,Administrativa,Administración,F,2018-01-01,102603.24,0.0,102603.24
+E008,"Ramírez, Diego",2021-11-01,2021,11,Encargado Depósito,Logística,M,2018-01-01,111355.68,0.0,111355.68
+E010,"Medina, Roberto",2021-11-01,2021,11,Técnico,Taller,M,2018-03-01,102063.76,0.0,102063.76
+E011,"Jiménez, Laura",2021-11-01,2021,11,Vendedora,Ventas,F,2019-03-01,100991.16,0.0,100991.16
+E012,"Peralta, Marcos",2021-11-01,2021,11,Vendedor,Ventas,M,2020-09-01,112274.8,0.0,112274.8
+E013,"Castro, Luciana",2021-11-01,2021,11,Administrativa,Administración,F,2020-11-01,108930.36,0.0,108930.36
+E014,"Ruiz, Nicolás",2021-11-01,2021,11,Técnico,Taller,M,2021-02-01,128433.28,0.0,128433.28
+E015,"Morales, Camila",2021-11-01,2021,11,Vendedora,Ventas,F,2021-04-01,117405.5,0.0,117405.5
+E016,"Vargas, Hernán",2021-11-01,2021,11,Depósito,Logística,M,2021-06-01,114210.98,0.0,114210.98
+E017,"Acosta, Florencia",2021-11-01,2021,11,Técnica,Taller,F,2021-09-01,129506.68,0.0,129506.68
+E001,"Fernández, Carlos",2021-12-01,2021,12,Gerente General,Administración,M,2018-01-01,268799.33,134399.66,403198.99
+E002,"López, María",2021-12-01,2021,12,Jefe de Ventas,Ventas,F,2018-01-01,170295.5,85147.75,255443.25
+E003,"García, Juan",2021-12-01,2021,12,Vendedor Senior,Ventas,M,2018-01-01,117827.31,58913.66,176740.97
+E004,"Martínez, Ana",2021-12-01,2021,12,Vendedora,Ventas,F,2018-01-01,98819.23,49409.61,148228.84
+E005,"Rodríguez, Luis",2021-12-01,2021,12,Técnico Senior,Taller,M,2018-01-01,128895.45,64447.73,193343.18
+E007,"Torres, Sofía",2021-12-01,2021,12,Administrativa,Administración,F,2018-01-01,101048.97,50524.49,151573.46
+E008,"Ramírez, Diego",2021-12-01,2021,12,Encargado Depósito,Logística,M,2018-01-01,110912.68,55456.34,166369.03
+E010,"Medina, Roberto",2021-12-01,2021,12,Técnico,Taller,M,2018-03-01,99937.31,49968.66,149905.97
+E011,"Jiménez, Laura",2021-12-01,2021,12,Vendedora,Ventas,F,2019-03-01,102844.12,51422.06,154266.18
+E012,"Peralta, Marcos",2021-12-01,2021,12,Vendedor,Ventas,M,2020-09-01,111175.97,55587.99,166763.96
+E013,"Castro, Luciana",2021-12-01,2021,12,Administrativa,Administración,F,2020-11-01,110528.75,55264.37,165793.12
+E014,"Ruiz, Nicolás",2021-12-01,2021,12,Técnico,Taller,M,2021-02-01,129090.44,64545.22,193635.67
+E015,"Morales, Camila",2021-12-01,2021,12,Vendedora,Ventas,F,2021-04-01,118328.22,59164.11,177492.34
+E016,"Vargas, Hernán",2021-12-01,2021,12,Depósito,Logística,M,2021-06-01,110129.79,55064.9,165194.69
+E017,"Acosta, Florencia",2021-12-01,2021,12,Técnica,Taller,F,2021-09-01,130581.1,65290.55,195871.65
+E001,"Fernández, Carlos",2022-01-01,2022,1,Gerente General,Administración,M,2018-01-01,399897.1,0.0,399897.1
+E002,"López, María",2022-01-01,2022,1,Jefe de Ventas,Ventas,F,2018-01-01,256924.99,0.0,256924.99
+E003,"García, Juan",2022-01-01,2022,1,Vendedor Senior,Ventas,M,2018-01-01,177941.01,0.0,177941.01
+E004,"Martínez, Ana",2022-01-01,2022,1,Vendedora,Ventas,F,2018-01-01,149064.01,0.0,149064.01
+E005,"Rodríguez, Luis",2022-01-01,2022,1,Técnico Senior,Taller,M,2018-01-01,198413.01,0.0,198413.01
+E007,"Torres, Sofía",2022-01-01,2022,1,Administrativa,Administración,F,2018-01-01,155810.16,0.0,155810.16
+E008,"Ramírez, Diego",2022-01-01,2022,1,Encargado Depósito,Logística,M,2018-01-01,169238.91,0.0,169238.91
+E010,"Medina, Roberto",2022-01-01,2022,1,Técnico,Taller,M,2018-03-01,150827.01,0.0,150827.01
+E011,"Jiménez, Laura",2022-01-01,2022,1,Vendedora,Ventas,F,2019-03-01,155312.54,0.0,155312.54
+E012,"Peralta, Marcos",2022-01-01,2022,1,Vendedor,Ventas,M,2020-09-01,167808.68,0.0,167808.68
+E013,"Castro, Luciana",2022-01-01,2022,1,Administrativa,Administración,F,2020-11-01,164402.88,0.0,164402.88
+E014,"Ruiz, Nicolás",2022-01-01,2022,1,Técnico,Taller,M,2021-02-01,198065.69,0.0,198065.69
+E015,"Morales, Camila",2022-01-01,2022,1,Vendedora,Ventas,F,2021-04-01,177497.92,0.0,177497.92
+E016,"Vargas, Hernán",2022-01-01,2022,1,Depósito,Logística,M,2021-06-01,169460.87,0.0,169460.87
+E017,"Acosta, Florencia",2022-01-01,2022,1,Técnica,Taller,F,2021-09-01,193985.72,0.0,193985.72
+E018,"Ibáñez, Tomás",2022-01-01,2022,1,Vendedor,Ventas,M,2022-01-01,231254.6,0.0,231254.6
+E001,"Fernández, Carlos",2022-02-01,2022,2,Gerente General,Administración,M,2018-01-01,398178.39,0.0,398178.39
+E002,"López, María",2022-02-01,2022,2,Jefe de Ventas,Ventas,F,2018-01-01,256626.72,0.0,256626.72
+E003,"García, Juan",2022-02-01,2022,2,Vendedor Senior,Ventas,M,2018-01-01,179818.94,0.0,179818.94
+E004,"Martínez, Ana",2022-02-01,2022,2,Vendedora,Ventas,F,2018-01-01,149502.01,0.0,149502.01
+E005,"Rodríguez, Luis",2022-02-01,2022,2,Técnico Senior,Taller,M,2018-01-01,198841.75,0.0,198841.75
+E007,"Torres, Sofía",2022-02-01,2022,2,Administrativa,Administración,F,2018-01-01,154418.23,0.0,154418.23
+E008,"Ramírez, Diego",2022-02-01,2022,2,Encargado Depósito,Logística,M,2018-01-01,169091.92,0.0,169091.92
+E010,"Medina, Roberto",2022-02-01,2022,2,Técnico,Taller,M,2018-03-01,149147.23,0.0,149147.23
+E011,"Jiménez, Laura",2022-02-01,2022,2,Vendedora,Ventas,F,2019-03-01,154272.87,0.0,154272.87
+E012,"Peralta, Marcos",2022-02-01,2022,2,Vendedor,Ventas,M,2020-09-01,167269.64,0.0,167269.64
+E013,"Castro, Luciana",2022-02-01,2022,2,Administrativa,Administración,F,2020-11-01,162082.94,0.0,162082.94
+E014,"Ruiz, Nicolás",2022-02-01,2022,2,Técnico,Taller,M,2021-02-01,198412.08,0.0,198412.08
+E015,"Morales, Camila",2022-02-01,2022,2,Vendedora,Ventas,F,2021-04-01,179773.6,0.0,179773.6
+E016,"Vargas, Hernán",2022-02-01,2022,2,Depósito,Logística,M,2021-06-01,170068.92,0.0,170068.92
+E017,"Acosta, Florencia",2022-02-01,2022,2,Técnica,Taller,F,2021-09-01,198762.9,0.0,198762.9
+E018,"Ibáñez, Tomás",2022-02-01,2022,2,Vendedor,Ventas,M,2022-01-01,234533.82,0.0,234533.82
+E001,"Fernández, Carlos",2022-03-01,2022,3,Gerente General,Administración,M,2018-01-01,396099.24,0.0,396099.24
+E002,"López, María",2022-03-01,2022,3,Jefe de Ventas,Ventas,F,2018-01-01,255631.71,0.0,255631.71
+E003,"García, Juan",2022-03-01,2022,3,Vendedor Senior,Ventas,M,2018-01-01,174739.43,0.0,174739.43
+E004,"Martínez, Ana",2022-03-01,2022,3,Vendedora,Ventas,F,2018-01-01,150580.34,0.0,150580.34
+E005,"Rodríguez, Luis",2022-03-01,2022,3,Técnico Senior,Taller,M,2018-01-01,196835.65,0.0,196835.65
+E007,"Torres, Sofía",2022-03-01,2022,3,Administrativa,Administración,F,2018-01-01,155041.44,0.0,155041.44
+E008,"Ramírez, Diego",2022-03-01,2022,3,Encargado Depósito,Logística,M,2018-01-01,169515.05,0.0,169515.05
+E010,"Medina, Roberto",2022-03-01,2022,3,Técnico,Taller,M,2018-03-01,151856.11,0.0,151856.11
+E011,"Jiménez, Laura",2022-03-01,2022,3,Vendedora,Ventas,F,2019-03-01,153951.37,0.0,153951.37
+E012,"Peralta, Marcos",2022-03-01,2022,3,Vendedor,Ventas,M,2020-09-01,169305.09,0.0,169305.09
+E013,"Castro, Luciana",2022-03-01,2022,3,Administrativa,Administración,F,2020-11-01,163005.51,0.0,163005.51
+E014,"Ruiz, Nicolás",2022-03-01,2022,3,Técnico,Taller,M,2021-02-01,193230.67,0.0,193230.67
+E015,"Morales, Camila",2022-03-01,2022,3,Vendedora,Ventas,F,2021-04-01,177546.61,0.0,177546.61
+E016,"Vargas, Hernán",2022-03-01,2022,3,Depósito,Logística,M,2021-06-01,170960.61,0.0,170960.61
+E017,"Acosta, Florencia",2022-03-01,2022,3,Técnica,Taller,F,2021-09-01,196222.54,0.0,196222.54
+E018,"Ibáñez, Tomás",2022-03-01,2022,3,Vendedor,Ventas,M,2022-01-01,231951.01,0.0,231951.01
+E001,"Fernández, Carlos",2022-04-01,2022,4,Gerente General,Administración,M,2018-01-01,399379.12,0.0,399379.12
+E002,"López, María",2022-04-01,2022,4,Jefe de Ventas,Ventas,F,2018-01-01,259722.22,0.0,259722.22
+E003,"García, Juan",2022-04-01,2022,4,Vendedor Senior,Ventas,M,2018-01-01,178771.47,0.0,178771.47
+E004,"Martínez, Ana",2022-04-01,2022,4,Vendedora,Ventas,F,2018-01-01,151808.12,0.0,151808.12
+E005,"Rodríguez, Luis",2022-04-01,2022,4,Técnico Senior,Taller,M,2018-01-01,194744.8,0.0,194744.8
+E007,"Torres, Sofía",2022-04-01,2022,4,Administrativa,Administración,F,2018-01-01,156604.16,0.0,156604.16
+E008,"Ramírez, Diego",2022-04-01,2022,4,Encargado Depósito,Logística,M,2018-01-01,165041.06,0.0,165041.06
+E010,"Medina, Roberto",2022-04-01,2022,4,Técnico,Taller,M,2018-03-01,146736.79,0.0,146736.79
+E011,"Jiménez, Laura",2022-04-01,2022,4,Vendedora,Ventas,F,2019-03-01,152198.9,0.0,152198.9
+E012,"Peralta, Marcos",2022-04-01,2022,4,Vendedor,Ventas,M,2020-09-01,169309.48,0.0,169309.48
+E013,"Castro, Luciana",2022-04-01,2022,4,Administrativa,Administración,F,2020-11-01,161348.03,0.0,161348.03
+E014,"Ruiz, Nicolás",2022-04-01,2022,4,Técnico,Taller,M,2021-02-01,195328.9,0.0,195328.9
+E015,"Morales, Camila",2022-04-01,2022,4,Vendedora,Ventas,F,2021-04-01,177108.36,0.0,177108.36
+E016,"Vargas, Hernán",2022-04-01,2022,4,Depósito,Logística,M,2021-06-01,169757.93,0.0,169757.93
+E017,"Acosta, Florencia",2022-04-01,2022,4,Técnica,Taller,F,2021-09-01,199096.36,0.0,199096.36
+E018,"Ibáñez, Tomás",2022-04-01,2022,4,Vendedor,Ventas,M,2022-01-01,236139.37,0.0,236139.37
+E001,"Fernández, Carlos",2022-05-01,2022,5,Gerente General,Administración,M,2018-01-01,392155.69,0.0,392155.69
+E002,"López, María",2022-05-01,2022,5,Jefe de Ventas,Ventas,F,2018-01-01,257891.06,0.0,257891.06
+E003,"García, Juan",2022-05-01,2022,5,Vendedor Senior,Ventas,M,2018-01-01,177202.52,0.0,177202.52
+E004,"Martínez, Ana",2022-05-01,2022,5,Vendedora,Ventas,F,2018-01-01,149532.88,0.0,149532.88
+E005,"Rodríguez, Luis",2022-05-01,2022,5,Técnico Senior,Taller,M,2018-01-01,196454.56,0.0,196454.56
+E007,"Torres, Sofía",2022-05-01,2022,5,Administrativa,Administración,F,2018-01-01,153741.73,0.0,153741.73
+E008,"Ramírez, Diego",2022-05-01,2022,5,Encargado Depósito,Logística,M,2018-01-01,167277.45,0.0,167277.45
+E010,"Medina, Roberto",2022-05-01,2022,5,Técnico,Taller,M,2018-03-01,149106.62,0.0,149106.62
+E012,"Peralta, Marcos",2022-05-01,2022,5,Vendedor,Ventas,M,2020-09-01,167335.44,0.0,167335.44
+E013,"Castro, Luciana",2022-05-01,2022,5,Administrativa,Administración,F,2020-11-01,165484.62,0.0,165484.62
+E014,"Ruiz, Nicolás",2022-05-01,2022,5,Técnico,Taller,M,2021-02-01,196457.99,0.0,196457.99
+E015,"Morales, Camila",2022-05-01,2022,5,Vendedora,Ventas,F,2021-04-01,179658.41,0.0,179658.41
+E016,"Vargas, Hernán",2022-05-01,2022,5,Depósito,Logística,M,2021-06-01,170342.0,0.0,170342.0
+E017,"Acosta, Florencia",2022-05-01,2022,5,Técnica,Taller,F,2021-09-01,199307.76,0.0,199307.76
+E018,"Ibáñez, Tomás",2022-05-01,2022,5,Vendedor,Ventas,M,2022-01-01,231084.55,0.0,231084.55
+E001,"Fernández, Carlos",2022-06-01,2022,6,Gerente General,Administración,M,2018-01-01,398893.42,0.0,398893.42
+E002,"López, María",2022-06-01,2022,6,Jefe de Ventas,Ventas,F,2018-01-01,254236.0,0.0,254236.0
+E003,"García, Juan",2022-06-01,2022,6,Vendedor Senior,Ventas,M,2018-01-01,181128.65,0.0,181128.65
+E004,"Martínez, Ana",2022-06-01,2022,6,Vendedora,Ventas,F,2018-01-01,150660.08,0.0,150660.08
+E005,"Rodríguez, Luis",2022-06-01,2022,6,Técnico Senior,Taller,M,2018-01-01,195660.87,0.0,195660.87
+E007,"Torres, Sofía",2022-06-01,2022,6,Administrativa,Administración,F,2018-01-01,153971.77,0.0,153971.77
+E008,"Ramírez, Diego",2022-06-01,2022,6,Encargado Depósito,Logística,M,2018-01-01,169914.64,0.0,169914.64
+E010,"Medina, Roberto",2022-06-01,2022,6,Técnico,Taller,M,2018-03-01,149226.36,0.0,149226.36
+E012,"Peralta, Marcos",2022-06-01,2022,6,Vendedor,Ventas,M,2020-09-01,166213.49,0.0,166213.49
+E013,"Castro, Luciana",2022-06-01,2022,6,Administrativa,Administración,F,2020-11-01,164556.46,0.0,164556.46
+E014,"Ruiz, Nicolás",2022-06-01,2022,6,Técnico,Taller,M,2021-02-01,199007.44,0.0,199007.44
+E015,"Morales, Camila",2022-06-01,2022,6,Vendedora,Ventas,F,2021-04-01,177731.4,0.0,177731.4
+E016,"Vargas, Hernán",2022-06-01,2022,6,Depósito,Logística,M,2021-06-01,169764.33,0.0,169764.33
+E017,"Acosta, Florencia",2022-06-01,2022,6,Técnica,Taller,F,2021-09-01,195420.89,0.0,195420.89
+E018,"Ibáñez, Tomás",2022-06-01,2022,6,Vendedor,Ventas,M,2022-01-01,234322.86,0.0,234322.86
+E001,"Fernández, Carlos",2022-07-01,2022,7,Gerente General,Administración,M,2018-01-01,398245.31,0.0,398245.31
+E002,"López, María",2022-07-01,2022,7,Jefe de Ventas,Ventas,F,2018-01-01,256529.32,0.0,256529.32
+E003,"García, Juan",2022-07-01,2022,7,Vendedor Senior,Ventas,M,2018-01-01,176181.48,0.0,176181.48
+E004,"Martínez, Ana",2022-07-01,2022,7,Vendedora,Ventas,F,2018-01-01,148685.23,0.0,148685.23
+E005,"Rodríguez, Luis",2022-07-01,2022,7,Técnico Senior,Taller,M,2018-01-01,195236.77,0.0,195236.77
+E007,"Torres, Sofía",2022-07-01,2022,7,Administrativa,Administración,F,2018-01-01,153748.79,0.0,153748.79
+E008,"Ramírez, Diego",2022-07-01,2022,7,Encargado Depósito,Logística,M,2018-01-01,168269.91,0.0,168269.91
+E010,"Medina, Roberto",2022-07-01,2022,7,Técnico,Taller,M,2018-03-01,149994.47,0.0,149994.47
+E012,"Peralta, Marcos",2022-07-01,2022,7,Vendedor,Ventas,M,2020-09-01,168741.15,0.0,168741.15
+E013,"Castro, Luciana",2022-07-01,2022,7,Administrativa,Administración,F,2020-11-01,163651.8,0.0,163651.8
+E014,"Ruiz, Nicolás",2022-07-01,2022,7,Técnico,Taller,M,2021-02-01,196612.86,0.0,196612.86
+E015,"Morales, Camila",2022-07-01,2022,7,Vendedora,Ventas,F,2021-04-01,176337.88,0.0,176337.88
+E016,"Vargas, Hernán",2022-07-01,2022,7,Depósito,Logística,M,2021-06-01,168822.19,0.0,168822.19
+E017,"Acosta, Florencia",2022-07-01,2022,7,Técnica,Taller,F,2021-09-01,193505.17,0.0,193505.17
+E018,"Ibáñez, Tomás",2022-07-01,2022,7,Vendedor,Ventas,M,2022-01-01,231661.18,0.0,231661.18
+E019,"Suárez, Beatriz",2022-07-01,2022,7,Contadora,Administración,F,2022-07-01,347389.83,0.0,347389.83
+E001,"Fernández, Carlos",2022-08-01,2022,8,Gerente General,Administración,M,2018-01-01,395576.14,0.0,395576.14
+E002,"López, María",2022-08-01,2022,8,Jefe de Ventas,Ventas,F,2018-01-01,258175.69,0.0,258175.69
+E003,"García, Juan",2022-08-01,2022,8,Vendedor Senior,Ventas,M,2018-01-01,178171.73,0.0,178171.73
+E004,"Martínez, Ana",2022-08-01,2022,8,Vendedora,Ventas,F,2018-01-01,150187.33,0.0,150187.33
+E005,"Rodríguez, Luis",2022-08-01,2022,8,Técnico Senior,Taller,M,2018-01-01,198173.99,0.0,198173.99
+E007,"Torres, Sofía",2022-08-01,2022,8,Administrativa,Administración,F,2018-01-01,154737.5,0.0,154737.5
+E008,"Ramírez, Diego",2022-08-01,2022,8,Encargado Depósito,Logística,M,2018-01-01,166803.63,0.0,166803.63
+E010,"Medina, Roberto",2022-08-01,2022,8,Técnico,Taller,M,2018-03-01,149822.7,0.0,149822.7
+E012,"Peralta, Marcos",2022-08-01,2022,8,Vendedor,Ventas,M,2020-09-01,166928.16,0.0,166928.16
+E013,"Castro, Luciana",2022-08-01,2022,8,Administrativa,Administración,F,2020-11-01,163271.43,0.0,163271.43
+E014,"Ruiz, Nicolás",2022-08-01,2022,8,Técnico,Taller,M,2021-02-01,197366.02,0.0,197366.02
+E015,"Morales, Camila",2022-08-01,2022,8,Vendedora,Ventas,F,2021-04-01,177561.03,0.0,177561.03
+E016,"Vargas, Hernán",2022-08-01,2022,8,Depósito,Logística,M,2021-06-01,169583.45,0.0,169583.45
+E017,"Acosta, Florencia",2022-08-01,2022,8,Técnica,Taller,F,2021-09-01,196600.14,0.0,196600.14
+E018,"Ibáñez, Tomás",2022-08-01,2022,8,Vendedor,Ventas,M,2022-01-01,230484.46,0.0,230484.46
+E019,"Suárez, Beatriz",2022-08-01,2022,8,Contadora,Administración,F,2022-07-01,349656.66,0.0,349656.66
+E001,"Fernández, Carlos",2022-09-01,2022,9,Gerente General,Administración,M,2018-01-01,400375.68,0.0,400375.68
+E002,"López, María",2022-09-01,2022,9,Jefe de Ventas,Ventas,F,2018-01-01,258606.3,0.0,258606.3
+E003,"García, Juan",2022-09-01,2022,9,Vendedor Senior,Ventas,M,2018-01-01,175955.48,0.0,175955.48
+E004,"Martínez, Ana",2022-09-01,2022,9,Vendedora,Ventas,F,2018-01-01,149088.61,0.0,149088.61
+E005,"Rodríguez, Luis",2022-09-01,2022,9,Técnico Senior,Taller,M,2018-01-01,196990.21,0.0,196990.21
+E007,"Torres, Sofía",2022-09-01,2022,9,Administrativa,Administración,F,2018-01-01,153652.1,0.0,153652.1
+E008,"Ramírez, Diego",2022-09-01,2022,9,Encargado Depósito,Logística,M,2018-01-01,167928.91,0.0,167928.91
+E010,"Medina, Roberto",2022-09-01,2022,9,Técnico,Taller,M,2018-03-01,150150.81,0.0,150150.81
+E012,"Peralta, Marcos",2022-09-01,2022,9,Vendedor,Ventas,M,2020-09-01,171588.38,0.0,171588.38
+E013,"Castro, Luciana",2022-09-01,2022,9,Administrativa,Administración,F,2020-11-01,164327.59,0.0,164327.59
+E014,"Ruiz, Nicolás",2022-09-01,2022,9,Técnico,Taller,M,2021-02-01,197946.4,0.0,197946.4
+E015,"Morales, Camila",2022-09-01,2022,9,Vendedora,Ventas,F,2021-04-01,176283.82,0.0,176283.82
+E016,"Vargas, Hernán",2022-09-01,2022,9,Depósito,Logística,M,2021-06-01,166402.65,0.0,166402.65
+E017,"Acosta, Florencia",2022-09-01,2022,9,Técnica,Taller,F,2021-09-01,194862.79,0.0,194862.79
+E018,"Ibáñez, Tomás",2022-09-01,2022,9,Vendedor,Ventas,M,2022-01-01,233617.59,0.0,233617.59
+E019,"Suárez, Beatriz",2022-09-01,2022,9,Contadora,Administración,F,2022-07-01,351838.7,0.0,351838.7
+E001,"Fernández, Carlos",2022-10-01,2022,10,Gerente General,Administración,M,2018-01-01,399759.52,0.0,399759.52
+E002,"López, María",2022-10-01,2022,10,Jefe de Ventas,Ventas,F,2018-01-01,259725.7,0.0,259725.7
+E003,"García, Juan",2022-10-01,2022,10,Vendedor Senior,Ventas,M,2018-01-01,180098.29,0.0,180098.29
+E004,"Martínez, Ana",2022-10-01,2022,10,Vendedora,Ventas,F,2018-01-01,146662.94,0.0,146662.94
+E005,"Rodríguez, Luis",2022-10-01,2022,10,Técnico Senior,Taller,M,2018-01-01,194655.3,0.0,194655.3
+E007,"Torres, Sofía",2022-10-01,2022,10,Administrativa,Administración,F,2018-01-01,157027.86,0.0,157027.86
+E008,"Ramírez, Diego",2022-10-01,2022,10,Encargado Depósito,Logística,M,2018-01-01,169088.56,0.0,169088.56
+E010,"Medina, Roberto",2022-10-01,2022,10,Técnico,Taller,M,2018-03-01,149618.15,0.0,149618.15
+E012,"Peralta, Marcos",2022-10-01,2022,10,Vendedor,Ventas,M,2020-09-01,164745.67,0.0,164745.67
+E013,"Castro, Luciana",2022-10-01,2022,10,Administrativa,Administración,F,2020-11-01,161697.76,0.0,161697.76
+E014,"Ruiz, Nicolás",2022-10-01,2022,10,Técnico,Taller,M,2021-02-01,198322.98,0.0,198322.98
+E015,"Morales, Camila",2022-10-01,2022,10,Vendedora,Ventas,F,2021-04-01,177028.3,0.0,177028.3
+E016,"Vargas, Hernán",2022-10-01,2022,10,Depósito,Logística,M,2021-06-01,169418.28,0.0,169418.28
+E017,"Acosta, Florencia",2022-10-01,2022,10,Técnica,Taller,F,2021-09-01,195796.46,0.0,195796.46
+E018,"Ibáñez, Tomás",2022-10-01,2022,10,Vendedor,Ventas,M,2022-01-01,239134.6,0.0,239134.6
+E019,"Suárez, Beatriz",2022-10-01,2022,10,Contadora,Administración,F,2022-07-01,350887.69,0.0,350887.69
+E001,"Fernández, Carlos",2022-11-01,2022,11,Gerente General,Administración,M,2018-01-01,391920.35,0.0,391920.35
+E002,"López, María",2022-11-01,2022,11,Jefe de Ventas,Ventas,F,2018-01-01,258925.21,0.0,258925.21
+E003,"García, Juan",2022-11-01,2022,11,Vendedor Senior,Ventas,M,2018-01-01,177994.58,0.0,177994.58
+E004,"Martínez, Ana",2022-11-01,2022,11,Vendedora,Ventas,F,2018-01-01,148845.61,0.0,148845.61
+E005,"Rodríguez, Luis",2022-11-01,2022,11,Técnico Senior,Taller,M,2018-01-01,196977.96,0.0,196977.96
+E007,"Torres, Sofía",2022-11-01,2022,11,Administrativa,Administración,F,2018-01-01,156074.35,0.0,156074.35
+E008,"Ramírez, Diego",2022-11-01,2022,11,Encargado Depósito,Logística,M,2018-01-01,168096.76,0.0,168096.76
+E010,"Medina, Roberto",2022-11-01,2022,11,Técnico,Taller,M,2018-03-01,148347.7,0.0,148347.7
+E012,"Peralta, Marcos",2022-11-01,2022,11,Vendedor,Ventas,M,2020-09-01,168848.95,0.0,168848.95
+E013,"Castro, Luciana",2022-11-01,2022,11,Administrativa,Administración,F,2020-11-01,162768.03,0.0,162768.03
+E014,"Ruiz, Nicolás",2022-11-01,2022,11,Técnico,Taller,M,2021-02-01,197227.81,0.0,197227.81
+E015,"Morales, Camila",2022-11-01,2022,11,Vendedora,Ventas,F,2021-04-01,180114.98,0.0,180114.98
+E016,"Vargas, Hernán",2022-11-01,2022,11,Depósito,Logística,M,2021-06-01,166575.7,0.0,166575.7
+E017,"Acosta, Florencia",2022-11-01,2022,11,Técnica,Taller,F,2021-09-01,192954.75,0.0,192954.75
+E018,"Ibáñez, Tomás",2022-11-01,2022,11,Vendedor,Ventas,M,2022-01-01,239393.56,0.0,239393.56
+E019,"Suárez, Beatriz",2022-11-01,2022,11,Contadora,Administración,F,2022-07-01,351508.98,0.0,351508.98
+E001,"Fernández, Carlos",2022-12-01,2022,12,Gerente General,Administración,M,2018-01-01,392888.99,196444.5,589333.49
+E002,"López, María",2022-12-01,2022,12,Jefe de Ventas,Ventas,F,2018-01-01,254853.34,127426.67,382280.01
+E003,"García, Juan",2022-12-01,2022,12,Vendedor Senior,Ventas,M,2018-01-01,177016.92,88508.46,265525.37
+E004,"Martínez, Ana",2022-12-01,2022,12,Vendedora,Ventas,F,2018-01-01,150230.53,75115.26,225345.79
+E005,"Rodríguez, Luis",2022-12-01,2022,12,Técnico Senior,Taller,M,2018-01-01,191832.9,95916.45,287749.36
+E007,"Torres, Sofía",2022-12-01,2022,12,Administrativa,Administración,F,2018-01-01,155537.9,77768.95,233306.84
+E008,"Ramírez, Diego",2022-12-01,2022,12,Encargado Depósito,Logística,M,2018-01-01,167342.63,83671.31,251013.94
+E010,"Medina, Roberto",2022-12-01,2022,12,Técnico,Taller,M,2018-03-01,151999.63,75999.82,227999.45
+E012,"Peralta, Marcos",2022-12-01,2022,12,Vendedor,Ventas,M,2020-09-01,169150.93,84575.47,253726.4
+E013,"Castro, Luciana",2022-12-01,2022,12,Administrativa,Administración,F,2020-11-01,165285.0,82642.5,247927.5
+E014,"Ruiz, Nicolás",2022-12-01,2022,12,Técnico,Taller,M,2021-02-01,196123.56,98061.78,294185.34
+E015,"Morales, Camila",2022-12-01,2022,12,Vendedora,Ventas,F,2021-04-01,178297.71,89148.85,267446.56
+E016,"Vargas, Hernán",2022-12-01,2022,12,Depósito,Logística,M,2021-06-01,170832.85,85416.43,256249.28
+E017,"Acosta, Florencia",2022-12-01,2022,12,Técnica,Taller,F,2021-09-01,194908.54,97454.27,292362.8
+E018,"Ibáñez, Tomás",2022-12-01,2022,12,Vendedor,Ventas,M,2022-01-01,235062.91,117531.45,352594.36
+E019,"Suárez, Beatriz",2022-12-01,2022,12,Contadora,Administración,F,2022-07-01,352923.8,176461.9,529385.71
+E001,"Fernández, Carlos",2023-01-01,2023,1,Gerente General,Administración,M,2018-01-01,786373.68,0.0,786373.68
+E002,"López, María",2023-01-01,2023,1,Jefe de Ventas,Ventas,F,2018-01-01,498773.59,0.0,498773.59
+E003,"García, Juan",2023-01-01,2023,1,Vendedor Senior,Ventas,M,2018-01-01,343887.36,0.0,343887.36
+E004,"Martínez, Ana",2023-01-01,2023,1,Vendedora,Ventas,F,2018-01-01,295540.53,0.0,295540.53
+E005,"Rodríguez, Luis",2023-01-01,2023,1,Técnico Senior,Taller,M,2018-01-01,382475.51,0.0,382475.51
+E007,"Torres, Sofía",2023-01-01,2023,1,Administrativa,Administración,F,2018-01-01,298487.07,0.0,298487.07
+E008,"Ramírez, Diego",2023-01-01,2023,1,Encargado Depósito,Logística,M,2018-01-01,326947.76,0.0,326947.76
+E010,"Medina, Roberto",2023-01-01,2023,1,Técnico,Taller,M,2018-03-01,288020.3,0.0,288020.3
+E012,"Peralta, Marcos",2023-01-01,2023,1,Vendedor,Ventas,M,2020-09-01,328484.05,0.0,328484.05
+E013,"Castro, Luciana",2023-01-01,2023,1,Administrativa,Administración,F,2020-11-01,310245.15,0.0,310245.15
+E014,"Ruiz, Nicolás",2023-01-01,2023,1,Técnico,Taller,M,2021-02-01,384357.41,0.0,384357.41
+E015,"Morales, Camila",2023-01-01,2023,1,Vendedora,Ventas,F,2021-04-01,341482.3,0.0,341482.3
+E016,"Vargas, Hernán",2023-01-01,2023,1,Depósito,Logística,M,2021-06-01,332744.16,0.0,332744.16
+E017,"Acosta, Florencia",2023-01-01,2023,1,Técnica,Taller,F,2021-09-01,380633.04,0.0,380633.04
+E018,"Ibáñez, Tomás",2023-01-01,2023,1,Vendedor,Ventas,M,2022-01-01,452576.17,0.0,452576.17
+E019,"Suárez, Beatriz",2023-01-01,2023,1,Contadora,Administración,F,2022-07-01,684820.69,0.0,684820.69
+E020,"Ríos, Agustín",2023-01-01,2023,1,Técnico ESG,Administración,M,2023-01-01,824670.7,0.0,824670.7
+E001,"Fernández, Carlos",2023-02-01,2023,2,Gerente General,Administración,M,2018-01-01,776078.15,0.0,776078.15
+E002,"López, María",2023-02-01,2023,2,Jefe de Ventas,Ventas,F,2018-01-01,493852.53,0.0,493852.53
+E003,"García, Juan",2023-02-01,2023,2,Vendedor Senior,Ventas,M,2018-01-01,347237.53,0.0,347237.53
+E004,"Martínez, Ana",2023-02-01,2023,2,Vendedora,Ventas,F,2018-01-01,291836.83,0.0,291836.83
+E005,"Rodríguez, Luis",2023-02-01,2023,2,Técnico Senior,Taller,M,2018-01-01,382889.61,0.0,382889.61
+E007,"Torres, Sofía",2023-02-01,2023,2,Administrativa,Administración,F,2018-01-01,302938.03,0.0,302938.03
+E008,"Ramírez, Diego",2023-02-01,2023,2,Encargado Depósito,Logística,M,2018-01-01,326034.33,0.0,326034.33
+E010,"Medina, Roberto",2023-02-01,2023,2,Técnico,Taller,M,2018-03-01,288759.11,0.0,288759.11
+E012,"Peralta, Marcos",2023-02-01,2023,2,Vendedor,Ventas,M,2020-09-01,330595.77,0.0,330595.77
+E013,"Castro, Luciana",2023-02-01,2023,2,Administrativa,Administración,F,2020-11-01,313222.32,0.0,313222.32
+E014,"Ruiz, Nicolás",2023-02-01,2023,2,Técnico,Taller,M,2021-02-01,384423.38,0.0,384423.38
+E015,"Morales, Camila",2023-02-01,2023,2,Vendedora,Ventas,F,2021-04-01,342625.59,0.0,342625.59
+E016,"Vargas, Hernán",2023-02-01,2023,2,Depósito,Logística,M,2021-06-01,333183.61,0.0,333183.61
+E017,"Acosta, Florencia",2023-02-01,2023,2,Técnica,Taller,F,2021-09-01,377760.51,0.0,377760.51
+E018,"Ibáñez, Tomás",2023-02-01,2023,2,Vendedor,Ventas,M,2022-01-01,449812.54,0.0,449812.54
+E019,"Suárez, Beatriz",2023-02-01,2023,2,Contadora,Administración,F,2022-07-01,700480.83,0.0,700480.83
+E020,"Ríos, Agustín",2023-02-01,2023,2,Técnico ESG,Administración,M,2023-01-01,831810.97,0.0,831810.97
+E001,"Fernández, Carlos",2023-03-01,2023,3,Gerente General,Administración,M,2018-01-01,769543.66,0.0,769543.66
+E002,"López, María",2023-03-01,2023,3,Jefe de Ventas,Ventas,F,2018-01-01,495784.74,0.0,495784.74
+E003,"García, Juan",2023-03-01,2023,3,Vendedor Senior,Ventas,M,2018-01-01,343616.83,0.0,343616.83
+E004,"Martínez, Ana",2023-03-01,2023,3,Vendedora,Ventas,F,2018-01-01,293119.4,0.0,293119.4
+E005,"Rodríguez, Luis",2023-03-01,2023,3,Técnico Senior,Taller,M,2018-01-01,384428.29,0.0,384428.29
+E007,"Torres, Sofía",2023-03-01,2023,3,Administrativa,Administración,F,2018-01-01,299992.91,0.0,299992.91
+E008,"Ramírez, Diego",2023-03-01,2023,3,Encargado Depósito,Logística,M,2018-01-01,334213.06,0.0,334213.06
+E010,"Medina, Roberto",2023-03-01,2023,3,Técnico,Taller,M,2018-03-01,289771.41,0.0,289771.41
+E012,"Peralta, Marcos",2023-03-01,2023,3,Vendedor,Ventas,M,2020-09-01,322364.42,0.0,322364.42
+E013,"Castro, Luciana",2023-03-01,2023,3,Administrativa,Administración,F,2020-11-01,327976.89,0.0,327976.89
+E014,"Ruiz, Nicolás",2023-03-01,2023,3,Técnico,Taller,M,2021-02-01,386845.02,0.0,386845.02
+E015,"Morales, Camila",2023-03-01,2023,3,Vendedora,Ventas,F,2021-04-01,346118.8,0.0,346118.8
+E016,"Vargas, Hernán",2023-03-01,2023,3,Depósito,Logística,M,2021-06-01,329260.99,0.0,329260.99
+E017,"Acosta, Florencia",2023-03-01,2023,3,Técnica,Taller,F,2021-09-01,383801.19,0.0,383801.19
+E018,"Ibáñez, Tomás",2023-03-01,2023,3,Vendedor,Ventas,M,2022-01-01,448949.36,0.0,448949.36
+E019,"Suárez, Beatriz",2023-03-01,2023,3,Contadora,Administración,F,2022-07-01,684417.94,0.0,684417.94
+E020,"Ríos, Agustín",2023-03-01,2023,3,Técnico ESG,Administración,M,2023-01-01,824989.01,0.0,824989.01
+E001,"Fernández, Carlos",2023-04-01,2023,4,Gerente General,Administración,M,2018-01-01,778778.1,0.0,778778.1
+E002,"López, María",2023-04-01,2023,4,Jefe de Ventas,Ventas,F,2018-01-01,490023.39,0.0,490023.39
+E003,"García, Juan",2023-04-01,2023,4,Vendedor Senior,Ventas,M,2018-01-01,347482.55,0.0,347482.55
+E004,"Martínez, Ana",2023-04-01,2023,4,Vendedora,Ventas,F,2018-01-01,293425.1,0.0,293425.1
+E005,"Rodríguez, Luis",2023-04-01,2023,4,Técnico Senior,Taller,M,2018-01-01,383144.16,0.0,383144.16
+E007,"Torres, Sofía",2023-04-01,2023,4,Administrativa,Administración,F,2018-01-01,297536.16,0.0,297536.16
+E008,"Ramírez, Diego",2023-04-01,2023,4,Encargado Depósito,Logística,M,2018-01-01,332884.37,0.0,332884.37
+E012,"Peralta, Marcos",2023-04-01,2023,4,Vendedor,Ventas,M,2020-09-01,328465.71,0.0,328465.71
+E013,"Castro, Luciana",2023-04-01,2023,4,Administrativa,Administración,F,2020-11-01,318765.38,0.0,318765.38
+E014,"Ruiz, Nicolás",2023-04-01,2023,4,Técnico,Taller,M,2021-02-01,382740.64,0.0,382740.64
+E015,"Morales, Camila",2023-04-01,2023,4,Vendedora,Ventas,F,2021-04-01,341747.55,0.0,341747.55
+E016,"Vargas, Hernán",2023-04-01,2023,4,Depósito,Logística,M,2021-06-01,334999.66,0.0,334999.66
+E017,"Acosta, Florencia",2023-04-01,2023,4,Técnica,Taller,F,2021-09-01,387668.62,0.0,387668.62
+E018,"Ibáñez, Tomás",2023-04-01,2023,4,Vendedor,Ventas,M,2022-01-01,453205.72,0.0,453205.72
+E019,"Suárez, Beatriz",2023-04-01,2023,4,Contadora,Administración,F,2022-07-01,671363.59,0.0,671363.59
+E020,"Ríos, Agustín",2023-04-01,2023,4,Técnico ESG,Administración,M,2023-01-01,825767.77,0.0,825767.77
+E001,"Fernández, Carlos",2023-05-01,2023,5,Gerente General,Administración,M,2018-01-01,781608.73,0.0,781608.73
+E002,"López, María",2023-05-01,2023,5,Jefe de Ventas,Ventas,F,2018-01-01,502318.78,0.0,502318.78
+E003,"García, Juan",2023-05-01,2023,5,Vendedor Senior,Ventas,M,2018-01-01,345664.34,0.0,345664.34
+E004,"Martínez, Ana",2023-05-01,2023,5,Vendedora,Ventas,F,2018-01-01,287201.27,0.0,287201.27
+E005,"Rodríguez, Luis",2023-05-01,2023,5,Técnico Senior,Taller,M,2018-01-01,385632.68,0.0,385632.68
+E007,"Torres, Sofía",2023-05-01,2023,5,Administrativa,Administración,F,2018-01-01,296126.09,0.0,296126.09
+E008,"Ramírez, Diego",2023-05-01,2023,5,Encargado Depósito,Logística,M,2018-01-01,329481.8,0.0,329481.8
+E012,"Peralta, Marcos",2023-05-01,2023,5,Vendedor,Ventas,M,2020-09-01,330963.28,0.0,330963.28
+E013,"Castro, Luciana",2023-05-01,2023,5,Administrativa,Administración,F,2020-11-01,318465.52,0.0,318465.52
+E014,"Ruiz, Nicolás",2023-05-01,2023,5,Técnico,Taller,M,2021-02-01,382366.21,0.0,382366.21
+E015,"Morales, Camila",2023-05-01,2023,5,Vendedora,Ventas,F,2021-04-01,338085.48,0.0,338085.48
+E016,"Vargas, Hernán",2023-05-01,2023,5,Depósito,Logística,M,2021-06-01,325529.32,0.0,325529.32
+E017,"Acosta, Florencia",2023-05-01,2023,5,Técnica,Taller,F,2021-09-01,381503.79,0.0,381503.79
+E018,"Ibáñez, Tomás",2023-05-01,2023,5,Vendedor,Ventas,M,2022-01-01,448985.99,0.0,448985.99
+E019,"Suárez, Beatriz",2023-05-01,2023,5,Contadora,Administración,F,2022-07-01,693314.68,0.0,693314.68
+E020,"Ríos, Agustín",2023-05-01,2023,5,Técnico ESG,Administración,M,2023-01-01,815057.89,0.0,815057.89
+E001,"Fernández, Carlos",2023-06-01,2023,6,Gerente General,Administración,M,2018-01-01,772194.75,0.0,772194.75
+E002,"López, María",2023-06-01,2023,6,Jefe de Ventas,Ventas,F,2018-01-01,510943.44,0.0,510943.44
+E003,"García, Juan",2023-06-01,2023,6,Vendedor Senior,Ventas,M,2018-01-01,350372.92,0.0,350372.92
+E004,"Martínez, Ana",2023-06-01,2023,6,Vendedora,Ventas,F,2018-01-01,297202.53,0.0,297202.53
+E005,"Rodríguez, Luis",2023-06-01,2023,6,Técnico Senior,Taller,M,2018-01-01,388227.09,0.0,388227.09
+E007,"Torres, Sofía",2023-06-01,2023,6,Administrativa,Administración,F,2018-01-01,303283.14,0.0,303283.14
+E008,"Ramírez, Diego",2023-06-01,2023,6,Encargado Depósito,Logística,M,2018-01-01,325939.53,0.0,325939.53
+E012,"Peralta, Marcos",2023-06-01,2023,6,Vendedor,Ventas,M,2020-09-01,323735.7,0.0,323735.7
+E013,"Castro, Luciana",2023-06-01,2023,6,Administrativa,Administración,F,2020-11-01,321996.72,0.0,321996.72
+E014,"Ruiz, Nicolás",2023-06-01,2023,6,Técnico,Taller,M,2021-02-01,381247.68,0.0,381247.68
+E015,"Morales, Camila",2023-06-01,2023,6,Vendedora,Ventas,F,2021-04-01,338689.19,0.0,338689.19
+E016,"Vargas, Hernán",2023-06-01,2023,6,Depósito,Logística,M,2021-06-01,330011.56,0.0,330011.56
+E017,"Acosta, Florencia",2023-06-01,2023,6,Técnica,Taller,F,2021-09-01,384226.81,0.0,384226.81
+E018,"Ibáñez, Tomás",2023-06-01,2023,6,Vendedor,Ventas,M,2022-01-01,450415.31,0.0,450415.31
+E019,"Suárez, Beatriz",2023-06-01,2023,6,Contadora,Administración,F,2022-07-01,694092.32,0.0,694092.32
+E020,"Ríos, Agustín",2023-06-01,2023,6,Técnico ESG,Administración,M,2023-01-01,814287.44,0.0,814287.44
+E021,"Mendoza, Sofía",2023-06-01,2023,6,Técnica,Taller,F,2023-06-01,606478.98,0.0,606478.98
+E001,"Fernández, Carlos",2023-07-01,2023,7,Gerente General,Administración,M,2018-01-01,785999.14,0.0,785999.14
+E002,"López, María",2023-07-01,2023,7,Jefe de Ventas,Ventas,F,2018-01-01,507064.11,0.0,507064.11
+E003,"García, Juan",2023-07-01,2023,7,Vendedor Senior,Ventas,M,2018-01-01,344723.89,0.0,344723.89
+E004,"Martínez, Ana",2023-07-01,2023,7,Vendedora,Ventas,F,2018-01-01,292573.08,0.0,292573.08
+E005,"Rodríguez, Luis",2023-07-01,2023,7,Técnico Senior,Taller,M,2018-01-01,384367.39,0.0,384367.39
+E007,"Torres, Sofía",2023-07-01,2023,7,Administrativa,Administración,F,2018-01-01,300320.9,0.0,300320.9
+E008,"Ramírez, Diego",2023-07-01,2023,7,Encargado Depósito,Logística,M,2018-01-01,328629.06,0.0,328629.06
+E012,"Peralta, Marcos",2023-07-01,2023,7,Vendedor,Ventas,M,2020-09-01,334269.12,0.0,334269.12
+E013,"Castro, Luciana",2023-07-01,2023,7,Administrativa,Administración,F,2020-11-01,317216.81,0.0,317216.81
+E014,"Ruiz, Nicolás",2023-07-01,2023,7,Técnico,Taller,M,2021-02-01,385089.84,0.0,385089.84
+E015,"Morales, Camila",2023-07-01,2023,7,Vendedora,Ventas,F,2021-04-01,344872.85,0.0,344872.85
+E016,"Vargas, Hernán",2023-07-01,2023,7,Depósito,Logística,M,2021-06-01,323403.69,0.0,323403.69
+E017,"Acosta, Florencia",2023-07-01,2023,7,Técnica,Taller,F,2021-09-01,387406.88,0.0,387406.88
+E018,"Ibáñez, Tomás",2023-07-01,2023,7,Vendedor,Ventas,M,2022-01-01,458199.47,0.0,458199.47
+E019,"Suárez, Beatriz",2023-07-01,2023,7,Contadora,Administración,F,2022-07-01,691269.83,0.0,691269.83
+E020,"Ríos, Agustín",2023-07-01,2023,7,Técnico ESG,Administración,M,2023-01-01,813571.94,0.0,813571.94
+E021,"Mendoza, Sofía",2023-07-01,2023,7,Técnica,Taller,F,2023-06-01,589572.62,0.0,589572.62
+E001,"Fernández, Carlos",2023-08-01,2023,8,Gerente General,Administración,M,2018-01-01,778863.08,0.0,778863.08
+E002,"López, María",2023-08-01,2023,8,Jefe de Ventas,Ventas,F,2018-01-01,505872.47,0.0,505872.47
+E003,"García, Juan",2023-08-01,2023,8,Vendedor Senior,Ventas,M,2018-01-01,350968.28,0.0,350968.28
+E004,"Martínez, Ana",2023-08-01,2023,8,Vendedora,Ventas,F,2018-01-01,291772.76,0.0,291772.76
+E005,"Rodríguez, Luis",2023-08-01,2023,8,Técnico Senior,Taller,M,2018-01-01,385268.7,0.0,385268.7
+E007,"Torres, Sofía",2023-08-01,2023,8,Administrativa,Administración,F,2018-01-01,306578.33,0.0,306578.33
+E008,"Ramírez, Diego",2023-08-01,2023,8,Encargado Depósito,Logística,M,2018-01-01,327317.73,0.0,327317.73
+E012,"Peralta, Marcos",2023-08-01,2023,8,Vendedor,Ventas,M,2020-09-01,329500.32,0.0,329500.32
+E013,"Castro, Luciana",2023-08-01,2023,8,Administrativa,Administración,F,2020-11-01,318983.49,0.0,318983.49
+E014,"Ruiz, Nicolás",2023-08-01,2023,8,Técnico,Taller,M,2021-02-01,384143.68,0.0,384143.68
+E015,"Morales, Camila",2023-08-01,2023,8,Vendedora,Ventas,F,2021-04-01,351636.81,0.0,351636.81
+E016,"Vargas, Hernán",2023-08-01,2023,8,Depósito,Logística,M,2021-06-01,326620.35,0.0,326620.35
+E017,"Acosta, Florencia",2023-08-01,2023,8,Técnica,Taller,F,2021-09-01,380108.77,0.0,380108.77
+E018,"Ibáñez, Tomás",2023-08-01,2023,8,Vendedor,Ventas,M,2022-01-01,460354.34,0.0,460354.34
+E019,"Suárez, Beatriz",2023-08-01,2023,8,Contadora,Administración,F,2022-07-01,694867.15,0.0,694867.15
+E020,"Ríos, Agustín",2023-08-01,2023,8,Técnico ESG,Administración,M,2023-01-01,809464.51,0.0,809464.51
+E021,"Mendoza, Sofía",2023-08-01,2023,8,Técnica,Taller,F,2023-06-01,591254.46,0.0,591254.46
+E001,"Fernández, Carlos",2023-09-01,2023,9,Gerente General,Administración,M,2018-01-01,778246.09,0.0,778246.09
+E002,"López, María",2023-09-01,2023,9,Jefe de Ventas,Ventas,F,2018-01-01,502214.41,0.0,502214.41
+E003,"García, Juan",2023-09-01,2023,9,Vendedor Senior,Ventas,M,2018-01-01,347313.2,0.0,347313.2
+E004,"Martínez, Ana",2023-09-01,2023,9,Vendedora,Ventas,F,2018-01-01,292266.1,0.0,292266.1
+E005,"Rodríguez, Luis",2023-09-01,2023,9,Técnico Senior,Taller,M,2018-01-01,380523.72,0.0,380523.72
+E007,"Torres, Sofía",2023-09-01,2023,9,Administrativa,Administración,F,2018-01-01,293479.35,0.0,293479.35
+E008,"Ramírez, Diego",2023-09-01,2023,9,Encargado Depósito,Logística,M,2018-01-01,328490.79,0.0,328490.79
+E012,"Peralta, Marcos",2023-09-01,2023,9,Vendedor,Ventas,M,2020-09-01,327828.27,0.0,327828.27
+E013,"Castro, Luciana",2023-09-01,2023,9,Administrativa,Administración,F,2020-11-01,314673.53,0.0,314673.53
+E014,"Ruiz, Nicolás",2023-09-01,2023,9,Técnico,Taller,M,2021-02-01,380732.51,0.0,380732.51
+E015,"Morales, Camila",2023-09-01,2023,9,Vendedora,Ventas,F,2021-04-01,349919.88,0.0,349919.88
+E016,"Vargas, Hernán",2023-09-01,2023,9,Depósito,Logística,M,2021-06-01,327930.45,0.0,327930.45
+E017,"Acosta, Florencia",2023-09-01,2023,9,Técnica,Taller,F,2021-09-01,384054.31,0.0,384054.31
+E018,"Ibáñez, Tomás",2023-09-01,2023,9,Vendedor,Ventas,M,2022-01-01,451472.06,0.0,451472.06
+E019,"Suárez, Beatriz",2023-09-01,2023,9,Contadora,Administración,F,2022-07-01,688595.41,0.0,688595.41
+E020,"Ríos, Agustín",2023-09-01,2023,9,Técnico ESG,Administración,M,2023-01-01,839710.78,0.0,839710.78
+E021,"Mendoza, Sofía",2023-09-01,2023,9,Técnica,Taller,F,2023-06-01,596367.17,0.0,596367.17
+E001,"Fernández, Carlos",2023-10-01,2023,10,Gerente General,Administración,M,2018-01-01,779202.42,0.0,779202.42
+E002,"López, María",2023-10-01,2023,10,Jefe de Ventas,Ventas,F,2018-01-01,503253.64,0.0,503253.64
+E003,"García, Juan",2023-10-01,2023,10,Vendedor Senior,Ventas,M,2018-01-01,344540.45,0.0,344540.45
+E004,"Martínez, Ana",2023-10-01,2023,10,Vendedora,Ventas,F,2018-01-01,294870.66,0.0,294870.66
+E005,"Rodríguez, Luis",2023-10-01,2023,10,Técnico Senior,Taller,M,2018-01-01,382871.42,0.0,382871.42
+E007,"Torres, Sofía",2023-10-01,2023,10,Administrativa,Administración,F,2018-01-01,306385.8,0.0,306385.8
+E008,"Ramírez, Diego",2023-10-01,2023,10,Encargado Depósito,Logística,M,2018-01-01,334446.13,0.0,334446.13
+E012,"Peralta, Marcos",2023-10-01,2023,10,Vendedor,Ventas,M,2020-09-01,326808.05,0.0,326808.05
+E013,"Castro, Luciana",2023-10-01,2023,10,Administrativa,Administración,F,2020-11-01,321896.2,0.0,321896.2
+E014,"Ruiz, Nicolás",2023-10-01,2023,10,Técnico,Taller,M,2021-02-01,381085.13,0.0,381085.13
+E015,"Morales, Camila",2023-10-01,2023,10,Vendedora,Ventas,F,2021-04-01,350864.78,0.0,350864.78
+E016,"Vargas, Hernán",2023-10-01,2023,10,Depósito,Logística,M,2021-06-01,325680.32,0.0,325680.32
+E017,"Acosta, Florencia",2023-10-01,2023,10,Técnica,Taller,F,2021-09-01,384246.17,0.0,384246.17
+E018,"Ibáñez, Tomás",2023-10-01,2023,10,Vendedor,Ventas,M,2022-01-01,458724.43,0.0,458724.43
+E019,"Suárez, Beatriz",2023-10-01,2023,10,Contadora,Administración,F,2022-07-01,689804.98,0.0,689804.98
+E020,"Ríos, Agustín",2023-10-01,2023,10,Técnico ESG,Administración,M,2023-01-01,813047.5,0.0,813047.5
+E021,"Mendoza, Sofía",2023-10-01,2023,10,Técnica,Taller,F,2023-06-01,595968.82,0.0,595968.82
+E001,"Fernández, Carlos",2023-11-01,2023,11,Gerente General,Administración,M,2018-01-01,777472.32,0.0,777472.32
+E002,"López, María",2023-11-01,2023,11,Jefe de Ventas,Ventas,F,2018-01-01,496294.72,0.0,496294.72
+E003,"García, Juan",2023-11-01,2023,11,Vendedor Senior,Ventas,M,2018-01-01,350840.86,0.0,350840.86
+E004,"Martínez, Ana",2023-11-01,2023,11,Vendedora,Ventas,F,2018-01-01,296760.19,0.0,296760.19
+E005,"Rodríguez, Luis",2023-11-01,2023,11,Técnico Senior,Taller,M,2018-01-01,383568.0,0.0,383568.0
+E007,"Torres, Sofía",2023-11-01,2023,11,Administrativa,Administración,F,2018-01-01,300794.0,0.0,300794.0
+E008,"Ramírez, Diego",2023-11-01,2023,11,Encargado Depósito,Logística,M,2018-01-01,327368.75,0.0,327368.75
+E012,"Peralta, Marcos",2023-11-01,2023,11,Vendedor,Ventas,M,2020-09-01,336900.5,0.0,336900.5
+E013,"Castro, Luciana",2023-11-01,2023,11,Administrativa,Administración,F,2020-11-01,322448.15,0.0,322448.15
+E014,"Ruiz, Nicolás",2023-11-01,2023,11,Técnico,Taller,M,2021-02-01,380597.45,0.0,380597.45
+E015,"Morales, Camila",2023-11-01,2023,11,Vendedora,Ventas,F,2021-04-01,341308.57,0.0,341308.57
+E016,"Vargas, Hernán",2023-11-01,2023,11,Depósito,Logística,M,2021-06-01,327173.24,0.0,327173.24
+E017,"Acosta, Florencia",2023-11-01,2023,11,Técnica,Taller,F,2021-09-01,381727.43,0.0,381727.43
+E018,"Ibáñez, Tomás",2023-11-01,2023,11,Vendedor,Ventas,M,2022-01-01,457520.22,0.0,457520.22
+E019,"Suárez, Beatriz",2023-11-01,2023,11,Contadora,Administración,F,2022-07-01,684837.39,0.0,684837.39
+E020,"Ríos, Agustín",2023-11-01,2023,11,Técnico ESG,Administración,M,2023-01-01,830841.59,0.0,830841.59
+E021,"Mendoza, Sofía",2023-11-01,2023,11,Técnica,Taller,F,2023-06-01,577193.7,0.0,577193.7
+E001,"Fernández, Carlos",2023-12-01,2023,12,Gerente General,Administración,M,2018-01-01,779975.38,389987.69,1169963.07
+E002,"López, María",2023-12-01,2023,12,Jefe de Ventas,Ventas,F,2018-01-01,506477.73,253238.86,759716.59
+E003,"García, Juan",2023-12-01,2023,12,Vendedor Senior,Ventas,M,2018-01-01,340597.58,170298.79,510896.38
+E004,"Martínez, Ana",2023-12-01,2023,12,Vendedora,Ventas,F,2018-01-01,289533.62,144766.81,434300.43
+E005,"Rodríguez, Luis",2023-12-01,2023,12,Técnico Senior,Taller,M,2018-01-01,381483.22,190741.61,572224.83
+E007,"Torres, Sofía",2023-12-01,2023,12,Administrativa,Administración,F,2018-01-01,302719.46,151359.73,454079.18
+E008,"Ramírez, Diego",2023-12-01,2023,12,Encargado Depósito,Logística,M,2018-01-01,327216.88,163608.44,490825.32
+E012,"Peralta, Marcos",2023-12-01,2023,12,Vendedor,Ventas,M,2020-09-01,328462.88,164231.44,492694.33
+E013,"Castro, Luciana",2023-12-01,2023,12,Administrativa,Administración,F,2020-11-01,316929.98,158464.99,475394.96
+E014,"Ruiz, Nicolás",2023-12-01,2023,12,Técnico,Taller,M,2021-02-01,383582.35,191791.18,575373.53
+E015,"Morales, Camila",2023-12-01,2023,12,Vendedora,Ventas,F,2021-04-01,344640.01,172320.01,516960.02
+E016,"Vargas, Hernán",2023-12-01,2023,12,Depósito,Logística,M,2021-06-01,325691.87,162845.93,488537.8
+E017,"Acosta, Florencia",2023-12-01,2023,12,Técnica,Taller,F,2021-09-01,383877.29,191938.65,575815.94
+E018,"Ibáñez, Tomás",2023-12-01,2023,12,Vendedor,Ventas,M,2022-01-01,460298.79,230149.39,690448.18
+E019,"Suárez, Beatriz",2023-12-01,2023,12,Contadora,Administración,F,2022-07-01,686327.84,343163.92,1029491.76
+E020,"Ríos, Agustín",2023-12-01,2023,12,Técnico ESG,Administración,M,2023-01-01,819589.59,409794.79,1229384.38
+E021,"Mendoza, Sofía",2023-12-01,2023,12,Técnica,Taller,F,2023-06-01,599247.18,299623.59,898870.77
+E001,"Fernández, Carlos",2024-01-01,2024,1,Gerente General,Administración,M,2018-01-01,2401686.73,0.0,2401686.73
+E002,"López, María",2024-01-01,2024,1,Jefe de Ventas,Ventas,F,2018-01-01,1559945.29,0.0,1559945.29
+E003,"García, Juan",2024-01-01,2024,1,Vendedor Senior,Ventas,M,2018-01-01,1091261.33,0.0,1091261.33
+E004,"Martínez, Ana",2024-01-01,2024,1,Vendedora,Ventas,F,2018-01-01,904417.73,0.0,904417.73
+E005,"Rodríguez, Luis",2024-01-01,2024,1,Técnico Senior,Taller,M,2018-01-01,1185732.93,0.0,1185732.93
+E007,"Torres, Sofía",2024-01-01,2024,1,Administrativa,Administración,F,2018-01-01,943680.04,0.0,943680.04
+E008,"Ramírez, Diego",2024-01-01,2024,1,Encargado Depósito,Logística,M,2018-01-01,1011670.66,0.0,1011670.66
+E012,"Peralta, Marcos",2024-01-01,2024,1,Vendedor,Ventas,M,2020-09-01,1034147.94,0.0,1034147.94
+E013,"Castro, Luciana",2024-01-01,2024,1,Administrativa,Administración,F,2020-11-01,974235.68,0.0,974235.68
+E014,"Ruiz, Nicolás",2024-01-01,2024,1,Técnico,Taller,M,2021-02-01,1193072.33,0.0,1193072.33
+E015,"Morales, Camila",2024-01-01,2024,1,Vendedora,Ventas,F,2021-04-01,1071618.52,0.0,1071618.52
+E016,"Vargas, Hernán",2024-01-01,2024,1,Depósito,Logística,M,2021-06-01,1025340.44,0.0,1025340.44
+E017,"Acosta, Florencia",2024-01-01,2024,1,Técnica,Taller,F,2021-09-01,1209638.06,0.0,1209638.06
+E018,"Ibáñez, Tomás",2024-01-01,2024,1,Vendedor,Ventas,M,2022-01-01,1402840.86,0.0,1402840.86
+E019,"Suárez, Beatriz",2024-01-01,2024,1,Contadora,Administración,F,2022-07-01,2098987.91,0.0,2098987.91
+E020,"Ríos, Agustín",2024-01-01,2024,1,Técnico ESG,Administración,M,2023-01-01,2584061.82,0.0,2584061.82
+E021,"Mendoza, Sofía",2024-01-01,2024,1,Técnica,Taller,F,2023-06-01,1840793.41,0.0,1840793.41
+E001,"Fernández, Carlos",2024-02-01,2024,2,Gerente General,Administración,M,2018-01-01,2410754.24,0.0,2410754.24
+E002,"López, María",2024-02-01,2024,2,Jefe de Ventas,Ventas,F,2018-01-01,1557039.02,0.0,1557039.02
+E003,"García, Juan",2024-02-01,2024,2,Vendedor Senior,Ventas,M,2018-01-01,1074729.75,0.0,1074729.75
+E004,"Martínez, Ana",2024-02-01,2024,2,Vendedora,Ventas,F,2018-01-01,900041.87,0.0,900041.87
+E005,"Rodríguez, Luis",2024-02-01,2024,2,Técnico Senior,Taller,M,2018-01-01,1189290.46,0.0,1189290.46
+E007,"Torres, Sofía",2024-02-01,2024,2,Administrativa,Administración,F,2018-01-01,928819.03,0.0,928819.03
+E008,"Ramírez, Diego",2024-02-01,2024,2,Encargado Depósito,Logística,M,2018-01-01,1032101.48,0.0,1032101.48
+E012,"Peralta, Marcos",2024-02-01,2024,2,Vendedor,Ventas,M,2020-09-01,1016219.13,0.0,1016219.13
+E013,"Castro, Luciana",2024-02-01,2024,2,Administrativa,Administración,F,2020-11-01,1006508.63,0.0,1006508.63
+E014,"Ruiz, Nicolás",2024-02-01,2024,2,Técnico,Taller,M,2021-02-01,1200157.95,0.0,1200157.95
+E015,"Morales, Camila",2024-02-01,2024,2,Vendedora,Ventas,F,2021-04-01,1067832.89,0.0,1067832.89
+E016,"Vargas, Hernán",2024-02-01,2024,2,Depósito,Logística,M,2021-06-01,1011004.27,0.0,1011004.27
+E017,"Acosta, Florencia",2024-02-01,2024,2,Técnica,Taller,F,2021-09-01,1189552.38,0.0,1189552.38
+E018,"Ibáñez, Tomás",2024-02-01,2024,2,Vendedor,Ventas,M,2022-01-01,1408869.78,0.0,1408869.78
+E019,"Suárez, Beatriz",2024-02-01,2024,2,Contadora,Administración,F,2022-07-01,2113157.8,0.0,2113157.8
+E020,"Ríos, Agustín",2024-02-01,2024,2,Técnico ESG,Administración,M,2023-01-01,2576130.13,0.0,2576130.13
+E021,"Mendoza, Sofía",2024-02-01,2024,2,Técnica,Taller,F,2023-06-01,1850106.87,0.0,1850106.87
+E022,"Herrera, Matías",2024-02-01,2024,2,Vendedor,Ventas,M,2024-02-01,4310175.58,0.0,4310175.58
+E001,"Fernández, Carlos",2024-03-01,2024,3,Gerente General,Administración,M,2018-01-01,2386886.81,0.0,2386886.81
+E002,"López, María",2024-03-01,2024,3,Jefe de Ventas,Ventas,F,2018-01-01,1532574.38,0.0,1532574.38
+E004,"Martínez, Ana",2024-03-01,2024,3,Vendedora,Ventas,F,2018-01-01,901692.92,0.0,901692.92
+E005,"Rodríguez, Luis",2024-03-01,2024,3,Técnico Senior,Taller,M,2018-01-01,1205020.03,0.0,1205020.03
+E007,"Torres, Sofía",2024-03-01,2024,3,Administrativa,Administración,F,2018-01-01,930840.61,0.0,930840.61
+E008,"Ramírez, Diego",2024-03-01,2024,3,Encargado Depósito,Logística,M,2018-01-01,1038595.64,0.0,1038595.64
+E012,"Peralta, Marcos",2024-03-01,2024,3,Vendedor,Ventas,M,2020-09-01,1016421.65,0.0,1016421.65
+E013,"Castro, Luciana",2024-03-01,2024,3,Administrativa,Administración,F,2020-11-01,999288.73,0.0,999288.73
+E014,"Ruiz, Nicolás",2024-03-01,2024,3,Técnico,Taller,M,2021-02-01,1191873.61,0.0,1191873.61
+E015,"Morales, Camila",2024-03-01,2024,3,Vendedora,Ventas,F,2021-04-01,1057498.05,0.0,1057498.05
+E016,"Vargas, Hernán",2024-03-01,2024,3,Depósito,Logística,M,2021-06-01,1015125.42,0.0,1015125.42
+E017,"Acosta, Florencia",2024-03-01,2024,3,Técnica,Taller,F,2021-09-01,1197903.61,0.0,1197903.61
+E018,"Ibáñez, Tomás",2024-03-01,2024,3,Vendedor,Ventas,M,2022-01-01,1418594.77,0.0,1418594.77
+E019,"Suárez, Beatriz",2024-03-01,2024,3,Contadora,Administración,F,2022-07-01,2119576.83,0.0,2119576.83
+E020,"Ríos, Agustín",2024-03-01,2024,3,Técnico ESG,Administración,M,2023-01-01,2550365.55,0.0,2550365.55
+E021,"Mendoza, Sofía",2024-03-01,2024,3,Técnica,Taller,F,2023-06-01,1847821.93,0.0,1847821.93
+E022,"Herrera, Matías",2024-03-01,2024,3,Vendedor,Ventas,M,2024-02-01,4141904.81,0.0,4141904.81
+E001,"Fernández, Carlos",2024-04-01,2024,4,Gerente General,Administración,M,2018-01-01,2399285.33,0.0,2399285.33
+E002,"López, María",2024-04-01,2024,4,Jefe de Ventas,Ventas,F,2018-01-01,1548561.72,0.0,1548561.72
+E004,"Martínez, Ana",2024-04-01,2024,4,Vendedora,Ventas,F,2018-01-01,914614.49,0.0,914614.49
+E005,"Rodríguez, Luis",2024-04-01,2024,4,Técnico Senior,Taller,M,2018-01-01,1201217.31,0.0,1201217.31
+E007,"Torres, Sofía",2024-04-01,2024,4,Administrativa,Administración,F,2018-01-01,938305.16,0.0,938305.16
+E008,"Ramírez, Diego",2024-04-01,2024,4,Encargado Depósito,Logística,M,2018-01-01,1023028.61,0.0,1023028.61
+E012,"Peralta, Marcos",2024-04-01,2024,4,Vendedor,Ventas,M,2020-09-01,1001308.17,0.0,1001308.17
+E013,"Castro, Luciana",2024-04-01,2024,4,Administrativa,Administración,F,2020-11-01,984456.97,0.0,984456.97
+E014,"Ruiz, Nicolás",2024-04-01,2024,4,Técnico,Taller,M,2021-02-01,1187968.41,0.0,1187968.41
+E015,"Morales, Camila",2024-04-01,2024,4,Vendedora,Ventas,F,2021-04-01,1077461.95,0.0,1077461.95
+E016,"Vargas, Hernán",2024-04-01,2024,4,Depósito,Logística,M,2021-06-01,1021817.98,0.0,1021817.98
+E017,"Acosta, Florencia",2024-04-01,2024,4,Técnica,Taller,F,2021-09-01,1168955.23,0.0,1168955.23
+E018,"Ibáñez, Tomás",2024-04-01,2024,4,Vendedor,Ventas,M,2022-01-01,1433103.88,0.0,1433103.88
+E019,"Suárez, Beatriz",2024-04-01,2024,4,Contadora,Administración,F,2022-07-01,2107110.79,0.0,2107110.79
+E020,"Ríos, Agustín",2024-04-01,2024,4,Técnico ESG,Administración,M,2023-01-01,2496763.83,0.0,2496763.83
+E021,"Mendoza, Sofía",2024-04-01,2024,4,Técnica,Taller,F,2023-06-01,1859499.52,0.0,1859499.52
+E022,"Herrera, Matías",2024-04-01,2024,4,Vendedor,Ventas,M,2024-02-01,4218942.72,0.0,4218942.72
+E001,"Fernández, Carlos",2024-05-01,2024,5,Gerente General,Administración,M,2018-01-01,2429449.04,0.0,2429449.04
+E002,"López, María",2024-05-01,2024,5,Jefe de Ventas,Ventas,F,2018-01-01,1533968.7,0.0,1533968.7
+E004,"Martínez, Ana",2024-05-01,2024,5,Vendedora,Ventas,F,2018-01-01,904649.82,0.0,904649.82
+E005,"Rodríguez, Luis",2024-05-01,2024,5,Técnico Senior,Taller,M,2018-01-01,1180689.89,0.0,1180689.89
+E007,"Torres, Sofía",2024-05-01,2024,5,Administrativa,Administración,F,2018-01-01,940394.25,0.0,940394.25
+E008,"Ramírez, Diego",2024-05-01,2024,5,Encargado Depósito,Logística,M,2018-01-01,1012771.31,0.0,1012771.31
+E012,"Peralta, Marcos",2024-05-01,2024,5,Vendedor,Ventas,M,2020-09-01,1025886.99,0.0,1025886.99
+E013,"Castro, Luciana",2024-05-01,2024,5,Administrativa,Administración,F,2020-11-01,989279.48,0.0,989279.48
+E014,"Ruiz, Nicolás",2024-05-01,2024,5,Técnico,Taller,M,2021-02-01,1184342.55,0.0,1184342.55
+E015,"Morales, Camila",2024-05-01,2024,5,Vendedora,Ventas,F,2021-04-01,1088341.22,0.0,1088341.22
+E016,"Vargas, Hernán",2024-05-01,2024,5,Depósito,Logística,M,2021-06-01,1041833.85,0.0,1041833.85
+E017,"Acosta, Florencia",2024-05-01,2024,5,Técnica,Taller,F,2021-09-01,1187831.44,0.0,1187831.44
+E018,"Ibáñez, Tomás",2024-05-01,2024,5,Vendedor,Ventas,M,2022-01-01,1408285.73,0.0,1408285.73
+E019,"Suárez, Beatriz",2024-05-01,2024,5,Contadora,Administración,F,2022-07-01,2125942.22,0.0,2125942.22
+E020,"Ríos, Agustín",2024-05-01,2024,5,Técnico ESG,Administración,M,2023-01-01,2557428.61,0.0,2557428.61
+E021,"Mendoza, Sofía",2024-05-01,2024,5,Técnica,Taller,F,2023-06-01,1811942.52,0.0,1811942.52
+E022,"Herrera, Matías",2024-05-01,2024,5,Vendedor,Ventas,M,2024-02-01,4214607.38,0.0,4214607.38
+E001,"Fernández, Carlos",2024-06-01,2024,6,Gerente General,Administración,M,2018-01-01,2376410.68,0.0,2376410.68
+E002,"López, María",2024-06-01,2024,6,Jefe de Ventas,Ventas,F,2018-01-01,1543202.35,0.0,1543202.35
+E004,"Martínez, Ana",2024-06-01,2024,6,Vendedora,Ventas,F,2018-01-01,921520.73,0.0,921520.73
+E005,"Rodríguez, Luis",2024-06-01,2024,6,Técnico Senior,Taller,M,2018-01-01,1164920.79,0.0,1164920.79
+E007,"Torres, Sofía",2024-06-01,2024,6,Administrativa,Administración,F,2018-01-01,940204.44,0.0,940204.44
+E008,"Ramírez, Diego",2024-06-01,2024,6,Encargado Depósito,Logística,M,2018-01-01,1018086.08,0.0,1018086.08
+E012,"Peralta, Marcos",2024-06-01,2024,6,Vendedor,Ventas,M,2020-09-01,1024358.21,0.0,1024358.21
+E013,"Castro, Luciana",2024-06-01,2024,6,Administrativa,Administración,F,2020-11-01,981876.12,0.0,981876.12
+E014,"Ruiz, Nicolás",2024-06-01,2024,6,Técnico,Taller,M,2021-02-01,1186695.95,0.0,1186695.95
+E015,"Morales, Camila",2024-06-01,2024,6,Vendedora,Ventas,F,2021-04-01,1091840.49,0.0,1091840.49
+E016,"Vargas, Hernán",2024-06-01,2024,6,Depósito,Logística,M,2021-06-01,1017227.04,0.0,1017227.04
+E017,"Acosta, Florencia",2024-06-01,2024,6,Técnica,Taller,F,2021-09-01,1208990.74,0.0,1208990.74
+E018,"Ibáñez, Tomás",2024-06-01,2024,6,Vendedor,Ventas,M,2022-01-01,1380586.92,0.0,1380586.92
+E019,"Suárez, Beatriz",2024-06-01,2024,6,Contadora,Administración,F,2022-07-01,2140373.45,0.0,2140373.45
+E020,"Ríos, Agustín",2024-06-01,2024,6,Técnico ESG,Administración,M,2023-01-01,2555744.09,0.0,2555744.09
+E021,"Mendoza, Sofía",2024-06-01,2024,6,Técnica,Taller,F,2023-06-01,1818507.56,0.0,1818507.56
+E022,"Herrera, Matías",2024-06-01,2024,6,Vendedor,Ventas,M,2024-02-01,4296792.91,0.0,4296792.91
+E001,"Fernández, Carlos",2024-07-01,2024,7,Gerente General,Administración,M,2018-01-01,2394683.99,0.0,2394683.99
+E002,"López, María",2024-07-01,2024,7,Jefe de Ventas,Ventas,F,2018-01-01,1564802.78,0.0,1564802.78
+E004,"Martínez, Ana",2024-07-01,2024,7,Vendedora,Ventas,F,2018-01-01,899364.97,0.0,899364.97
+E005,"Rodríguez, Luis",2024-07-01,2024,7,Técnico Senior,Taller,M,2018-01-01,1186099.83,0.0,1186099.83
+E007,"Torres, Sofía",2024-07-01,2024,7,Administrativa,Administración,F,2018-01-01,943322.96,0.0,943322.96
+E008,"Ramírez, Diego",2024-07-01,2024,7,Encargado Depósito,Logística,M,2018-01-01,1045908.56,0.0,1045908.56
+E012,"Peralta, Marcos",2024-07-01,2024,7,Vendedor,Ventas,M,2020-09-01,1012695.64,0.0,1012695.64
+E013,"Castro, Luciana",2024-07-01,2024,7,Administrativa,Administración,F,2020-11-01,1005898.0,0.0,1005898.0
+E014,"Ruiz, Nicolás",2024-07-01,2024,7,Técnico,Taller,M,2021-02-01,1208157.35,0.0,1208157.35
+E015,"Morales, Camila",2024-07-01,2024,7,Vendedora,Ventas,F,2021-04-01,1085519.53,0.0,1085519.53
+E016,"Vargas, Hernán",2024-07-01,2024,7,Depósito,Logística,M,2021-06-01,1029711.44,0.0,1029711.44
+E017,"Acosta, Florencia",2024-07-01,2024,7,Técnica,Taller,F,2021-09-01,1183750.36,0.0,1183750.36
+E018,"Ibáñez, Tomás",2024-07-01,2024,7,Vendedor,Ventas,M,2022-01-01,1405505.41,0.0,1405505.41
+E019,"Suárez, Beatriz",2024-07-01,2024,7,Contadora,Administración,F,2022-07-01,2118827.0,0.0,2118827.0
+E020,"Ríos, Agustín",2024-07-01,2024,7,Técnico ESG,Administración,M,2023-01-01,2561489.04,0.0,2561489.04
+E021,"Mendoza, Sofía",2024-07-01,2024,7,Técnica,Taller,F,2023-06-01,1839483.54,0.0,1839483.54
+E022,"Herrera, Matías",2024-07-01,2024,7,Vendedor,Ventas,M,2024-02-01,4225987.92,0.0,4225987.92
+E001,"Fernández, Carlos",2024-08-01,2024,8,Gerente General,Administración,M,2018-01-01,2395794.96,0.0,2395794.96
+E002,"López, María",2024-08-01,2024,8,Jefe de Ventas,Ventas,F,2018-01-01,1556443.52,0.0,1556443.52
+E004,"Martínez, Ana",2024-08-01,2024,8,Vendedora,Ventas,F,2018-01-01,916142.45,0.0,916142.45
+E005,"Rodríguez, Luis",2024-08-01,2024,8,Técnico Senior,Taller,M,2018-01-01,1179320.64,0.0,1179320.64
+E007,"Torres, Sofía",2024-08-01,2024,8,Administrativa,Administración,F,2018-01-01,942017.17,0.0,942017.17
+E008,"Ramírez, Diego",2024-08-01,2024,8,Encargado Depósito,Logística,M,2018-01-01,1027235.67,0.0,1027235.67
+E012,"Peralta, Marcos",2024-08-01,2024,8,Vendedor,Ventas,M,2020-09-01,1016531.22,0.0,1016531.22
+E013,"Castro, Luciana",2024-08-01,2024,8,Administrativa,Administración,F,2020-11-01,996425.03,0.0,996425.03
+E014,"Ruiz, Nicolás",2024-08-01,2024,8,Técnico,Taller,M,2021-02-01,1206325.48,0.0,1206325.48
+E015,"Morales, Camila",2024-08-01,2024,8,Vendedora,Ventas,F,2021-04-01,1075143.77,0.0,1075143.77
+E016,"Vargas, Hernán",2024-08-01,2024,8,Depósito,Logística,M,2021-06-01,1013978.35,0.0,1013978.35
+E017,"Acosta, Florencia",2024-08-01,2024,8,Técnica,Taller,F,2021-09-01,1180710.32,0.0,1180710.32
+E018,"Ibáñez, Tomás",2024-08-01,2024,8,Vendedor,Ventas,M,2022-01-01,1407271.58,0.0,1407271.58
+E019,"Suárez, Beatriz",2024-08-01,2024,8,Contadora,Administración,F,2022-07-01,2145732.01,0.0,2145732.01
+E020,"Ríos, Agustín",2024-08-01,2024,8,Técnico ESG,Administración,M,2023-01-01,2553216.51,0.0,2553216.51
+E021,"Mendoza, Sofía",2024-08-01,2024,8,Técnica,Taller,F,2023-06-01,1815484.48,0.0,1815484.48
+E022,"Herrera, Matías",2024-08-01,2024,8,Vendedor,Ventas,M,2024-02-01,4311218.43,0.0,4311218.43
+E023,"Quiroga, Julia",2024-08-01,2024,8,Depósito,Logística,F,2024-08-01,3966762.86,0.0,3966762.86
+E001,"Fernández, Carlos",2024-09-01,2024,9,Gerente General,Administración,M,2018-01-01,2424332.94,0.0,2424332.94
+E002,"López, María",2024-09-01,2024,9,Jefe de Ventas,Ventas,F,2018-01-01,1570582.07,0.0,1570582.07
+E004,"Martínez, Ana",2024-09-01,2024,9,Vendedora,Ventas,F,2018-01-01,900752.26,0.0,900752.26
+E005,"Rodríguez, Luis",2024-09-01,2024,9,Técnico Senior,Taller,M,2018-01-01,1177512.41,0.0,1177512.41
+E007,"Torres, Sofía",2024-09-01,2024,9,Administrativa,Administración,F,2018-01-01,927657.38,0.0,927657.38
+E008,"Ramírez, Diego",2024-09-01,2024,9,Encargado Depósito,Logística,M,2018-01-01,1019876.81,0.0,1019876.81
+E012,"Peralta, Marcos",2024-09-01,2024,9,Vendedor,Ventas,M,2020-09-01,1026341.58,0.0,1026341.58
+E013,"Castro, Luciana",2024-09-01,2024,9,Administrativa,Administración,F,2020-11-01,1011997.75,0.0,1011997.75
+E014,"Ruiz, Nicolás",2024-09-01,2024,9,Técnico,Taller,M,2021-02-01,1202884.99,0.0,1202884.99
+E015,"Morales, Camila",2024-09-01,2024,9,Vendedora,Ventas,F,2021-04-01,1057448.01,0.0,1057448.01
+E016,"Vargas, Hernán",2024-09-01,2024,9,Depósito,Logística,M,2021-06-01,1020311.94,0.0,1020311.94
+E017,"Acosta, Florencia",2024-09-01,2024,9,Técnica,Taller,F,2021-09-01,1165063.81,0.0,1165063.81
+E018,"Ibáñez, Tomás",2024-09-01,2024,9,Vendedor,Ventas,M,2022-01-01,1432896.31,0.0,1432896.31
+E019,"Suárez, Beatriz",2024-09-01,2024,9,Contadora,Administración,F,2022-07-01,2124656.02,0.0,2124656.02
+E020,"Ríos, Agustín",2024-09-01,2024,9,Técnico ESG,Administración,M,2023-01-01,2555577.82,0.0,2555577.82
+E021,"Mendoza, Sofía",2024-09-01,2024,9,Técnica,Taller,F,2023-06-01,1840684.59,0.0,1840684.59
+E022,"Herrera, Matías",2024-09-01,2024,9,Vendedor,Ventas,M,2024-02-01,4261009.61,0.0,4261009.61
+E023,"Quiroga, Julia",2024-09-01,2024,9,Depósito,Logística,F,2024-08-01,3946693.36,0.0,3946693.36
+E001,"Fernández, Carlos",2024-10-01,2024,10,Gerente General,Administración,M,2018-01-01,2415118.68,0.0,2415118.68
+E002,"López, María",2024-10-01,2024,10,Jefe de Ventas,Ventas,F,2018-01-01,1546357.32,0.0,1546357.32
+E004,"Martínez, Ana",2024-10-01,2024,10,Vendedora,Ventas,F,2018-01-01,910972.1,0.0,910972.1
+E005,"Rodríguez, Luis",2024-10-01,2024,10,Técnico Senior,Taller,M,2018-01-01,1195407.38,0.0,1195407.38
+E007,"Torres, Sofía",2024-10-01,2024,10,Administrativa,Administración,F,2018-01-01,941195.71,0.0,941195.71
+E008,"Ramírez, Diego",2024-10-01,2024,10,Encargado Depósito,Logística,M,2018-01-01,1020858.48,0.0,1020858.48
+E012,"Peralta, Marcos",2024-10-01,2024,10,Vendedor,Ventas,M,2020-09-01,1032488.34,0.0,1032488.34
+E013,"Castro, Luciana",2024-10-01,2024,10,Administrativa,Administración,F,2020-11-01,1011552.04,0.0,1011552.04
+E014,"Ruiz, Nicolás",2024-10-01,2024,10,Técnico,Taller,M,2021-02-01,1173893.44,0.0,1173893.44
+E015,"Morales, Camila",2024-10-01,2024,10,Vendedora,Ventas,F,2021-04-01,1064976.29,0.0,1064976.29
+E016,"Vargas, Hernán",2024-10-01,2024,10,Depósito,Logística,M,2021-06-01,1020123.65,0.0,1020123.65
+E017,"Acosta, Florencia",2024-10-01,2024,10,Técnica,Taller,F,2021-09-01,1186793.88,0.0,1186793.88
+E018,"Ibáñez, Tomás",2024-10-01,2024,10,Vendedor,Ventas,M,2022-01-01,1426005.66,0.0,1426005.66
+E019,"Suárez, Beatriz",2024-10-01,2024,10,Contadora,Administración,F,2022-07-01,2139018.0,0.0,2139018.0
+E020,"Ríos, Agustín",2024-10-01,2024,10,Técnico ESG,Administración,M,2023-01-01,2562333.88,0.0,2562333.88
+E021,"Mendoza, Sofía",2024-10-01,2024,10,Técnica,Taller,F,2023-06-01,1814418.92,0.0,1814418.92
+E022,"Herrera, Matías",2024-10-01,2024,10,Vendedor,Ventas,M,2024-02-01,4266148.5,0.0,4266148.5
+E023,"Quiroga, Julia",2024-10-01,2024,10,Depósito,Logística,F,2024-08-01,4047534.04,0.0,4047534.04
+E001,"Fernández, Carlos",2024-11-01,2024,11,Gerente General,Administración,M,2018-01-01,2425208.06,0.0,2425208.06
+E002,"López, María",2024-11-01,2024,11,Jefe de Ventas,Ventas,F,2018-01-01,1560153.06,0.0,1560153.06
+E004,"Martínez, Ana",2024-11-01,2024,11,Vendedora,Ventas,F,2018-01-01,913943.66,0.0,913943.66
+E005,"Rodríguez, Luis",2024-11-01,2024,11,Técnico Senior,Taller,M,2018-01-01,1181871.67,0.0,1181871.67
+E007,"Torres, Sofía",2024-11-01,2024,11,Administrativa,Administración,F,2018-01-01,940625.4,0.0,940625.4
+E008,"Ramírez, Diego",2024-11-01,2024,11,Encargado Depósito,Logística,M,2018-01-01,1021654.44,0.0,1021654.44
+E012,"Peralta, Marcos",2024-11-01,2024,11,Vendedor,Ventas,M,2020-09-01,1010183.13,0.0,1010183.13
+E013,"Castro, Luciana",2024-11-01,2024,11,Administrativa,Administración,F,2020-11-01,995925.71,0.0,995925.71
+E014,"Ruiz, Nicolás",2024-11-01,2024,11,Técnico,Taller,M,2021-02-01,1192706.48,0.0,1192706.48
+E015,"Morales, Camila",2024-11-01,2024,11,Vendedora,Ventas,F,2021-04-01,1087349.38,0.0,1087349.38
+E016,"Vargas, Hernán",2024-11-01,2024,11,Depósito,Logística,M,2021-06-01,1023230.03,0.0,1023230.03
+E017,"Acosta, Florencia",2024-11-01,2024,11,Técnica,Taller,F,2021-09-01,1194642.54,0.0,1194642.54
+E018,"Ibáñez, Tomás",2024-11-01,2024,11,Vendedor,Ventas,M,2022-01-01,1421373.98,0.0,1421373.98
+E019,"Suárez, Beatriz",2024-11-01,2024,11,Contadora,Administración,F,2022-07-01,2131742.74,0.0,2131742.74
+E020,"Ríos, Agustín",2024-11-01,2024,11,Técnico ESG,Administración,M,2023-01-01,2583782.71,0.0,2583782.71
+E021,"Mendoza, Sofía",2024-11-01,2024,11,Técnica,Taller,F,2023-06-01,1858257.06,0.0,1858257.06
+E022,"Herrera, Matías",2024-11-01,2024,11,Vendedor,Ventas,M,2024-02-01,4217855.06,0.0,4217855.06
+E023,"Quiroga, Julia",2024-11-01,2024,11,Depósito,Logística,F,2024-08-01,3968949.25,0.0,3968949.25
+E001,"Fernández, Carlos",2024-12-01,2024,12,Gerente General,Administración,M,2018-01-01,2378772.39,1189386.19,3568158.58
+E002,"López, María",2024-12-01,2024,12,Jefe de Ventas,Ventas,F,2018-01-01,1584471.04,792235.52,2376706.56
+E004,"Martínez, Ana",2024-12-01,2024,12,Vendedora,Ventas,F,2018-01-01,902001.51,451000.76,1353002.27
+E005,"Rodríguez, Luis",2024-12-01,2024,12,Técnico Senior,Taller,M,2018-01-01,1183114.24,591557.12,1774671.36
+E007,"Torres, Sofía",2024-12-01,2024,12,Administrativa,Administración,F,2018-01-01,953813.8,476906.9,1430720.7
+E008,"Ramírez, Diego",2024-12-01,2024,12,Encargado Depósito,Logística,M,2018-01-01,1015779.17,507889.59,1523668.76
+E012,"Peralta, Marcos",2024-12-01,2024,12,Vendedor,Ventas,M,2020-09-01,1012163.65,506081.83,1518245.48
+E013,"Castro, Luciana",2024-12-01,2024,12,Administrativa,Administración,F,2020-11-01,1000027.74,500013.87,1500041.62
+E014,"Ruiz, Nicolás",2024-12-01,2024,12,Técnico,Taller,M,2021-02-01,1192076.31,596038.16,1788114.47
+E015,"Morales, Camila",2024-12-01,2024,12,Vendedora,Ventas,F,2021-04-01,1068996.25,534498.12,1603494.37
+E016,"Vargas, Hernán",2024-12-01,2024,12,Depósito,Logística,M,2021-06-01,1025310.91,512655.46,1537966.37
+E017,"Acosta, Florencia",2024-12-01,2024,12,Técnica,Taller,F,2021-09-01,1199659.21,599829.61,1799488.82
+E018,"Ibáñez, Tomás",2024-12-01,2024,12,Vendedor,Ventas,M,2022-01-01,1431514.75,715757.38,2147272.13
+E019,"Suárez, Beatriz",2024-12-01,2024,12,Contadora,Administración,F,2022-07-01,2134304.17,1067152.09,3201456.26
+E020,"Ríos, Agustín",2024-12-01,2024,12,Técnico ESG,Administración,M,2023-01-01,2577342.32,1288671.16,3866013.49
+E021,"Mendoza, Sofía",2024-12-01,2024,12,Técnica,Taller,F,2023-06-01,1860665.89,930332.94,2790998.83
+E022,"Herrera, Matías",2024-12-01,2024,12,Vendedor,Ventas,M,2024-02-01,4238079.5,2119039.75,6357119.25
+E023,"Quiroga, Julia",2024-12-01,2024,12,Depósito,Logística,F,2024-08-01,4041798.48,2020899.24,6062697.72
+E001,"Fernández, Carlos",2025-01-01,2025,1,Gerente General,Administración,M,2018-01-01,5294038.39,0.0,5294038.39
+E002,"López, María",2025-01-01,2025,1,Jefe de Ventas,Ventas,F,2018-01-01,3450863.36,0.0,3450863.36
+E004,"Martínez, Ana",2025-01-01,2025,1,Vendedora,Ventas,F,2018-01-01,1977414.8,0.0,1977414.8
+E005,"Rodríguez, Luis",2025-01-01,2025,1,Técnico Senior,Taller,M,2018-01-01,2620965.77,0.0,2620965.77
+E007,"Torres, Sofía",2025-01-01,2025,1,Administrativa,Administración,F,2018-01-01,2047599.27,0.0,2047599.27
+E008,"Ramírez, Diego",2025-01-01,2025,1,Encargado Depósito,Logística,M,2018-01-01,2249286.4,0.0,2249286.4
+E012,"Peralta, Marcos",2025-01-01,2025,1,Vendedor,Ventas,M,2020-09-01,2218344.73,0.0,2218344.73
+E013,"Castro, Luciana",2025-01-01,2025,1,Administrativa,Administración,F,2020-11-01,2153758.19,0.0,2153758.19
+E014,"Ruiz, Nicolás",2025-01-01,2025,1,Técnico,Taller,M,2021-02-01,2630992.13,0.0,2630992.13
+E015,"Morales, Camila",2025-01-01,2025,1,Vendedora,Ventas,F,2021-04-01,2357150.21,0.0,2357150.21
+E016,"Vargas, Hernán",2025-01-01,2025,1,Depósito,Logística,M,2021-06-01,2249566.3,0.0,2249566.3
+E017,"Acosta, Florencia",2025-01-01,2025,1,Técnica,Taller,F,2021-09-01,2562275.62,0.0,2562275.62
+E018,"Ibáñez, Tomás",2025-01-01,2025,1,Vendedor,Ventas,M,2022-01-01,3069067.21,0.0,3069067.21
+E019,"Suárez, Beatriz",2025-01-01,2025,1,Contadora,Administración,F,2022-07-01,4616727.59,0.0,4616727.59
+E020,"Ríos, Agustín",2025-01-01,2025,1,Técnico ESG,Administración,M,2023-01-01,5641480.72,0.0,5641480.72
+E021,"Mendoza, Sofía",2025-01-01,2025,1,Técnica,Taller,F,2023-06-01,4072865.22,0.0,4072865.22
+E022,"Herrera, Matías",2025-01-01,2025,1,Vendedor,Ventas,M,2024-02-01,9290117.95,0.0,9290117.95
+E023,"Quiroga, Julia",2025-01-01,2025,1,Depósito,Logística,F,2024-08-01,8704858.58,0.0,8704858.58
+E024,"Navarro, Leandro",2025-01-01,2025,1,IT / BI,Administración,M,2025-01-01,17355533.54,0.0,17355533.54
+E001,"Fernández, Carlos",2025-02-01,2025,2,Gerente General,Administración,M,2018-01-01,5207333.31,0.0,5207333.31
+E002,"López, María",2025-02-01,2025,2,Jefe de Ventas,Ventas,F,2018-01-01,3405425.83,0.0,3405425.83
+E004,"Martínez, Ana",2025-02-01,2025,2,Vendedora,Ventas,F,2018-01-01,1962270.39,0.0,1962270.39
+E005,"Rodríguez, Luis",2025-02-01,2025,2,Técnico Senior,Taller,M,2018-01-01,2589054.67,0.0,2589054.67
+E007,"Torres, Sofía",2025-02-01,2025,2,Administrativa,Administración,F,2018-01-01,2037452.88,0.0,2037452.88
+E008,"Ramírez, Diego",2025-02-01,2025,2,Encargado Depósito,Logística,M,2018-01-01,2264451.05,0.0,2264451.05
+E012,"Peralta, Marcos",2025-02-01,2025,2,Vendedor,Ventas,M,2020-09-01,2231192.72,0.0,2231192.72
+E013,"Castro, Luciana",2025-02-01,2025,2,Administrativa,Administración,F,2020-11-01,2156975.4,0.0,2156975.4
+E014,"Ruiz, Nicolás",2025-02-01,2025,2,Técnico,Taller,M,2021-02-01,2614907.13,0.0,2614907.13
+E015,"Morales, Camila",2025-02-01,2025,2,Vendedora,Ventas,F,2021-04-01,2335900.82,0.0,2335900.82
+E016,"Vargas, Hernán",2025-02-01,2025,2,Depósito,Logística,M,2021-06-01,2286876.93,0.0,2286876.93
+E017,"Acosta, Florencia",2025-02-01,2025,2,Técnica,Taller,F,2021-09-01,2610135.54,0.0,2610135.54
+E018,"Ibáñez, Tomás",2025-02-01,2025,2,Vendedor,Ventas,M,2022-01-01,3017498.6,0.0,3017498.6
+E019,"Suárez, Beatriz",2025-02-01,2025,2,Contadora,Administración,F,2022-07-01,4603672.42,0.0,4603672.42
+E020,"Ríos, Agustín",2025-02-01,2025,2,Técnico ESG,Administración,M,2023-01-01,5669509.14,0.0,5669509.14
+E021,"Mendoza, Sofía",2025-02-01,2025,2,Técnica,Taller,F,2023-06-01,4028152.99,0.0,4028152.99
+E022,"Herrera, Matías",2025-02-01,2025,2,Vendedor,Ventas,M,2024-02-01,9238087.52,0.0,9238087.52
+E023,"Quiroga, Julia",2025-02-01,2025,2,Depósito,Logística,F,2024-08-01,8698327.78,0.0,8698327.78
+E024,"Navarro, Leandro",2025-02-01,2025,2,IT / BI,Administración,M,2025-01-01,17050987.02,0.0,17050987.02
+E001,"Fernández, Carlos",2025-03-01,2025,3,Gerente General,Administración,M,2018-01-01,5208683.47,0.0,5208683.47
+E002,"López, María",2025-03-01,2025,3,Jefe de Ventas,Ventas,F,2018-01-01,3355497.49,0.0,3355497.49
+E004,"Martínez, Ana",2025-03-01,2025,3,Vendedora,Ventas,F,2018-01-01,1972874.13,0.0,1972874.13
+E005,"Rodríguez, Luis",2025-03-01,2025,3,Técnico Senior,Taller,M,2018-01-01,2640780.81,0.0,2640780.81
+E007,"Torres, Sofía",2025-03-01,2025,3,Administrativa,Administración,F,2018-01-01,2054238.49,0.0,2054238.49
+E012,"Peralta, Marcos",2025-03-01,2025,3,Vendedor,Ventas,M,2020-09-01,2238343.54,0.0,2238343.54
+E013,"Castro, Luciana",2025-03-01,2025,3,Administrativa,Administración,F,2020-11-01,2151504.5,0.0,2151504.5
+E014,"Ruiz, Nicolás",2025-03-01,2025,3,Técnico,Taller,M,2021-02-01,2619221.49,0.0,2619221.49
+E015,"Morales, Camila",2025-03-01,2025,3,Vendedora,Ventas,F,2021-04-01,2333186.76,0.0,2333186.76
+E016,"Vargas, Hernán",2025-03-01,2025,3,Depósito,Logística,M,2021-06-01,2223123.04,0.0,2223123.04
+E017,"Acosta, Florencia",2025-03-01,2025,3,Técnica,Taller,F,2021-09-01,2618568.87,0.0,2618568.87
+E018,"Ibáñez, Tomás",2025-03-01,2025,3,Vendedor,Ventas,M,2022-01-01,3091487.02,0.0,3091487.02
+E019,"Suárez, Beatriz",2025-03-01,2025,3,Contadora,Administración,F,2022-07-01,4683444.45,0.0,4683444.45
+E020,"Ríos, Agustín",2025-03-01,2025,3,Técnico ESG,Administración,M,2023-01-01,5558026.37,0.0,5558026.37
+E021,"Mendoza, Sofía",2025-03-01,2025,3,Técnica,Taller,F,2023-06-01,4076813.25,0.0,4076813.25
+E022,"Herrera, Matías",2025-03-01,2025,3,Vendedor,Ventas,M,2024-02-01,9320739.72,0.0,9320739.72
+E023,"Quiroga, Julia",2025-03-01,2025,3,Depósito,Logística,F,2024-08-01,8586797.58,0.0,8586797.58
+E024,"Navarro, Leandro",2025-03-01,2025,3,IT / BI,Administración,M,2025-01-01,17232228.14,0.0,17232228.14
+E001,"Fernández, Carlos",2025-04-01,2025,4,Gerente General,Administración,M,2018-01-01,5248057.71,0.0,5248057.71
+E002,"López, María",2025-04-01,2025,4,Jefe de Ventas,Ventas,F,2018-01-01,3435973.37,0.0,3435973.37
+E004,"Martínez, Ana",2025-04-01,2025,4,Vendedora,Ventas,F,2018-01-01,2016540.48,0.0,2016540.48
+E005,"Rodríguez, Luis",2025-04-01,2025,4,Técnico Senior,Taller,M,2018-01-01,2560312.53,0.0,2560312.53
+E007,"Torres, Sofía",2025-04-01,2025,4,Administrativa,Administración,F,2018-01-01,2034150.54,0.0,2034150.54
+E012,"Peralta, Marcos",2025-04-01,2025,4,Vendedor,Ventas,M,2020-09-01,2254994.94,0.0,2254994.94
+E013,"Castro, Luciana",2025-04-01,2025,4,Administrativa,Administración,F,2020-11-01,2164590.29,0.0,2164590.29
+E014,"Ruiz, Nicolás",2025-04-01,2025,4,Técnico,Taller,M,2021-02-01,2594913.82,0.0,2594913.82
+E015,"Morales, Camila",2025-04-01,2025,4,Vendedora,Ventas,F,2021-04-01,2364946.21,0.0,2364946.21
+E016,"Vargas, Hernán",2025-04-01,2025,4,Depósito,Logística,M,2021-06-01,2197679.49,0.0,2197679.49
+E017,"Acosta, Florencia",2025-04-01,2025,4,Técnica,Taller,F,2021-09-01,2614726.23,0.0,2614726.23
+E018,"Ibáñez, Tomás",2025-04-01,2025,4,Vendedor,Ventas,M,2022-01-01,3103473.63,0.0,3103473.63
+E019,"Suárez, Beatriz",2025-04-01,2025,4,Contadora,Administración,F,2022-07-01,4650154.69,0.0,4650154.69
+E020,"Ríos, Agustín",2025-04-01,2025,4,Técnico ESG,Administración,M,2023-01-01,5629371.04,0.0,5629371.04
+E021,"Mendoza, Sofía",2025-04-01,2025,4,Técnica,Taller,F,2023-06-01,4019422.78,0.0,4019422.78
+E022,"Herrera, Matías",2025-04-01,2025,4,Vendedor,Ventas,M,2024-02-01,9285733.28,0.0,9285733.28
+E023,"Quiroga, Julia",2025-04-01,2025,4,Depósito,Logística,F,2024-08-01,8678832.7,0.0,8678832.7
+E024,"Navarro, Leandro",2025-04-01,2025,4,IT / BI,Administración,M,2025-01-01,16971565.24,0.0,16971565.24
+E001,"Fernández, Carlos",2025-05-01,2025,5,Gerente General,Administración,M,2018-01-01,5314908.98,0.0,5314908.98
+E002,"López, María",2025-05-01,2025,5,Jefe de Ventas,Ventas,F,2018-01-01,3423600.91,0.0,3423600.91
+E004,"Martínez, Ana",2025-05-01,2025,5,Vendedora,Ventas,F,2018-01-01,1990852.54,0.0,1990852.54
+E005,"Rodríguez, Luis",2025-05-01,2025,5,Técnico Senior,Taller,M,2018-01-01,2607805.0,0.0,2607805.0
+E007,"Torres, Sofía",2025-05-01,2025,5,Administrativa,Administración,F,2018-01-01,2069779.34,0.0,2069779.34
+E012,"Peralta, Marcos",2025-05-01,2025,5,Vendedor,Ventas,M,2020-09-01,2232423.96,0.0,2232423.96
+E013,"Castro, Luciana",2025-05-01,2025,5,Administrativa,Administración,F,2020-11-01,2161156.54,0.0,2161156.54
+E014,"Ruiz, Nicolás",2025-05-01,2025,5,Técnico,Taller,M,2021-02-01,2553885.26,0.0,2553885.26
+E015,"Morales, Camila",2025-05-01,2025,5,Vendedora,Ventas,F,2021-04-01,2321573.34,0.0,2321573.34
+E016,"Vargas, Hernán",2025-05-01,2025,5,Depósito,Logística,M,2021-06-01,2220889.21,0.0,2220889.21
+E017,"Acosta, Florencia",2025-05-01,2025,5,Técnica,Taller,F,2021-09-01,2601553.05,0.0,2601553.05
+E018,"Ibáñez, Tomás",2025-05-01,2025,5,Vendedor,Ventas,M,2022-01-01,3075730.28,0.0,3075730.28
+E019,"Suárez, Beatriz",2025-05-01,2025,5,Contadora,Administración,F,2022-07-01,4630331.6,0.0,4630331.6
+E020,"Ríos, Agustín",2025-05-01,2025,5,Técnico ESG,Administración,M,2023-01-01,5518821.91,0.0,5518821.91
+E021,"Mendoza, Sofía",2025-05-01,2025,5,Técnica,Taller,F,2023-06-01,4060173.12,0.0,4060173.12
+E022,"Herrera, Matías",2025-05-01,2025,5,Vendedor,Ventas,M,2024-02-01,9255546.26,0.0,9255546.26
+E023,"Quiroga, Julia",2025-05-01,2025,5,Depósito,Logística,F,2024-08-01,8765313.93,0.0,8765313.93
+E024,"Navarro, Leandro",2025-05-01,2025,5,IT / BI,Administración,M,2025-01-01,17280951.23,0.0,17280951.23
+E001,"Fernández, Carlos",2025-06-01,2025,6,Gerente General,Administración,M,2018-01-01,5278840.53,0.0,5278840.53
+E002,"López, María",2025-06-01,2025,6,Jefe de Ventas,Ventas,F,2018-01-01,3419331.37,0.0,3419331.37
+E004,"Martínez, Ana",2025-06-01,2025,6,Vendedora,Ventas,F,2018-01-01,1983336.78,0.0,1983336.78
+E005,"Rodríguez, Luis",2025-06-01,2025,6,Técnico Senior,Taller,M,2018-01-01,2570260.64,0.0,2570260.64
+E007,"Torres, Sofía",2025-06-01,2025,6,Administrativa,Administración,F,2018-01-01,2035057.66,0.0,2035057.66
+E012,"Peralta, Marcos",2025-06-01,2025,6,Vendedor,Ventas,M,2020-09-01,2181412.72,0.0,2181412.72
+E013,"Castro, Luciana",2025-06-01,2025,6,Administrativa,Administración,F,2020-11-01,2201373.0,0.0,2201373.0
+E014,"Ruiz, Nicolás",2025-06-01,2025,6,Técnico,Taller,M,2021-02-01,2511620.3,0.0,2511620.3
+E015,"Morales, Camila",2025-06-01,2025,6,Vendedora,Ventas,F,2021-04-01,2371236.14,0.0,2371236.14
+E016,"Vargas, Hernán",2025-06-01,2025,6,Depósito,Logística,M,2021-06-01,2230094.46,0.0,2230094.46
+E017,"Acosta, Florencia",2025-06-01,2025,6,Técnica,Taller,F,2021-09-01,2553823.96,0.0,2553823.96
+E018,"Ibáñez, Tomás",2025-06-01,2025,6,Vendedor,Ventas,M,2022-01-01,3102057.59,0.0,3102057.59
+E019,"Suárez, Beatriz",2025-06-01,2025,6,Contadora,Administración,F,2022-07-01,4589636.57,0.0,4589636.57
+E020,"Ríos, Agustín",2025-06-01,2025,6,Técnico ESG,Administración,M,2023-01-01,5593276.46,0.0,5593276.46
+E021,"Mendoza, Sofía",2025-06-01,2025,6,Técnica,Taller,F,2023-06-01,4019881.93,0.0,4019881.93
+E022,"Herrera, Matías",2025-06-01,2025,6,Vendedor,Ventas,M,2024-02-01,9303288.65,0.0,9303288.65
+E023,"Quiroga, Julia",2025-06-01,2025,6,Depósito,Logística,F,2024-08-01,8631218.44,0.0,8631218.44
+E024,"Navarro, Leandro",2025-06-01,2025,6,IT / BI,Administración,M,2025-01-01,17556794.06,0.0,17556794.06
+E025,"Paz, Valentina",2025-06-01,2025,6,Vendedora,Ventas,F,2025-06-01,15925347.65,0.0,15925347.65
+E001,"Fernández, Carlos",2025-07-01,2025,7,Gerente General,Administración,M,2018-01-01,5224320.64,0.0,5224320.64
+E002,"López, María",2025-07-01,2025,7,Jefe de Ventas,Ventas,F,2018-01-01,3397567.37,0.0,3397567.37
+E004,"Martínez, Ana",2025-07-01,2025,7,Vendedora,Ventas,F,2018-01-01,1978132.2,0.0,1978132.2
+E005,"Rodríguez, Luis",2025-07-01,2025,7,Técnico Senior,Taller,M,2018-01-01,2569544.83,0.0,2569544.83
+E007,"Torres, Sofía",2025-07-01,2025,7,Administrativa,Administración,F,2018-01-01,2001291.86,0.0,2001291.86
+E012,"Peralta, Marcos",2025-07-01,2025,7,Vendedor,Ventas,M,2020-09-01,2235597.69,0.0,2235597.69
+E013,"Castro, Luciana",2025-07-01,2025,7,Administrativa,Administración,F,2020-11-01,2172891.4,0.0,2172891.4
+E014,"Ruiz, Nicolás",2025-07-01,2025,7,Técnico,Taller,M,2021-02-01,2643212.84,0.0,2643212.84
+E015,"Morales, Camila",2025-07-01,2025,7,Vendedora,Ventas,F,2021-04-01,2380873.28,0.0,2380873.28
+E016,"Vargas, Hernán",2025-07-01,2025,7,Depósito,Logística,M,2021-06-01,2229151.54,0.0,2229151.54
+E017,"Acosta, Florencia",2025-07-01,2025,7,Técnica,Taller,F,2021-09-01,2581408.29,0.0,2581408.29
+E018,"Ibáñez, Tomás",2025-07-01,2025,7,Vendedor,Ventas,M,2022-01-01,3128907.63,0.0,3128907.63
+E019,"Suárez, Beatriz",2025-07-01,2025,7,Contadora,Administración,F,2022-07-01,4601614.31,0.0,4601614.31
+E020,"Ríos, Agustín",2025-07-01,2025,7,Técnico ESG,Administración,M,2023-01-01,5618917.91,0.0,5618917.91
+E021,"Mendoza, Sofía",2025-07-01,2025,7,Técnica,Taller,F,2023-06-01,3964485.28,0.0,3964485.28
+E022,"Herrera, Matías",2025-07-01,2025,7,Vendedor,Ventas,M,2024-02-01,9464458.73,0.0,9464458.73
+E023,"Quiroga, Julia",2025-07-01,2025,7,Depósito,Logística,F,2024-08-01,8570648.5,0.0,8570648.5
+E024,"Navarro, Leandro",2025-07-01,2025,7,IT / BI,Administración,M,2025-01-01,17154849.75,0.0,17154849.75
+E025,"Paz, Valentina",2025-07-01,2025,7,Vendedora,Ventas,F,2025-06-01,15782044.71,0.0,15782044.71
+E001,"Fernández, Carlos",2025-08-01,2025,8,Gerente General,Administración,M,2018-01-01,5238894.85,0.0,5238894.85
+E002,"López, María",2025-08-01,2025,8,Jefe de Ventas,Ventas,F,2018-01-01,3418233.41,0.0,3418233.41
+E004,"Martínez, Ana",2025-08-01,2025,8,Vendedora,Ventas,F,2018-01-01,1968320.92,0.0,1968320.92
+E005,"Rodríguez, Luis",2025-08-01,2025,8,Técnico Senior,Taller,M,2018-01-01,2575860.42,0.0,2575860.42
+E007,"Torres, Sofía",2025-08-01,2025,8,Administrativa,Administración,F,2018-01-01,2012446.18,0.0,2012446.18
+E012,"Peralta, Marcos",2025-08-01,2025,8,Vendedor,Ventas,M,2020-09-01,2233911.34,0.0,2233911.34
+E013,"Castro, Luciana",2025-08-01,2025,8,Administrativa,Administración,F,2020-11-01,2180857.58,0.0,2180857.58
+E014,"Ruiz, Nicolás",2025-08-01,2025,8,Técnico,Taller,M,2021-02-01,2603208.23,0.0,2603208.23
+E015,"Morales, Camila",2025-08-01,2025,8,Vendedora,Ventas,F,2021-04-01,2367715.25,0.0,2367715.25
+E016,"Vargas, Hernán",2025-08-01,2025,8,Depósito,Logística,M,2021-06-01,2200606.47,0.0,2200606.47
+E017,"Acosta, Florencia",2025-08-01,2025,8,Técnica,Taller,F,2021-09-01,2582507.86,0.0,2582507.86
+E018,"Ibáñez, Tomás",2025-08-01,2025,8,Vendedor,Ventas,M,2022-01-01,3087796.87,0.0,3087796.87
+E019,"Suárez, Beatriz",2025-08-01,2025,8,Contadora,Administración,F,2022-07-01,4700284.89,0.0,4700284.89
+E020,"Ríos, Agustín",2025-08-01,2025,8,Técnico ESG,Administración,M,2023-01-01,5640018.86,0.0,5640018.86
+E021,"Mendoza, Sofía",2025-08-01,2025,8,Técnica,Taller,F,2023-06-01,4054101.35,0.0,4054101.35
+E022,"Herrera, Matías",2025-08-01,2025,8,Vendedor,Ventas,M,2024-02-01,9353332.79,0.0,9353332.79
+E023,"Quiroga, Julia",2025-08-01,2025,8,Depósito,Logística,F,2024-08-01,8594833.42,0.0,8594833.42
+E024,"Navarro, Leandro",2025-08-01,2025,8,IT / BI,Administración,M,2025-01-01,17344278.1,0.0,17344278.1
+E025,"Paz, Valentina",2025-08-01,2025,8,Vendedora,Ventas,F,2025-06-01,15820619.42,0.0,15820619.42
+E001,"Fernández, Carlos",2025-09-01,2025,9,Gerente General,Administración,M,2018-01-01,5300218.57,0.0,5300218.57
+E002,"López, María",2025-09-01,2025,9,Jefe de Ventas,Ventas,F,2018-01-01,3394905.81,0.0,3394905.81
+E004,"Martínez, Ana",2025-09-01,2025,9,Vendedora,Ventas,F,2018-01-01,2020586.81,0.0,2020586.81
+E005,"Rodríguez, Luis",2025-09-01,2025,9,Técnico Senior,Taller,M,2018-01-01,2605742.57,0.0,2605742.57
+E007,"Torres, Sofía",2025-09-01,2025,9,Administrativa,Administración,F,2018-01-01,2026614.79,0.0,2026614.79
+E012,"Peralta, Marcos",2025-09-01,2025,9,Vendedor,Ventas,M,2020-09-01,2221582.45,0.0,2221582.45
+E013,"Castro, Luciana",2025-09-01,2025,9,Administrativa,Administración,F,2020-11-01,2152129.42,0.0,2152129.42
+E014,"Ruiz, Nicolás",2025-09-01,2025,9,Técnico,Taller,M,2021-02-01,2583843.26,0.0,2583843.26
+E015,"Morales, Camila",2025-09-01,2025,9,Vendedora,Ventas,F,2021-04-01,2350912.27,0.0,2350912.27
+E016,"Vargas, Hernán",2025-09-01,2025,9,Depósito,Logística,M,2021-06-01,2205695.17,0.0,2205695.17
+E017,"Acosta, Florencia",2025-09-01,2025,9,Técnica,Taller,F,2021-09-01,2597442.5,0.0,2597442.5
+E018,"Ibáñez, Tomás",2025-09-01,2025,9,Vendedor,Ventas,M,2022-01-01,3032917.51,0.0,3032917.51
+E019,"Suárez, Beatriz",2025-09-01,2025,9,Contadora,Administración,F,2022-07-01,4648448.23,0.0,4648448.23
+E020,"Ríos, Agustín",2025-09-01,2025,9,Técnico ESG,Administración,M,2023-01-01,5526895.16,0.0,5526895.16
+E021,"Mendoza, Sofía",2025-09-01,2025,9,Técnica,Taller,F,2023-06-01,3967956.67,0.0,3967956.67
+E022,"Herrera, Matías",2025-09-01,2025,9,Vendedor,Ventas,M,2024-02-01,9349199.47,0.0,9349199.47
+E023,"Quiroga, Julia",2025-09-01,2025,9,Depósito,Logística,F,2024-08-01,8509940.1,0.0,8509940.1
+E024,"Navarro, Leandro",2025-09-01,2025,9,IT / BI,Administración,M,2025-01-01,17434640.26,0.0,17434640.26
+E025,"Paz, Valentina",2025-09-01,2025,9,Vendedora,Ventas,F,2025-06-01,16164227.4,0.0,16164227.4
+E001,"Fernández, Carlos",2025-10-01,2025,10,Gerente General,Administración,M,2018-01-01,5212880.23,0.0,5212880.23
+E002,"López, María",2025-10-01,2025,10,Jefe de Ventas,Ventas,F,2018-01-01,3394052.87,0.0,3394052.87
+E004,"Martínez, Ana",2025-10-01,2025,10,Vendedora,Ventas,F,2018-01-01,1985418.5,0.0,1985418.5
+E005,"Rodríguez, Luis",2025-10-01,2025,10,Técnico Senior,Taller,M,2018-01-01,2604985.58,0.0,2604985.58
+E007,"Torres, Sofía",2025-10-01,2025,10,Administrativa,Administración,F,2018-01-01,2060698.18,0.0,2060698.18
+E012,"Peralta, Marcos",2025-10-01,2025,10,Vendedor,Ventas,M,2020-09-01,2243983.69,0.0,2243983.69
+E013,"Castro, Luciana",2025-10-01,2025,10,Administrativa,Administración,F,2020-11-01,2188213.36,0.0,2188213.36
+E014,"Ruiz, Nicolás",2025-10-01,2025,10,Técnico,Taller,M,2021-02-01,2628850.04,0.0,2628850.04
+E015,"Morales, Camila",2025-10-01,2025,10,Vendedora,Ventas,F,2021-04-01,2354116.84,0.0,2354116.84
+E016,"Vargas, Hernán",2025-10-01,2025,10,Depósito,Logística,M,2021-06-01,2221201.22,0.0,2221201.22
+E017,"Acosta, Florencia",2025-10-01,2025,10,Técnica,Taller,F,2021-09-01,2595807.15,0.0,2595807.15
+E018,"Ibáñez, Tomás",2025-10-01,2025,10,Vendedor,Ventas,M,2022-01-01,3083429.64,0.0,3083429.64
+E019,"Suárez, Beatriz",2025-10-01,2025,10,Contadora,Administración,F,2022-07-01,4708187.41,0.0,4708187.41
+E020,"Ríos, Agustín",2025-10-01,2025,10,Técnico ESG,Administración,M,2023-01-01,5526970.34,0.0,5526970.34
+E021,"Mendoza, Sofía",2025-10-01,2025,10,Técnica,Taller,F,2023-06-01,4067819.28,0.0,4067819.28
+E022,"Herrera, Matías",2025-10-01,2025,10,Vendedor,Ventas,M,2024-02-01,9237274.88,0.0,9237274.88
+E023,"Quiroga, Julia",2025-10-01,2025,10,Depósito,Logística,F,2024-08-01,8758899.48,0.0,8758899.48
+E024,"Navarro, Leandro",2025-10-01,2025,10,IT / BI,Administración,M,2025-01-01,17452343.41,0.0,17452343.41
+E025,"Paz, Valentina",2025-10-01,2025,10,Vendedora,Ventas,F,2025-06-01,16082473.78,0.0,16082473.78
+E001,"Fernández, Carlos",2025-11-01,2025,11,Gerente General,Administración,M,2018-01-01,5273424.28,0.0,5273424.28
+E002,"López, María",2025-11-01,2025,11,Jefe de Ventas,Ventas,F,2018-01-01,3365630.96,0.0,3365630.96
+E004,"Martínez, Ana",2025-11-01,2025,11,Vendedora,Ventas,F,2018-01-01,1991592.86,0.0,1991592.86
+E005,"Rodríguez, Luis",2025-11-01,2025,11,Técnico Senior,Taller,M,2018-01-01,2623576.79,0.0,2623576.79
+E007,"Torres, Sofía",2025-11-01,2025,11,Administrativa,Administración,F,2018-01-01,2069357.0,0.0,2069357.0
+E012,"Peralta, Marcos",2025-11-01,2025,11,Vendedor,Ventas,M,2020-09-01,2220440.44,0.0,2220440.44
+E013,"Castro, Luciana",2025-11-01,2025,11,Administrativa,Administración,F,2020-11-01,2213447.78,0.0,2213447.78
+E014,"Ruiz, Nicolás",2025-11-01,2025,11,Técnico,Taller,M,2021-02-01,2590701.62,0.0,2590701.62
+E015,"Morales, Camila",2025-11-01,2025,11,Vendedora,Ventas,F,2021-04-01,2340856.77,0.0,2340856.77
+E016,"Vargas, Hernán",2025-11-01,2025,11,Depósito,Logística,M,2021-06-01,2223957.76,0.0,2223957.76
+E017,"Acosta, Florencia",2025-11-01,2025,11,Técnica,Taller,F,2021-09-01,2594856.57,0.0,2594856.57
+E018,"Ibáñez, Tomás",2025-11-01,2025,11,Vendedor,Ventas,M,2022-01-01,3049635.52,0.0,3049635.52
+E019,"Suárez, Beatriz",2025-11-01,2025,11,Contadora,Administración,F,2022-07-01,4588488.28,0.0,4588488.28
+E020,"Ríos, Agustín",2025-11-01,2025,11,Técnico ESG,Administración,M,2023-01-01,5501151.15,0.0,5501151.15
+E021,"Mendoza, Sofía",2025-11-01,2025,11,Técnica,Taller,F,2023-06-01,4031651.49,0.0,4031651.49
+E022,"Herrera, Matías",2025-11-01,2025,11,Vendedor,Ventas,M,2024-02-01,9420886.17,0.0,9420886.17
+E023,"Quiroga, Julia",2025-11-01,2025,11,Depósito,Logística,F,2024-08-01,8605291.1,0.0,8605291.1
+E024,"Navarro, Leandro",2025-11-01,2025,11,IT / BI,Administración,M,2025-01-01,17304124.49,0.0,17304124.49
+E025,"Paz, Valentina",2025-11-01,2025,11,Vendedora,Ventas,F,2025-06-01,15958822.38,0.0,15958822.38
+E001,"Fernández, Carlos",2025-12-01,2025,12,Gerente General,Administración,M,2018-01-01,5294519.97,2647259.99,7941779.96
+E002,"López, María",2025-12-01,2025,12,Jefe de Ventas,Ventas,F,2018-01-01,3412491.03,1706245.52,5118736.55
+E004,"Martínez, Ana",2025-12-01,2025,12,Vendedora,Ventas,F,2018-01-01,1998432.88,999216.44,2997649.32
+E005,"Rodríguez, Luis",2025-12-01,2025,12,Técnico Senior,Taller,M,2018-01-01,2572818.31,1286409.15,3859227.46
+E007,"Torres, Sofía",2025-12-01,2025,12,Administrativa,Administración,F,2018-01-01,2041275.99,1020637.99,3061913.98
+E012,"Peralta, Marcos",2025-12-01,2025,12,Vendedor,Ventas,M,2020-09-01,2222468.11,1111234.05,3333702.16
+E013,"Castro, Luciana",2025-12-01,2025,12,Administrativa,Administración,F,2020-11-01,2162109.74,1081054.87,3243164.61
+E014,"Ruiz, Nicolás",2025-12-01,2025,12,Técnico,Taller,M,2021-02-01,2624815.96,1312407.98,3937223.94
+E015,"Morales, Camila",2025-12-01,2025,12,Vendedora,Ventas,F,2021-04-01,2338016.71,1169008.36,3507025.07
+E016,"Vargas, Hernán",2025-12-01,2025,12,Depósito,Logística,M,2021-06-01,2217668.22,1108834.11,3326502.33
+E017,"Acosta, Florencia",2025-12-01,2025,12,Técnica,Taller,F,2021-09-01,2578385.69,1289192.84,3867578.53
+E018,"Ibáñez, Tomás",2025-12-01,2025,12,Vendedor,Ventas,M,2022-01-01,3160751.27,1580375.63,4741126.9
+E019,"Suárez, Beatriz",2025-12-01,2025,12,Contadora,Administración,F,2022-07-01,4596774.27,2298387.14,6895161.41
+E020,"Ríos, Agustín",2025-12-01,2025,12,Técnico ESG,Administración,M,2023-01-01,5602295.38,2801147.69,8403443.06
+E021,"Mendoza, Sofía",2025-12-01,2025,12,Técnica,Taller,F,2023-06-01,3967094.64,1983547.32,5950641.96
+E022,"Herrera, Matías",2025-12-01,2025,12,Vendedor,Ventas,M,2024-02-01,9324936.88,4662468.44,13987405.32
+E023,"Quiroga, Julia",2025-12-01,2025,12,Depósito,Logística,F,2024-08-01,8563717.19,4281858.59,12845575.78
+E024,"Navarro, Leandro",2025-12-01,2025,12,IT / BI,Administración,M,2025-01-01,17352695.88,8676347.94,26029043.83
+E025,"Paz, Valentina",2025-12-01,2025,12,Vendedora,Ventas,F,2025-06-01,16138871.68,8069435.84,24208307.52

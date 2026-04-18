@@ -1,0 +1,538 @@
+id_evento,fecha,anio,mes,id_empleado,tipo_evento,descripcion,dias_baja,horas_capacitacion,area
+EV-00001,2018-01-07,2018,1,E010,Accidente Laboral,Corte leve manipulando embalaje,1,0,Taller
+EV-00002,2018-01-27,2018,1,E010,Capacitación,Atención al cliente,0,8,Todas
+EV-00003,2018-01-16,2018,1,E006,Capacitación,Seguridad laboral,0,16,Todas
+EV-00004,2018-02-16,2018,2,E001,Accidente Laboral,Lesión lumbar por carga,5,0,Logística
+EV-00005,2018-02-07,2018,2,E009,Capacitación,Atención al cliente,0,24,Todas
+EV-00006,2018-02-07,2018,2,E006,Capacitación,Productos nuevos,0,8,Todas
+EV-00007,2018-03-27,2018,3,E010,Accidente Laboral,Caída leve en depósito,1,0,Taller
+EV-00008,2018-03-02,2018,3,E005,Accidente Laboral,Lesión lumbar por carga,3,0,Taller
+EV-00009,2018-03-15,2018,3,E007,Accidente Laboral,Golpe con estantería,5,0,Logística
+EV-00010,2018-03-12,2018,3,E010,Accidente Laboral,Corte leve manipulando embalaje,7,0,Logística
+EV-00011,2018-03-05,2018,3,E002,Capacitación,Atención al cliente,0,8,Todas
+EV-00012,2018-04-15,2018,4,E005,Accidente Laboral,Corte leve manipulando embalaje,2,0,Logística
+EV-00013,2018-04-20,2018,4,E008,Accidente Laboral,Lesión lumbar por carga,7,0,Taller
+EV-00014,2018-04-05,2018,4,E007,Capacitación,Productos nuevos,0,4,Todas
+EV-00015,2018-04-03,2018,4,E003,Capacitación,Excel / herramientas,0,4,Todas
+EV-00016,2018-05-11,2018,5,E001,Accidente Laboral,Caída leve en depósito,7,0,Logística
+EV-00017,2018-05-17,2018,5,E010,Capacitación,Productos nuevos,0,16,Todas
+EV-00018,2018-05-09,2018,5,E003,Capacitación,Productos nuevos,0,24,Todas
+EV-00019,2018-05-03,2018,5,E010,Capacitación,Atención al cliente,0,8,Todas
+EV-00020,2018-06-11,2018,6,E009,Capacitación,Técnico especialización,0,24,Todas
+EV-00021,2018-06-02,2018,6,E001,Capacitación,Excel / herramientas,0,16,Todas
+EV-00022,2018-07-19,2018,7,E005,Accidente Laboral,Lesión lumbar por carga,1,0,Taller
+EV-00023,2018-08-12,2018,8,E001,Capacitación,Seguridad laboral,0,8,Todas
+EV-00024,2018-08-13,2018,8,E002,Capacitación,Productos nuevos,0,8,Todas
+EV-00025,2018-10-10,2018,10,E007,Capacitación,Seguridad laboral,0,8,Todas
+EV-00026,2018-10-05,2018,10,E001,Capacitación,Atención al cliente,0,24,Todas
+EV-00027,2018-11-20,2018,11,E006,Accidente Laboral,Corte leve manipulando embalaje,5,0,Logística
+EV-00028,2018-11-03,2018,11,E008,Capacitación,Excel / herramientas,0,16,Todas
+EV-00029,2018-11-25,2018,11,E010,Capacitación,Excel / herramientas,0,8,Todas
+EV-00030,2019-01-23,2019,1,E002,Accidente Laboral,Golpe con estantería,1,0,Logística
+EV-00031,2019-01-20,2019,1,E005,Capacitación,Excel / herramientas,0,16,Todas
+EV-00032,2019-01-19,2019,1,E002,Capacitación,Técnico especialización,0,8,Todas
+EV-00033,2019-02-16,2019,2,E004,Capacitación,ESG y sostenibilidad,0,4,Todas
+EV-00034,2019-02-18,2019,2,E006,Capacitación,Excel / herramientas,0,4,Todas
+EV-00035,2019-02-05,2019,2,E010,Capacitación,Técnico especialización,0,16,Todas
+EV-00036,2019-02-23,2019,2,E004,Capacitación,ESG y sostenibilidad,0,8,Todas
+EV-00037,2019-02-26,2019,2,E004,Capacitación,Excel / herramientas,0,8,Todas
+EV-00038,2019-03-17,2019,3,E008,Capacitación,ESG y sostenibilidad,0,16,Todas
+EV-00039,2019-03-28,2019,3,E001,Capacitación,Seguridad laboral,0,8,Todas
+EV-00040,2019-04-27,2019,4,E007,Capacitación,Seguridad laboral,0,4,Todas
+EV-00041,2019-05-15,2019,5,E008,Capacitación,Productos nuevos,0,16,Todas
+EV-00042,2019-06-17,2019,6,E010,Capacitación,ESG y sostenibilidad,0,24,Todas
+EV-00043,2019-07-07,2019,7,E008,Capacitación,Excel / herramientas,0,24,Todas
+EV-00044,2019-07-26,2019,7,E004,Capacitación,Excel / herramientas,0,4,Todas
+EV-00045,2019-07-24,2019,7,E002,Capacitación,Excel / herramientas,0,24,Todas
+EV-00046,2019-08-28,2019,8,E006,Capacitación,Excel / herramientas,0,8,Todas
+EV-00047,2019-08-26,2019,8,E008,Capacitación,Técnico especialización,0,24,Todas
+EV-00048,2019-11-28,2019,11,E003,Capacitación,Productos nuevos,0,4,Todas
+EV-00049,2019-11-16,2019,11,E010,Capacitación,Seguridad laboral,0,4,Todas
+EV-00050,2019-12-07,2019,12,E004,Capacitación,Técnico especialización,0,16,Todas
+EV-00051,2019-12-21,2019,12,E006,Capacitación,ESG y sostenibilidad,0,24,Todas
+EV-00052,2019-12-24,2019,12,E011,Capacitación,Excel / herramientas,0,4,Todas
+EV-00053,2020-01-09,2020,1,E008,Accidente Laboral,Caída leve en depósito,7,0,Taller
+EV-00054,2020-02-01,2020,2,E008,Accidente Laboral,Corte leve manipulando embalaje,1,0,Logística
+EV-00055,2020-02-08,2020,2,E002,Capacitación,Seguridad laboral,0,16,Todas
+EV-00056,2020-02-21,2020,2,E007,Capacitación,Técnico especialización,0,24,Todas
+EV-00057,2020-02-17,2020,2,E010,Capacitación,Excel / herramientas,0,16,Todas
+EV-00058,2020-03-23,2020,3,E008,Accidente Laboral,Golpe con estantería,2,0,Taller
+EV-00059,2020-04-07,2020,4,E003,Capacitación,Técnico especialización,0,4,Todas
+EV-00060,2020-04-21,2020,4,E003,Capacitación,Excel / herramientas,0,4,Todas
+EV-00061,2020-05-12,2020,5,E002,Accidente Laboral,Lesión lumbar por carga,7,0,Logística
+EV-00062,2020-06-16,2020,6,E008,Capacitación,Atención al cliente,0,24,Todas
+EV-00063,2020-06-04,2020,6,E001,Capacitación,Seguridad laboral,0,16,Todas
+EV-00064,2020-07-27,2020,7,E005,Capacitación,Seguridad laboral,0,24,Todas
+EV-00065,2020-08-17,2020,8,E011,Capacitación,ESG y sostenibilidad,0,8,Todas
+EV-00066,2020-09-22,2020,9,E003,Capacitación,Productos nuevos,0,4,Todas
+EV-00067,2020-09-26,2020,9,E008,Capacitación,Técnico especialización,0,24,Todas
+EV-00068,2020-09-09,2020,9,E007,Capacitación,ESG y sostenibilidad,0,4,Todas
+EV-00069,2020-10-18,2020,10,E007,Capacitación,ESG y sostenibilidad,0,16,Todas
+EV-00070,2020-10-22,2020,10,E011,Capacitación,Técnico especialización,0,4,Todas
+EV-00071,2020-10-26,2020,10,E005,Capacitación,Seguridad laboral,0,8,Todas
+EV-00072,2020-10-07,2020,10,E001,Capacitación,Atención al cliente,0,24,Todas
+EV-00073,2020-11-17,2020,11,E008,Accidente Laboral,Caída leve en depósito,7,0,Taller
+EV-00074,2020-11-17,2020,11,E004,Accidente Laboral,Corte leve manipulando embalaje,5,0,Taller
+EV-00075,2020-11-01,2020,11,E007,Capacitación,Técnico especialización,0,24,Todas
+EV-00076,2020-11-04,2020,11,E010,Capacitación,Atención al cliente,0,24,Todas
+EV-00077,2020-12-23,2020,12,E005,Capacitación,Atención al cliente,0,8,Todas
+EV-00078,2020-12-24,2020,12,E007,Capacitación,Seguridad laboral,0,24,Todas
+EV-00079,2021-01-02,2021,1,E002,Capacitación,Atención al cliente,0,16,Todas
+EV-00080,2021-01-11,2021,1,E013,Capacitación,Seguridad laboral,0,4,Todas
+EV-00081,2021-01-03,2021,1,E001,Capacitación,Seguridad laboral,0,16,Todas
+EV-00082,2021-01-21,2021,1,E008,Capacitación,Atención al cliente,0,24,Todas
+EV-00083,2021-01-07,2021,1,E002,Capacitación,Técnico especialización,0,16,Todas
+EV-00084,2021-02-13,2021,2,E006,Capacitación,Técnico especialización,0,4,Todas
+EV-00085,2021-02-15,2021,2,E010,Capacitación,Productos nuevos,0,24,Todas
+EV-00086,2021-03-26,2021,3,E005,Capacitación,Productos nuevos,0,8,Todas
+EV-00087,2021-03-18,2021,3,E006,Capacitación,Atención al cliente,0,24,Todas
+EV-00088,2021-03-18,2021,3,E001,Capacitación,Productos nuevos,0,16,Todas
+EV-00089,2021-03-14,2021,3,E006,Capacitación,Productos nuevos,0,24,Todas
+EV-00090,2021-03-18,2021,3,E003,Capacitación,Seguridad laboral,0,8,Todas
+EV-00091,2021-04-24,2021,4,E001,Capacitación,ESG y sostenibilidad,0,8,Todas
+EV-00092,2021-04-28,2021,4,E003,Capacitación,Seguridad laboral,0,24,Todas
+EV-00093,2021-04-27,2021,4,E005,Capacitación,ESG y sostenibilidad,0,8,Todas
+EV-00094,2021-04-02,2021,4,E013,Capacitación,ESG y sostenibilidad,0,4,Todas
+EV-00095,2021-04-22,2021,4,E007,Capacitación,Técnico especialización,0,8,Todas
+EV-00096,2021-04-05,2021,4,E008,Capacitación,Excel / herramientas,0,4,Todas
+EV-00097,2021-04-12,2021,4,E010,Capacitación,ESG y sostenibilidad,0,24,Todas
+EV-00098,2021-05-01,2021,5,E011,Accidente Laboral,Golpe con estantería,1,0,Taller
+EV-00099,2021-05-12,2021,5,E007,Capacitación,Productos nuevos,0,4,Todas
+EV-00100,2021-05-27,2021,5,E003,Capacitación,Productos nuevos,0,8,Todas
+EV-00101,2021-05-16,2021,5,E013,Capacitación,Técnico especialización,0,16,Todas
+EV-00102,2021-05-01,2021,5,E015,Capacitación,Técnico especialización,0,16,Todas
+EV-00103,2021-05-28,2021,5,E006,Capacitación,Productos nuevos,0,24,Todas
+EV-00104,2021-05-07,2021,5,E014,Capacitación,ESG y sostenibilidad,0,8,Todas
+EV-00105,2021-06-15,2021,6,E010,Accidente Laboral,Caída leve en depósito,1,0,Logística
+EV-00106,2021-06-21,2021,6,E015,Accidente Laboral,Caída leve en depósito,1,0,Logística
+EV-00107,2021-06-08,2021,6,E004,Capacitación,ESG y sostenibilidad,0,16,Todas
+EV-00108,2021-06-03,2021,6,E005,Capacitación,Seguridad laboral,0,16,Todas
+EV-00109,2021-06-24,2021,6,E008,Capacitación,Técnico especialización,0,4,Todas
+EV-00110,2021-06-11,2021,6,E002,Capacitación,Atención al cliente,0,16,Todas
+EV-00111,2021-06-22,2021,6,E006,Capacitación,Atención al cliente,0,4,Todas
+EV-00112,2021-06-27,2021,6,E006,Capacitación,Excel / herramientas,0,8,Todas
+EV-00113,2021-07-04,2021,7,E012,Capacitación,Atención al cliente,0,16,Todas
+EV-00114,2021-07-02,2021,7,E012,Capacitación,Atención al cliente,0,4,Todas
+EV-00115,2021-07-19,2021,7,E002,Capacitación,ESG y sostenibilidad,0,8,Todas
+EV-00116,2021-08-14,2021,8,E001,Accidente Laboral,Caída leve en depósito,3,0,Taller
+EV-00117,2021-08-11,2021,8,E010,Capacitación,Atención al cliente,0,16,Todas
+EV-00118,2021-09-24,2021,9,E004,Capacitación,Seguridad laboral,0,8,Todas
+EV-00119,2021-09-17,2021,9,E017,Capacitación,Atención al cliente,0,16,Todas
+EV-00120,2021-09-06,2021,9,E017,Capacitación,Seguridad laboral,0,4,Todas
+EV-00121,2021-09-21,2021,9,E016,Capacitación,Técnico especialización,0,4,Todas
+EV-00122,2021-09-13,2021,9,E003,Capacitación,Excel / herramientas,0,8,Todas
+EV-00123,2021-09-18,2021,9,E012,Capacitación,Seguridad laboral,0,24,Todas
+EV-00124,2021-10-09,2021,10,E010,Accidente Laboral,Caída leve en depósito,7,0,Logística
+EV-00125,2021-10-15,2021,10,E012,Capacitación,Seguridad laboral,0,24,Todas
+EV-00126,2021-10-05,2021,10,E001,Capacitación,Técnico especialización,0,24,Todas
+EV-00127,2021-10-10,2021,10,E016,Capacitación,Atención al cliente,0,8,Todas
+EV-00128,2021-11-22,2021,11,E002,Capacitación,Técnico especialización,0,16,Todas
+EV-00129,2021-11-24,2021,11,E003,Capacitación,ESG y sostenibilidad,0,4,Todas
+EV-00130,2021-11-13,2021,11,E013,Capacitación,Atención al cliente,0,16,Todas
+EV-00131,2021-12-01,2021,12,E007,Capacitación,Técnico especialización,0,8,Todas
+EV-00132,2021-12-03,2021,12,E002,Capacitación,Atención al cliente,0,24,Todas
+EV-00133,2021-12-08,2021,12,E002,Capacitación,Seguridad laboral,0,4,Todas
+EV-00134,2021-12-06,2021,12,E003,Capacitación,Técnico especialización,0,4,Todas
+EV-00135,2021-12-28,2021,12,E011,Capacitación,Atención al cliente,0,24,Todas
+EV-00136,2022-01-13,2022,1,E008,Capacitación,Excel / herramientas,0,4,Todas
+EV-00137,2022-01-28,2022,1,E012,Capacitación,Productos nuevos,0,8,Todas
+EV-00138,2022-01-12,2022,1,E010,Capacitación,Excel / herramientas,0,24,Todas
+EV-00139,2022-02-28,2022,2,E008,Capacitación,Técnico especialización,0,4,Todas
+EV-00140,2022-02-02,2022,2,E005,Capacitación,Excel / herramientas,0,24,Todas
+EV-00141,2022-02-22,2022,2,E015,Capacitación,Excel / herramientas,0,24,Todas
+EV-00142,2022-02-13,2022,2,E013,Capacitación,Atención al cliente,0,16,Todas
+EV-00143,2022-02-21,2022,2,E007,Capacitación,ESG y sostenibilidad,0,24,Todas
+EV-00144,2022-03-24,2022,3,E001,Capacitación,Productos nuevos,0,8,Todas
+EV-00145,2022-03-18,2022,3,E007,Capacitación,ESG y sostenibilidad,0,16,Todas
+EV-00146,2022-03-01,2022,3,E017,Capacitación,Seguridad laboral,0,24,Todas
+EV-00147,2022-03-22,2022,3,E001,Capacitación,Seguridad laboral,0,8,Todas
+EV-00148,2022-03-11,2022,3,E016,Capacitación,Seguridad laboral,0,4,Todas
+EV-00149,2022-03-25,2022,3,E008,Capacitación,Técnico especialización,0,8,Todas
+EV-00150,2022-04-26,2022,4,E013,Capacitación,Técnico especialización,0,8,Todas
+EV-00151,2022-04-20,2022,4,E007,Capacitación,Seguridad laboral,0,24,Todas
+EV-00152,2022-04-07,2022,4,E004,Capacitación,Técnico especialización,0,8,Todas
+EV-00153,2022-04-05,2022,4,E002,Capacitación,Excel / herramientas,0,24,Todas
+EV-00154,2022-04-03,2022,4,E001,Capacitación,Excel / herramientas,0,4,Todas
+EV-00155,2022-04-08,2022,4,E007,Capacitación,Seguridad laboral,0,16,Todas
+EV-00156,2022-04-28,2022,4,E011,Capacitación,Productos nuevos,0,16,Todas
+EV-00157,2022-05-12,2022,5,E008,Accidente Laboral,Golpe con estantería,2,0,Taller
+EV-00158,2022-05-01,2022,5,E017,Capacitación,Productos nuevos,0,4,Todas
+EV-00159,2022-05-17,2022,5,E001,Capacitación,Seguridad laboral,0,8,Todas
+EV-00160,2022-05-03,2022,5,E004,Capacitación,Excel / herramientas,0,8,Todas
+EV-00161,2022-05-06,2022,5,E003,Capacitación,ESG y sostenibilidad,0,4,Todas
+EV-00162,2022-05-12,2022,5,E013,Capacitación,Excel / herramientas,0,4,Todas
+EV-00163,2022-05-09,2022,5,E010,Capacitación,Atención al cliente,0,8,Todas
+EV-00164,2022-05-13,2022,5,E016,Capacitación,Seguridad laboral,0,4,Todas
+EV-00165,2022-06-04,2022,6,E012,Capacitación,ESG y sostenibilidad,0,24,Todas
+EV-00166,2022-07-04,2022,7,E008,Accidente Laboral,Golpe con estantería,7,0,Taller
+EV-00167,2022-07-22,2022,7,E004,Capacitación,ESG y sostenibilidad,0,4,Todas
+EV-00168,2022-07-24,2022,7,E019,Capacitación,ESG y sostenibilidad,0,16,Todas
+EV-00169,2022-07-20,2022,7,E007,Capacitación,Excel / herramientas,0,4,Todas
+EV-00170,2022-07-14,2022,7,E014,Capacitación,Excel / herramientas,0,4,Todas
+EV-00171,2022-07-12,2022,7,E003,Capacitación,Productos nuevos,0,4,Todas
+EV-00172,2022-07-25,2022,7,E001,Capacitación,Técnico especialización,0,24,Todas
+EV-00173,2022-07-05,2022,7,E016,Capacitación,Seguridad laboral,0,8,Todas
+EV-00174,2022-08-21,2022,8,E017,Accidente Laboral,Caída leve en depósito,7,0,Taller
+EV-00175,2022-08-05,2022,8,E018,Accidente Laboral,Golpe con estantería,7,0,Taller
+EV-00176,2022-08-20,2022,8,E018,Capacitación,Atención al cliente,0,8,Todas
+EV-00177,2022-08-05,2022,8,E001,Capacitación,Excel / herramientas,0,8,Todas
+EV-00178,2022-08-21,2022,8,E007,Capacitación,Productos nuevos,0,16,Todas
+EV-00179,2022-08-27,2022,8,E018,Capacitación,Productos nuevos,0,8,Todas
+EV-00180,2022-08-26,2022,8,E007,Capacitación,Excel / herramientas,0,24,Todas
+EV-00181,2022-09-13,2022,9,E004,Accidente Laboral,Caída leve en depósito,5,0,Logística
+EV-00182,2022-09-18,2022,9,E017,Capacitación,Técnico especialización,0,24,Todas
+EV-00183,2022-09-03,2022,9,E005,Capacitación,Productos nuevos,0,4,Todas
+EV-00184,2022-09-06,2022,9,E017,Capacitación,ESG y sostenibilidad,0,4,Todas
+EV-00185,2022-09-26,2022,9,E012,Capacitación,ESG y sostenibilidad,0,16,Todas
+EV-00186,2022-09-27,2022,9,E013,Capacitación,ESG y sostenibilidad,0,16,Todas
+EV-00187,2022-09-08,2022,9,E008,Capacitación,Excel / herramientas,0,8,Todas
+EV-00188,2022-09-19,2022,9,E017,Capacitación,Técnico especialización,0,16,Todas
+EV-00189,2022-09-06,2022,9,E004,Capacitación,Técnico especialización,0,4,Todas
+EV-00190,2022-09-10,2022,9,E012,Capacitación,Seguridad laboral,0,4,Todas
+EV-00191,2022-09-16,2022,9,E016,Capacitación,Excel / herramientas,0,8,Todas
+EV-00192,2022-10-09,2022,10,E015,Capacitación,Seguridad laboral,0,4,Todas
+EV-00193,2022-10-01,2022,10,E018,Capacitación,Atención al cliente,0,24,Todas
+EV-00194,2022-10-11,2022,10,E003,Capacitación,Seguridad laboral,0,24,Todas
+EV-00195,2022-10-20,2022,10,E019,Capacitación,Seguridad laboral,0,8,Todas
+EV-00196,2022-10-20,2022,10,E008,Capacitación,Productos nuevos,0,4,Todas
+EV-00197,2022-10-17,2022,10,E016,Capacitación,Técnico especialización,0,16,Todas
+EV-00198,2022-10-07,2022,10,E016,Capacitación,Atención al cliente,0,16,Todas
+EV-00199,2022-10-19,2022,10,E019,Capacitación,Atención al cliente,0,8,Todas
+EV-00200,2022-10-26,2022,10,E003,Capacitación,Atención al cliente,0,24,Todas
+EV-00201,2022-10-11,2022,10,E013,Capacitación,ESG y sostenibilidad,0,16,Todas
+EV-00202,2022-10-03,2022,10,E003,Capacitación,Excel / herramientas,0,16,Todas
+EV-00203,2022-11-06,2022,11,E005,Capacitación,Técnico especialización,0,8,Todas
+EV-00204,2022-11-17,2022,11,E016,Capacitación,Seguridad laboral,0,8,Todas
+EV-00205,2022-11-15,2022,11,E005,Capacitación,Técnico especialización,0,8,Todas
+EV-00206,2022-11-16,2022,11,E005,Capacitación,ESG y sostenibilidad,0,16,Todas
+EV-00207,2022-11-25,2022,11,E001,Capacitación,Seguridad laboral,0,16,Todas
+EV-00208,2022-12-18,2022,12,E018,Capacitación,Atención al cliente,0,16,Todas
+EV-00209,2022-12-03,2022,12,E004,Capacitación,Excel / herramientas,0,16,Todas
+EV-00210,2022-12-11,2022,12,E017,Capacitación,Excel / herramientas,0,8,Todas
+EV-00211,2022-12-24,2022,12,E005,Capacitación,Seguridad laboral,0,8,Todas
+EV-00212,2022-12-10,2022,12,E001,Capacitación,Productos nuevos,0,4,Todas
+EV-00213,2023-01-06,2023,1,E007,Capacitación,Seguridad laboral,0,8,Todas
+EV-00214,2023-01-03,2023,1,E016,Capacitación,Seguridad laboral,0,16,Todas
+EV-00215,2023-01-24,2023,1,E020,Capacitación,Seguridad laboral,0,24,Todas
+EV-00216,2023-01-06,2023,1,E002,Capacitación,ESG y sostenibilidad,0,4,Todas
+EV-00217,2023-01-05,2023,1,E019,Capacitación,Productos nuevos,0,24,Todas
+EV-00218,2023-01-09,2023,1,E013,Capacitación,Excel / herramientas,0,24,Todas
+EV-00219,2023-01-04,2023,1,E018,Capacitación,Técnico especialización,0,24,Todas
+EV-00220,2023-01-25,2023,1,E013,Capacitación,Productos nuevos,0,8,Todas
+EV-00221,2023-01-19,2023,1,E019,Capacitación,Atención al cliente,0,16,Todas
+EV-00222,2023-02-22,2023,2,E007,Accidente Laboral,Lesión lumbar por carga,7,0,Logística
+EV-00223,2023-02-26,2023,2,E002,Accidente Laboral,Caída leve en depósito,1,0,Taller
+EV-00224,2023-02-15,2023,2,E018,Capacitación,Productos nuevos,0,4,Todas
+EV-00225,2023-02-14,2023,2,E020,Capacitación,Atención al cliente,0,4,Todas
+EV-00226,2023-02-02,2023,2,E016,Capacitación,Productos nuevos,0,16,Todas
+EV-00227,2023-03-08,2023,3,E008,Accidente Laboral,Caída leve en depósito,1,0,Taller
+EV-00228,2023-03-22,2023,3,E010,Capacitación,ESG y sostenibilidad,0,8,Todas
+EV-00229,2023-03-07,2023,3,E015,Capacitación,Atención al cliente,0,16,Todas
+EV-00230,2023-03-05,2023,3,E015,Capacitación,Atención al cliente,0,8,Todas
+EV-00231,2023-03-13,2023,3,E016,Capacitación,Productos nuevos,0,24,Todas
+EV-00232,2023-03-18,2023,3,E004,Capacitación,Seguridad laboral,0,16,Todas
+EV-00233,2023-03-13,2023,3,E001,Capacitación,ESG y sostenibilidad,0,24,Todas
+EV-00234,2023-03-23,2023,3,E001,Capacitación,Excel / herramientas,0,24,Todas
+EV-00235,2023-03-11,2023,3,E012,Capacitación,Técnico especialización,0,16,Todas
+EV-00236,2023-03-15,2023,3,E019,Capacitación,Atención al cliente,0,8,Todas
+EV-00237,2023-03-06,2023,3,E013,Capacitación,Técnico especialización,0,16,Todas
+EV-00238,2023-03-13,2023,3,E015,Capacitación,Productos nuevos,0,4,Todas
+EV-00239,2023-03-07,2023,3,E020,Capacitación,Atención al cliente,0,24,Todas
+EV-00240,2023-03-27,2023,3,E013,Capacitación,Productos nuevos,0,16,Todas
+EV-00241,2023-03-05,2023,3,E004,Capacitación,Seguridad laboral,0,8,Todas
+EV-00242,2023-04-25,2023,4,E018,Capacitación,Productos nuevos,0,8,Todas
+EV-00243,2023-04-19,2023,4,E016,Capacitación,Excel / herramientas,0,24,Todas
+EV-00244,2023-04-17,2023,4,E007,Capacitación,Productos nuevos,0,8,Todas
+EV-00245,2023-04-27,2023,4,E012,Capacitación,ESG y sostenibilidad,0,24,Todas
+EV-00246,2023-04-27,2023,4,E015,Capacitación,Excel / herramientas,0,4,Todas
+EV-00247,2023-04-20,2023,4,E007,Capacitación,Atención al cliente,0,8,Todas
+EV-00248,2023-04-23,2023,4,E007,Capacitación,Excel / herramientas,0,24,Todas
+EV-00249,2023-04-16,2023,4,E012,Capacitación,Excel / herramientas,0,24,Todas
+EV-00250,2023-04-27,2023,4,E007,Capacitación,Seguridad laboral,0,24,Todas
+EV-00251,2023-04-21,2023,4,E017,Capacitación,Atención al cliente,0,4,Todas
+EV-00252,2023-04-05,2023,4,E016,Capacitación,Excel / herramientas,0,24,Todas
+EV-00253,2023-05-22,2023,5,E012,Accidente Laboral,Caída leve en depósito,5,0,Taller
+EV-00254,2023-05-23,2023,5,E014,Capacitación,ESG y sostenibilidad,0,4,Todas
+EV-00255,2023-05-07,2023,5,E001,Capacitación,Productos nuevos,0,8,Todas
+EV-00256,2023-05-04,2023,5,E016,Capacitación,Productos nuevos,0,8,Todas
+EV-00257,2023-05-16,2023,5,E001,Capacitación,Técnico especialización,0,4,Todas
+EV-00258,2023-05-14,2023,5,E002,Capacitación,Técnico especialización,0,16,Todas
+EV-00259,2023-05-20,2023,5,E017,Capacitación,Atención al cliente,0,16,Todas
+EV-00260,2023-06-03,2023,6,E015,Capacitación,Técnico especialización,0,8,Todas
+EV-00261,2023-06-14,2023,6,E004,Capacitación,Seguridad laboral,0,8,Todas
+EV-00262,2023-06-28,2023,6,E002,Capacitación,Técnico especialización,0,8,Todas
+EV-00263,2023-06-19,2023,6,E014,Capacitación,Productos nuevos,0,4,Todas
+EV-00264,2023-06-07,2023,6,E001,Capacitación,Atención al cliente,0,8,Todas
+EV-00265,2023-06-13,2023,6,E018,Capacitación,Excel / herramientas,0,4,Todas
+EV-00266,2023-06-18,2023,6,E003,Capacitación,ESG y sostenibilidad,0,24,Todas
+EV-00267,2023-06-20,2023,6,E020,Capacitación,Atención al cliente,0,8,Todas
+EV-00268,2023-06-26,2023,6,E002,Capacitación,Excel / herramientas,0,16,Todas
+EV-00269,2023-07-10,2023,7,E001,Capacitación,Seguridad laboral,0,4,Todas
+EV-00270,2023-07-03,2023,7,E020,Capacitación,Productos nuevos,0,24,Todas
+EV-00271,2023-07-10,2023,7,E015,Capacitación,Seguridad laboral,0,4,Todas
+EV-00272,2023-07-10,2023,7,E007,Capacitación,ESG y sostenibilidad,0,8,Todas
+EV-00273,2023-07-02,2023,7,E003,Capacitación,Técnico especialización,0,8,Todas
+EV-00274,2023-08-16,2023,8,E014,Capacitación,Excel / herramientas,0,24,Todas
+EV-00275,2023-08-28,2023,8,E001,Capacitación,Seguridad laboral,0,4,Todas
+EV-00276,2023-08-14,2023,8,E012,Capacitación,Excel / herramientas,0,4,Todas
+EV-00277,2023-08-18,2023,8,E012,Capacitación,Seguridad laboral,0,16,Todas
+EV-00278,2023-09-28,2023,9,E014,Capacitación,ESG y sostenibilidad,0,16,Todas
+EV-00279,2023-09-13,2023,9,E019,Capacitación,Atención al cliente,0,8,Todas
+EV-00280,2023-09-11,2023,9,E015,Capacitación,Seguridad laboral,0,16,Todas
+EV-00281,2023-09-16,2023,9,E020,Capacitación,Seguridad laboral,0,4,Todas
+EV-00282,2023-09-08,2023,9,E014,Capacitación,Seguridad laboral,0,24,Todas
+EV-00283,2023-09-04,2023,9,E019,Capacitación,ESG y sostenibilidad,0,4,Todas
+EV-00284,2023-09-24,2023,9,E008,Capacitación,Técnico especialización,0,16,Todas
+EV-00285,2023-09-10,2023,9,E005,Capacitación,Atención al cliente,0,16,Todas
+EV-00286,2023-10-17,2023,10,E013,Capacitación,Seguridad laboral,0,16,Todas
+EV-00287,2023-10-27,2023,10,E013,Capacitación,Técnico especialización,0,16,Todas
+EV-00288,2023-10-25,2023,10,E021,Capacitación,Excel / herramientas,0,8,Todas
+EV-00289,2023-10-27,2023,10,E015,Capacitación,Atención al cliente,0,24,Todas
+EV-00290,2023-10-25,2023,10,E013,Capacitación,Atención al cliente,0,16,Todas
+EV-00291,2023-10-09,2023,10,E002,Capacitación,Atención al cliente,0,8,Todas
+EV-00292,2023-10-23,2023,10,E005,Capacitación,Atención al cliente,0,4,Todas
+EV-00293,2023-10-09,2023,10,E014,Capacitación,Excel / herramientas,0,4,Todas
+EV-00294,2023-11-11,2023,11,E021,Capacitación,Seguridad laboral,0,4,Todas
+EV-00295,2023-11-25,2023,11,E015,Capacitación,Productos nuevos,0,8,Todas
+EV-00296,2023-11-20,2023,11,E012,Capacitación,Seguridad laboral,0,24,Todas
+EV-00297,2023-11-28,2023,11,E008,Capacitación,Excel / herramientas,0,8,Todas
+EV-00298,2023-11-08,2023,11,E008,Capacitación,Productos nuevos,0,4,Todas
+EV-00299,2023-12-24,2023,12,E014,Capacitación,Atención al cliente,0,24,Todas
+EV-00300,2023-12-12,2023,12,E019,Capacitación,Seguridad laboral,0,16,Todas
+EV-00301,2023-12-02,2023,12,E017,Capacitación,Seguridad laboral,0,8,Todas
+EV-00302,2023-12-12,2023,12,E015,Capacitación,Técnico especialización,0,4,Todas
+EV-00303,2023-12-12,2023,12,E013,Capacitación,Seguridad laboral,0,8,Todas
+EV-00304,2023-12-22,2023,12,E002,Capacitación,Atención al cliente,0,16,Todas
+EV-00305,2024-01-16,2024,1,E013,Capacitación,Productos nuevos,0,8,Todas
+EV-00306,2024-01-22,2024,1,E016,Capacitación,Técnico especialización,0,8,Todas
+EV-00307,2024-01-25,2024,1,E013,Capacitación,Seguridad laboral,0,4,Todas
+EV-00308,2024-01-05,2024,1,E012,Capacitación,Excel / herramientas,0,24,Todas
+EV-00309,2024-01-22,2024,1,E020,Capacitación,Productos nuevos,0,16,Todas
+EV-00310,2024-01-08,2024,1,E008,Capacitación,Productos nuevos,0,24,Todas
+EV-00311,2024-01-03,2024,1,E015,Capacitación,Productos nuevos,0,16,Todas
+EV-00312,2024-01-20,2024,1,E016,Capacitación,Atención al cliente,0,8,Todas
+EV-00313,2024-02-24,2024,2,E017,Accidente Laboral,Corte leve manipulando embalaje,3,0,Taller
+EV-00314,2024-02-08,2024,2,E020,Capacitación,ESG y sostenibilidad,0,8,Todas
+EV-00315,2024-02-25,2024,2,E007,Capacitación,Excel / herramientas,0,24,Todas
+EV-00316,2024-02-28,2024,2,E004,Capacitación,Productos nuevos,0,8,Todas
+EV-00317,2024-02-23,2024,2,E020,Capacitación,Seguridad laboral,0,24,Todas
+EV-00318,2024-02-09,2024,2,E015,Capacitación,Excel / herramientas,0,4,Todas
+EV-00319,2024-02-23,2024,2,E012,Capacitación,ESG y sostenibilidad,0,16,Todas
+EV-00320,2024-02-23,2024,2,E015,Capacitación,Excel / herramientas,0,4,Todas
+EV-00321,2024-02-12,2024,2,E008,Capacitación,Productos nuevos,0,4,Todas
+EV-00322,2024-02-11,2024,2,E019,Capacitación,Técnico especialización,0,8,Todas
+EV-00323,2024-02-16,2024,2,E012,Capacitación,Seguridad laboral,0,8,Todas
+EV-00324,2024-03-01,2024,3,E002,Accidente Laboral,Corte leve manipulando embalaje,3,0,Logística
+EV-00325,2024-03-26,2024,3,E008,Capacitación,Técnico especialización,0,8,Todas
+EV-00326,2024-03-07,2024,3,E004,Capacitación,Técnico especialización,0,4,Todas
+EV-00327,2024-03-19,2024,3,E022,Capacitación,Atención al cliente,0,24,Todas
+EV-00328,2024-03-13,2024,3,E022,Capacitación,Seguridad laboral,0,24,Todas
+EV-00329,2024-03-10,2024,3,E017,Capacitación,Seguridad laboral,0,16,Todas
+EV-00330,2024-03-19,2024,3,E005,Capacitación,Seguridad laboral,0,8,Todas
+EV-00331,2024-03-19,2024,3,E017,Capacitación,Atención al cliente,0,24,Todas
+EV-00332,2024-03-11,2024,3,E008,Capacitación,Técnico especialización,0,4,Todas
+EV-00333,2024-03-10,2024,3,E004,Capacitación,ESG y sostenibilidad,0,8,Todas
+EV-00334,2024-03-16,2024,3,E014,Capacitación,Atención al cliente,0,4,Todas
+EV-00335,2024-03-02,2024,3,E017,Capacitación,Seguridad laboral,0,24,Todas
+EV-00336,2024-03-24,2024,3,E005,Capacitación,Excel / herramientas,0,8,Todas
+EV-00337,2024-03-24,2024,3,E012,Capacitación,Seguridad laboral,0,8,Todas
+EV-00338,2024-03-25,2024,3,E017,Capacitación,Atención al cliente,0,8,Todas
+EV-00339,2024-04-13,2024,4,E012,Capacitación,Excel / herramientas,0,8,Todas
+EV-00340,2024-04-17,2024,4,E001,Capacitación,Técnico especialización,0,8,Todas
+EV-00341,2024-04-10,2024,4,E015,Capacitación,Técnico especialización,0,8,Todas
+EV-00342,2024-04-06,2024,4,E012,Capacitación,Excel / herramientas,0,24,Todas
+EV-00343,2024-04-20,2024,4,E012,Capacitación,Productos nuevos,0,16,Todas
+EV-00344,2024-04-01,2024,4,E007,Capacitación,Productos nuevos,0,24,Todas
+EV-00345,2024-04-11,2024,4,E015,Capacitación,Excel / herramientas,0,16,Todas
+EV-00346,2024-04-08,2024,4,E015,Capacitación,Excel / herramientas,0,8,Todas
+EV-00347,2024-04-06,2024,4,E002,Capacitación,Atención al cliente,0,8,Todas
+EV-00348,2024-04-22,2024,4,E013,Capacitación,Excel / herramientas,0,24,Todas
+EV-00349,2024-05-19,2024,5,E016,Capacitación,ESG y sostenibilidad,0,4,Todas
+EV-00350,2024-05-04,2024,5,E002,Capacitación,ESG y sostenibilidad,0,16,Todas
+EV-00351,2024-05-17,2024,5,E001,Capacitación,Atención al cliente,0,24,Todas
+EV-00352,2024-05-27,2024,5,E015,Capacitación,Excel / herramientas,0,16,Todas
+EV-00353,2024-05-14,2024,5,E022,Capacitación,Excel / herramientas,0,16,Todas
+EV-00354,2024-05-10,2024,5,E013,Capacitación,Atención al cliente,0,16,Todas
+EV-00355,2024-05-14,2024,5,E014,Capacitación,Productos nuevos,0,8,Todas
+EV-00356,2024-05-01,2024,5,E020,Capacitación,Productos nuevos,0,4,Todas
+EV-00357,2024-05-14,2024,5,E017,Capacitación,ESG y sostenibilidad,0,4,Todas
+EV-00358,2024-05-02,2024,5,E005,Capacitación,Atención al cliente,0,8,Todas
+EV-00359,2024-05-12,2024,5,E015,Capacitación,Productos nuevos,0,16,Todas
+EV-00360,2024-05-13,2024,5,E005,Capacitación,Atención al cliente,0,24,Todas
+EV-00361,2024-05-06,2024,5,E016,Capacitación,Productos nuevos,0,8,Todas
+EV-00362,2024-05-15,2024,5,E014,Capacitación,Excel / herramientas,0,4,Todas
+EV-00363,2024-05-16,2024,5,E019,Capacitación,Seguridad laboral,0,16,Todas
+EV-00364,2024-05-08,2024,5,E013,Capacitación,Atención al cliente,0,4,Todas
+EV-00365,2024-06-16,2024,6,E019,Capacitación,Excel / herramientas,0,16,Todas
+EV-00366,2024-06-02,2024,6,E005,Capacitación,Técnico especialización,0,24,Todas
+EV-00367,2024-06-03,2024,6,E014,Capacitación,Técnico especialización,0,16,Todas
+EV-00368,2024-06-05,2024,6,E019,Capacitación,ESG y sostenibilidad,0,8,Todas
+EV-00369,2024-06-22,2024,6,E017,Capacitación,Atención al cliente,0,24,Todas
+EV-00370,2024-07-22,2024,7,E019,Accidente Laboral,Lesión lumbar por carga,5,0,Logística
+EV-00371,2024-07-14,2024,7,E021,Capacitación,Atención al cliente,0,4,Todas
+EV-00372,2024-07-20,2024,7,E001,Capacitación,Excel / herramientas,0,8,Todas
+EV-00373,2024-07-19,2024,7,E007,Capacitación,Excel / herramientas,0,4,Todas
+EV-00374,2024-07-21,2024,7,E002,Capacitación,Excel / herramientas,0,4,Todas
+EV-00375,2024-07-13,2024,7,E002,Capacitación,Atención al cliente,0,16,Todas
+EV-00376,2024-07-14,2024,7,E013,Capacitación,Técnico especialización,0,4,Todas
+EV-00377,2024-07-21,2024,7,E012,Capacitación,Excel / herramientas,0,4,Todas
+EV-00378,2024-07-01,2024,7,E015,Capacitación,Atención al cliente,0,24,Todas
+EV-00379,2024-08-27,2024,8,E005,Capacitación,Atención al cliente,0,8,Todas
+EV-00380,2024-08-14,2024,8,E022,Capacitación,ESG y sostenibilidad,0,24,Todas
+EV-00381,2024-08-09,2024,8,E007,Capacitación,Seguridad laboral,0,4,Todas
+EV-00382,2024-08-22,2024,8,E022,Capacitación,Seguridad laboral,0,16,Todas
+EV-00383,2024-08-17,2024,8,E007,Capacitación,Excel / herramientas,0,8,Todas
+EV-00384,2024-08-24,2024,8,E022,Capacitación,Técnico especialización,0,16,Todas
+EV-00385,2024-09-22,2024,9,E014,Accidente Laboral,Lesión lumbar por carga,1,0,Taller
+EV-00386,2024-09-15,2024,9,E017,Capacitación,Seguridad laboral,0,8,Todas
+EV-00387,2024-09-03,2024,9,E004,Capacitación,Productos nuevos,0,8,Todas
+EV-00388,2024-09-15,2024,9,E001,Capacitación,Seguridad laboral,0,24,Todas
+EV-00389,2024-09-17,2024,9,E013,Capacitación,Técnico especialización,0,8,Todas
+EV-00390,2024-09-26,2024,9,E012,Capacitación,Seguridad laboral,0,8,Todas
+EV-00391,2024-09-14,2024,9,E005,Capacitación,Excel / herramientas,0,8,Todas
+EV-00392,2024-09-23,2024,9,E014,Capacitación,Atención al cliente,0,16,Todas
+EV-00393,2024-09-02,2024,9,E019,Capacitación,Seguridad laboral,0,8,Todas
+EV-00394,2024-09-22,2024,9,E017,Capacitación,Excel / herramientas,0,4,Todas
+EV-00395,2024-09-24,2024,9,E015,Capacitación,Técnico especialización,0,8,Todas
+EV-00396,2024-09-03,2024,9,E013,Capacitación,ESG y sostenibilidad,0,24,Todas
+EV-00397,2024-10-25,2024,10,E007,Accidente Laboral,Golpe con estantería,7,0,Logística
+EV-00398,2024-10-21,2024,10,E022,Capacitación,ESG y sostenibilidad,0,16,Todas
+EV-00399,2024-10-23,2024,10,E015,Capacitación,ESG y sostenibilidad,0,8,Todas
+EV-00400,2024-10-17,2024,10,E018,Capacitación,Productos nuevos,0,4,Todas
+EV-00401,2024-10-05,2024,10,E022,Capacitación,ESG y sostenibilidad,0,4,Todas
+EV-00402,2024-10-13,2024,10,E002,Capacitación,Atención al cliente,0,4,Todas
+EV-00403,2024-10-05,2024,10,E020,Capacitación,Técnico especialización,0,16,Todas
+EV-00404,2024-10-08,2024,10,E012,Capacitación,ESG y sostenibilidad,0,16,Todas
+EV-00405,2024-11-18,2024,11,E023,Capacitación,Productos nuevos,0,4,Todas
+EV-00406,2024-11-18,2024,11,E018,Capacitación,Atención al cliente,0,16,Todas
+EV-00407,2024-11-12,2024,11,E017,Capacitación,Excel / herramientas,0,8,Todas
+EV-00408,2024-11-03,2024,11,E019,Capacitación,Seguridad laboral,0,16,Todas
+EV-00409,2024-11-10,2024,11,E008,Capacitación,Técnico especialización,0,8,Todas
+EV-00410,2024-11-17,2024,11,E001,Capacitación,Productos nuevos,0,16,Todas
+EV-00411,2024-11-07,2024,11,E021,Capacitación,Atención al cliente,0,16,Todas
+EV-00412,2024-11-15,2024,11,E016,Capacitación,Excel / herramientas,0,8,Todas
+EV-00413,2024-11-13,2024,11,E002,Capacitación,Productos nuevos,0,16,Todas
+EV-00414,2024-11-14,2024,11,E018,Capacitación,ESG y sostenibilidad,0,24,Todas
+EV-00415,2024-12-12,2024,12,E008,Accidente Laboral,Caída leve en depósito,2,0,Taller
+EV-00416,2024-12-03,2024,12,E016,Accidente Laboral,Golpe con estantería,5,0,Taller
+EV-00417,2024-12-08,2024,12,E019,Capacitación,Productos nuevos,0,4,Todas
+EV-00418,2024-12-14,2024,12,E002,Capacitación,Atención al cliente,0,24,Todas
+EV-00419,2024-12-21,2024,12,E016,Capacitación,Técnico especialización,0,4,Todas
+EV-00420,2024-12-04,2024,12,E015,Capacitación,Productos nuevos,0,4,Todas
+EV-00421,2024-12-13,2024,12,E005,Capacitación,Seguridad laboral,0,16,Todas
+EV-00422,2025-01-16,2025,1,E022,Accidente Laboral,Caída leve en depósito,7,0,Taller
+EV-00423,2025-01-22,2025,1,E012,Capacitación,Técnico especialización,0,4,Todas
+EV-00424,2025-01-18,2025,1,E022,Capacitación,Seguridad laboral,0,8,Todas
+EV-00425,2025-01-12,2025,1,E020,Capacitación,ESG y sostenibilidad,0,4,Todas
+EV-00426,2025-01-06,2025,1,E001,Capacitación,Excel / herramientas,0,4,Todas
+EV-00427,2025-01-22,2025,1,E020,Capacitación,ESG y sostenibilidad,0,4,Todas
+EV-00428,2025-01-10,2025,1,E019,Capacitación,Productos nuevos,0,16,Todas
+EV-00429,2025-02-08,2025,2,E023,Capacitación,Atención al cliente,0,4,Todas
+EV-00430,2025-02-19,2025,2,E008,Capacitación,Atención al cliente,0,4,Todas
+EV-00431,2025-02-04,2025,2,E004,Capacitación,Atención al cliente,0,4,Todas
+EV-00432,2025-02-18,2025,2,E021,Capacitación,Técnico especialización,0,4,Todas
+EV-00433,2025-02-15,2025,2,E022,Capacitación,Técnico especialización,0,24,Todas
+EV-00434,2025-02-06,2025,2,E015,Capacitación,Excel / herramientas,0,16,Todas
+EV-00435,2025-02-22,2025,2,E024,Capacitación,ESG y sostenibilidad,0,4,Todas
+EV-00436,2025-02-01,2025,2,E013,Capacitación,Productos nuevos,0,4,Todas
+EV-00437,2025-02-19,2025,2,E001,Capacitación,Técnico especialización,0,24,Todas
+EV-00438,2025-02-27,2025,2,E015,Capacitación,Productos nuevos,0,8,Todas
+EV-00439,2025-02-13,2025,2,E012,Capacitación,Técnico especialización,0,4,Todas
+EV-00440,2025-02-25,2025,2,E004,Capacitación,Productos nuevos,0,24,Todas
+EV-00441,2025-02-09,2025,2,E017,Capacitación,Atención al cliente,0,16,Todas
+EV-00442,2025-02-27,2025,2,E002,Capacitación,Seguridad laboral,0,24,Todas
+EV-00443,2025-03-05,2025,3,E021,Capacitación,ESG y sostenibilidad,0,4,Todas
+EV-00444,2025-03-18,2025,3,E022,Capacitación,Seguridad laboral,0,8,Todas
+EV-00445,2025-03-17,2025,3,E017,Capacitación,Productos nuevos,0,16,Todas
+EV-00446,2025-03-03,2025,3,E004,Capacitación,ESG y sostenibilidad,0,8,Todas
+EV-00447,2025-03-14,2025,3,E024,Capacitación,Excel / herramientas,0,4,Todas
+EV-00448,2025-03-01,2025,3,E022,Capacitación,Excel / herramientas,0,16,Todas
+EV-00449,2025-03-24,2025,3,E013,Capacitación,Atención al cliente,0,4,Todas
+EV-00450,2025-04-20,2025,4,E005,Capacitación,Técnico especialización,0,4,Todas
+EV-00451,2025-04-08,2025,4,E012,Capacitación,Técnico especialización,0,4,Todas
+EV-00452,2025-04-01,2025,4,E015,Capacitación,Atención al cliente,0,24,Todas
+EV-00453,2025-04-21,2025,4,E022,Capacitación,Técnico especialización,0,8,Todas
+EV-00454,2025-04-15,2025,4,E022,Capacitación,Excel / herramientas,0,24,Todas
+EV-00455,2025-04-05,2025,4,E002,Capacitación,Productos nuevos,0,24,Todas
+EV-00456,2025-05-20,2025,5,E019,Accidente Laboral,Golpe con estantería,7,0,Logística
+EV-00457,2025-05-25,2025,5,E013,Accidente Laboral,Golpe con estantería,7,0,Logística
+EV-00458,2025-05-02,2025,5,E001,Capacitación,Técnico especialización,0,8,Todas
+EV-00459,2025-05-09,2025,5,E022,Capacitación,Técnico especialización,0,4,Todas
+EV-00460,2025-05-03,2025,5,E021,Capacitación,Excel / herramientas,0,16,Todas
+EV-00461,2025-05-24,2025,5,E021,Capacitación,Seguridad laboral,0,16,Todas
+EV-00462,2025-05-28,2025,5,E012,Capacitación,Excel / herramientas,0,4,Todas
+EV-00463,2025-05-25,2025,5,E023,Capacitación,Productos nuevos,0,24,Todas
+EV-00464,2025-05-25,2025,5,E001,Capacitación,ESG y sostenibilidad,0,4,Todas
+EV-00465,2025-05-27,2025,5,E022,Capacitación,Técnico especialización,0,4,Todas
+EV-00466,2025-05-21,2025,5,E024,Capacitación,Atención al cliente,0,8,Todas
+EV-00467,2025-05-25,2025,5,E004,Capacitación,ESG y sostenibilidad,0,4,Todas
+EV-00468,2025-05-04,2025,5,E004,Capacitación,Seguridad laboral,0,24,Todas
+EV-00469,2025-05-20,2025,5,E005,Capacitación,ESG y sostenibilidad,0,16,Todas
+EV-00470,2025-06-13,2025,6,E005,Capacitación,Atención al cliente,0,24,Todas
+EV-00471,2025-06-05,2025,6,E015,Capacitación,Seguridad laboral,0,4,Todas
+EV-00472,2025-06-05,2025,6,E019,Capacitación,Productos nuevos,0,16,Todas
+EV-00473,2025-06-18,2025,6,E022,Capacitación,ESG y sostenibilidad,0,4,Todas
+EV-00474,2025-06-06,2025,6,E019,Capacitación,Excel / herramientas,0,4,Todas
+EV-00475,2025-06-06,2025,6,E012,Capacitación,Atención al cliente,0,4,Todas
+EV-00476,2025-06-09,2025,6,E017,Capacitación,Productos nuevos,0,24,Todas
+EV-00477,2025-07-23,2025,7,E014,Accidente Laboral,Golpe con estantería,2,0,Taller
+EV-00478,2025-07-17,2025,7,E025,Capacitación,Atención al cliente,0,24,Todas
+EV-00479,2025-07-19,2025,7,E022,Capacitación,Excel / herramientas,0,24,Todas
+EV-00480,2025-07-07,2025,7,E015,Capacitación,Atención al cliente,0,8,Todas
+EV-00481,2025-07-28,2025,7,E024,Capacitación,ESG y sostenibilidad,0,8,Todas
+EV-00482,2025-07-20,2025,7,E024,Capacitación,ESG y sostenibilidad,0,16,Todas
+EV-00483,2025-07-26,2025,7,E025,Capacitación,ESG y sostenibilidad,0,24,Todas
+EV-00484,2025-08-18,2025,8,E021,Capacitación,Atención al cliente,0,16,Todas
+EV-00485,2025-08-22,2025,8,E017,Capacitación,ESG y sostenibilidad,0,24,Todas
+EV-00486,2025-08-07,2025,8,E021,Capacitación,Atención al cliente,0,4,Todas
+EV-00487,2025-08-16,2025,8,E025,Capacitación,Productos nuevos,0,4,Todas
+EV-00488,2025-08-04,2025,8,E016,Capacitación,Atención al cliente,0,16,Todas
+EV-00489,2025-08-24,2025,8,E004,Capacitación,ESG y sostenibilidad,0,8,Todas
+EV-00490,2025-08-20,2025,8,E005,Capacitación,Atención al cliente,0,16,Todas
+EV-00491,2025-08-19,2025,8,E018,Capacitación,Técnico especialización,0,4,Todas
+EV-00492,2025-08-11,2025,8,E019,Capacitación,ESG y sostenibilidad,0,4,Todas
+EV-00493,2025-08-20,2025,8,E021,Capacitación,Productos nuevos,0,8,Todas
+EV-00494,2025-08-17,2025,8,E002,Capacitación,Seguridad laboral,0,8,Todas
+EV-00495,2025-08-11,2025,8,E007,Capacitación,Productos nuevos,0,16,Todas
+EV-00496,2025-09-27,2025,9,E001,Accidente Laboral,Golpe con estantería,3,0,Logística
+EV-00497,2025-09-01,2025,9,E007,Capacitación,Seguridad laboral,0,24,Todas
+EV-00498,2025-09-02,2025,9,E004,Capacitación,Seguridad laboral,0,24,Todas
+EV-00499,2025-09-28,2025,9,E024,Capacitación,ESG y sostenibilidad,0,24,Todas
+EV-00500,2025-09-21,2025,9,E015,Capacitación,Excel / herramientas,0,24,Todas
+EV-00501,2025-09-10,2025,9,E025,Capacitación,Atención al cliente,0,4,Todas
+EV-00502,2025-09-25,2025,9,E020,Capacitación,ESG y sostenibilidad,0,8,Todas
+EV-00503,2025-09-15,2025,9,E019,Capacitación,Productos nuevos,0,4,Todas
+EV-00504,2025-09-06,2025,9,E014,Capacitación,Atención al cliente,0,16,Todas
+EV-00505,2025-09-12,2025,9,E001,Capacitación,ESG y sostenibilidad,0,4,Todas
+EV-00506,2025-09-14,2025,9,E025,Capacitación,Excel / herramientas,0,16,Todas
+EV-00507,2025-09-11,2025,9,E013,Capacitación,Técnico especialización,0,8,Todas
+EV-00508,2025-09-03,2025,9,E007,Capacitación,Seguridad laboral,0,24,Todas
+EV-00509,2025-10-18,2025,10,E016,Accidente Laboral,Lesión lumbar por carga,7,0,Taller
+EV-00510,2025-10-04,2025,10,E015,Capacitación,ESG y sostenibilidad,0,8,Todas
+EV-00511,2025-10-09,2025,10,E002,Capacitación,Seguridad laboral,0,4,Todas
+EV-00512,2025-10-17,2025,10,E021,Capacitación,Productos nuevos,0,4,Todas
+EV-00513,2025-10-24,2025,10,E004,Capacitación,Seguridad laboral,0,4,Todas
+EV-00514,2025-10-10,2025,10,E023,Capacitación,Seguridad laboral,0,16,Todas
+EV-00515,2025-10-12,2025,10,E015,Capacitación,Seguridad laboral,0,4,Todas
+EV-00516,2025-10-28,2025,10,E018,Capacitación,Atención al cliente,0,16,Todas
+EV-00517,2025-10-10,2025,10,E025,Capacitación,Técnico especialización,0,8,Todas
+EV-00518,2025-10-05,2025,10,E007,Capacitación,Productos nuevos,0,16,Todas
+EV-00519,2025-11-02,2025,11,E005,Capacitación,Seguridad laboral,0,8,Todas
+EV-00520,2025-11-28,2025,11,E016,Capacitación,Excel / herramientas,0,8,Todas
+EV-00521,2025-11-16,2025,11,E021,Capacitación,ESG y sostenibilidad,0,4,Todas
+EV-00522,2025-11-02,2025,11,E007,Capacitación,Excel / herramientas,0,4,Todas
+EV-00523,2025-11-20,2025,11,E025,Capacitación,ESG y sostenibilidad,0,24,Todas
+EV-00524,2025-11-17,2025,11,E004,Capacitación,Productos nuevos,0,4,Todas
+EV-00525,2025-11-12,2025,11,E001,Capacitación,Atención al cliente,0,8,Todas
+EV-00526,2025-12-05,2025,12,E019,Accidente Laboral,Corte leve manipulando embalaje,3,0,Taller
+EV-00527,2025-12-02,2025,12,E024,Capacitación,Excel / herramientas,0,24,Todas
+EV-00528,2025-12-21,2025,12,E005,Capacitación,ESG y sostenibilidad,0,8,Todas
+EV-00529,2025-12-12,2025,12,E004,Capacitación,Excel / herramientas,0,16,Todas
+EV-00530,2025-12-28,2025,12,E005,Capacitación,ESG y sostenibilidad,0,24,Todas
+EV-00531,2025-12-17,2025,12,E005,Capacitación,Productos nuevos,0,4,Todas
+EV-00532,2025-12-16,2025,12,E018,Capacitación,ESG y sostenibilidad,0,4,Todas
+EV-00533,2025-12-21,2025,12,E024,Capacitación,Técnico especialización,0,4,Todas
+EV-00534,2025-12-06,2025,12,E004,Capacitación,Excel / herramientas,0,4,Todas
+EV-00535,2025-12-06,2025,12,E022,Capacitación,Atención al cliente,0,8,Todas
+EV-00536,2025-12-09,2025,12,E023,Capacitación,ESG y sostenibilidad,0,24,Todas
+EV-00537,2025-12-24,2025,12,E021,Capacitación,Atención al cliente,0,24,Todas
